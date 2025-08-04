@@ -23,6 +23,38 @@ def _get_version() -> str:
         return version(__name__)
 
 
+class LLVMContext:
+    pass
+
+
+class LLVMModule:
+    pass
+
+
+class LLVMValue:
+    pass
+
+
+class LLVMType:
+    pass
+
+
+class LLVMFunction(LLVMModule):
+    pass
+
+
+class LLVMGlobalVariable(LLVMModule):
+    pass
+
+
+class LLVMInstruction(LLVMModule):
+    pass
+
+
+class LLVMUse:
+    pass
+
+
 class LLVMCPy:
     def __init__(self, llvm_config: Optional[str] = None):
         self._search_paths = os.environ.get("PATH", os.defpath).split(os.pathsep)

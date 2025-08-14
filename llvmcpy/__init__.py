@@ -39,15 +39,19 @@ class LLVMType:
     pass
 
 
-class LLVMFunction(LLVMModule):
+class LLVMFunction(LLVMValue):
     pass
 
 
-class LLVMGlobalVariable(LLVMModule):
+class LLVMBasicBlock:
     pass
 
 
-class LLVMInstruction(LLVMModule):
+class LLVMGlobalVariable(LLVMValue):
+    pass
+
+
+class LLVMInstruction(LLVMValue):
     pass
 
 

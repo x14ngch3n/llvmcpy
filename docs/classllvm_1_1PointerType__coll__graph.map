@@ -1,0 +1,12 @@
+<map id="llvm::PointerType" name="llvm::PointerType">
+<area shape="rect" id="Node000001" title=" " alt="" coords="16,327,139,353"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1SequentialType.html" title=" " alt="" coords="6,252,149,278"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="80,293,80,327,75,327,75,293"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1CompositeType.html" title=" " alt="" coords="5,177,150,203"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="80,218,80,252,75,252,75,218"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1Type.html" title=" " alt="" coords="37,102,118,128"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="80,143,80,177,75,177,75,143"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="135,107,145,115,136,123,119,125,118,119,134,118,140,115,132,111"/>
+<area shape="rect" id="Node000005" href="$classunsigned.html" title=" " alt="" coords="41,5,114,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="80,46,80,101,75,101,75,46"/>
+</map>

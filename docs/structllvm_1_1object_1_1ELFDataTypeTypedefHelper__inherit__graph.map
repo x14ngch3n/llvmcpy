@@ -1,0 +1,9 @@
+<map id="llvm::object::ELFDataTypeTypedefHelper&lt; ELFT &gt;" name="llvm::object::ELFDataTypeTypedefHelper&lt; ELFT &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,85,182,126"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1object_1_1ELFDataTypeTypedefHelper.html" title=" " alt="" coords="460,5,587,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="146,76,205,54,272,40,340,31,459,23,459,29,341,36,273,45,206,59,147,81"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1object_1_1ELFDataTypeTypedefHelper_3_01ELFType_3_01TargetEndianness_00_01MaxAlign_00_01false_01_4_01_4.html" title="ELF 32bit types." alt="" coords="422,70,625,141"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="197,103,421,103,421,108,197,108"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1object_1_1ELFDataTypeTypedefHelper_3_01ELFType_3_01TargetEndianness_00_01MaxAlign_00_01true_01_4_01_4.html" title="ELF 64bit types." alt="" coords="422,165,625,236"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="150,130,206,152,317,176,422,190,421,195,316,181,205,157,148,135"/>
+</map>

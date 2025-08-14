@@ -1,0 +1,37 @@
+<map id="XCoreInstrInfo.h" name="XCoreInstrInfo.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="569,5,686,31"/>
+<area shape="rect" id="Node000002" href="$XCoreAsmPrinter_8cpp.html" title=" " alt="" coords="394,226,541,252"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="553,27,416,40,252,64,174,81,104,101,49,126,28,140,13,154,9,164,10,172,18,181,31,188,74,202,131,213,267,227,393,233,393,239,267,232,130,218,73,207,29,193,15,185,5,175,3,163,9,151,25,135,46,121,102,96,172,75,251,58,415,34,553,21"/>
+<area shape="rect" id="Node000003" href="$XCoreFrameLowering_8cpp.html" title=" " alt="" coords="24,153,196,178"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="570,38,154,155,153,149,569,33"/>
+<area shape="rect" id="Node000004" href="$XCoreFrameToArgsOffsetElim_8cpp.html" title=" " alt="" coords="220,153,443,178"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="590,41,357,154,355,150,588,36"/>
+<area shape="rect" id="Node000005" href="$XCoreInstrInfo_8cpp.html" title=" " alt="" coords="764,79,896,105"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="677,34,796,76,794,81,675,39"/>
+<area shape="rect" id="Node000006" href="$XCoreMachineFunctionInfo_8cpp.html" title=" " alt="" coords="920,79,1124,105"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="702,30,955,76,954,81,701,35"/>
+<area shape="rect" id="Node000007" href="$XCoreRegisterInfo_8cpp.html" title=" " alt="" coords="1113,153,1267,178"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="653,39,698,73,753,102,894,124,1113,152,1112,157,893,129,752,107,695,77,650,43"/>
+<area shape="rect" id="Node000008" href="$XCoreSubtarget_8h.html" title=" " alt="" coords="565,79,690,105"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="630,46,630,79,625,79,625,46"/>
+<area shape="poly" id="edge8_Node000008_Node000002" title=" " alt="" coords="705,105,776,124,804,137,823,151,828,166,822,180,788,191,716,204,542,230,541,225,715,199,787,186,819,176,823,166,818,154,802,141,774,129,704,110"/>
+<area shape="poly" id="edge9_Node000008_Node000003" title=" " alt="" coords="550,106,197,155,196,150,549,101"/>
+<area shape="poly" id="edge10_Node000008_Node000004" title=" " alt="" coords="563,111,382,155,381,149,561,106"/>
+<area shape="poly" id="edge12_Node000008_Node000007" title=" " alt="" coords="706,102,709,102,1113,152,1112,157,708,107,705,107"/>
+<area shape="rect" id="Node000009" href="$XCoreISelLowering_8cpp.html" title=" " alt="" coords="1172,226,1330,252"/>
+<area shape="poly" id="edge11_Node000008_Node000009" title=" " alt="" coords="706,103,803,113,880,117,957,126,1051,150,1077,162,1102,176,1219,223,1217,228,1099,181,1074,167,1049,155,956,132,880,123,803,118,705,108"/>
+<area shape="rect" id="Node000010" href="$XCoreSubtarget_8cpp.html" title=" " alt="" coords="467,153,606,178"/>
+<area shape="poly" id="edge13_Node000008_Node000010" title=" " alt="" coords="602,117,553,154,550,150,598,112"/>
+<area shape="rect" id="Node000011" href="$XCoreTargetMachine_8h.html" title=" " alt="" coords="883,153,1038,178"/>
+<area shape="poly" id="edge14_Node000008_Node000011" title=" " alt="" coords="700,106,904,149,903,155,699,111"/>
+<area shape="rect" id="Node000015" href="$XCoreTargetObjectFile_8cpp.html" title=" " alt="" coords="630,153,808,178"/>
+<area shape="poly" id="edge20_Node000008_Node000015" title=" " alt="" coords="656,112,705,150,702,154,653,117"/>
+<area shape="poly" id="edge15_Node000011_Node000002" title=" " alt="" coords="869,183,542,230,541,225,868,177"/>
+<area shape="poly" id="edge17_Node000011_Node000009" title=" " alt="" coords="1025,180,1202,223,1201,228,1024,185"/>
+<area shape="rect" id="Node000012" href="$XCoreISelDAGToDAG_8cpp.html" title=" " alt="" coords="970,226,1148,252"/>
+<area shape="poly" id="edge16_Node000011_Node000012" title=" " alt="" coords="991,186,1044,224,1041,228,988,190"/>
+<area shape="rect" id="Node000013" href="$XCoreSelectionDAGInfo_8cpp.html" title=" " alt="" coords="565,226,753,252"/>
+<area shape="poly" id="edge18_Node000011_Node000013" title=" " alt="" coords="895,185,711,228,710,223,894,180"/>
+<area shape="rect" id="Node000014" href="$XCoreTargetMachine_8cpp.html" title=" " alt="" coords="778,226,946,252"/>
+<area shape="poly" id="edge19_Node000011_Node000014" title=" " alt="" coords="933,190,880,228,877,224,930,186"/>
+</map>

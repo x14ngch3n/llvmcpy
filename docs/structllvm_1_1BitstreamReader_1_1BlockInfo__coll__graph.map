@@ -1,0 +1,11 @@
+<map id="llvm::BitstreamReader::BlockInfo" name="llvm::BitstreamReader::BlockInfo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="361,84,512,125"/>
+<area shape="rect" id="Node000002" href="$classunsigned.html" title=" " alt="" coords="76,5,150,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="166,21,247,35,338,57,397,82,395,86,336,62,246,40,165,27"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,55,221,96"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="237,84,360,95,360,101,236,89"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="86,120,140,146"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="155,132,239,132,336,125,360,121,361,127,337,130,239,137,155,137"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="29,170,197,210"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="211,184,274,176,336,160,373,143,405,123,408,128,375,148,338,165,275,181,212,189"/>
+</map>

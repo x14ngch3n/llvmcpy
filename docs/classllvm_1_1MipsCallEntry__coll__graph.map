@@ -1,0 +1,7 @@
+<map id="llvm::MipsCallEntry" name="llvm::MipsCallEntry">
+<area shape="rect" id="Node000001" title="A class derived from PseudoSourceValue that represents a GOT entry resolved by lazy&#45;binding." alt="" coords="23,177,158,203"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1PseudoSourceValue.html" title=" " alt="" coords="5,102,176,128"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="93,143,93,177,88,177,88,143"/>
+<area shape="rect" id="Node000003" href="$classbool.html" title=" " alt="" coords="68,5,113,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="93,46,93,101,88,101,88,46"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="llvm::ARMHazardRecognizer" name="llvm::ARMHazardRecognizer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="23,252,215,278"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1ScoreboardHazardRecognizer.html" title=" " alt="" coords="5,177,233,203"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="122,218,122,252,116,252,116,218"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1ScheduleHazardRecognizer.html" title=" " alt="" coords="11,102,227,128"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="122,143,122,177,116,177,116,143"/>
+<area shape="rect" id="Node000004" href="$classunsigned.html" title=" " alt="" coords="82,5,156,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="122,46,122,101,116,101,116,46"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="llvm::IntervalMap&lt; KeyT, ValT, N, Traits &gt;" name="llvm::IntervalMap&lt; KeyT, ValT, N, Traits &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,71,163,111"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1IntervalMap.html" title=" " alt="" coords="382,5,558,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,64,186,60,287,43,381,31,381,37,287,49,187,66,172,69"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1IntervalMap.html" title=" " alt="" coords="386,71,554,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="178,88,386,88,386,94,178,94"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1IntervalMap.html" title=" " alt="" coords="394,136,546,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="171,113,187,117,295,135,394,147,393,152,294,140,186,122,170,118"/>
+</map>

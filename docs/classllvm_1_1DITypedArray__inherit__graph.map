@@ -1,0 +1,9 @@
+<map id="llvm::DITypedArray&lt; T &gt;" name="llvm::DITypedArray&lt; T &gt;">
+<area shape="rect" id="Node000001" title="This descriptor holds an array of nodes with type T." alt="" coords="68,80,233,106"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1DITypedArray.html" title=" " alt="" coords="5,177,139,218"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="112,117,96,132,84,154,77,177,72,176,79,152,92,128,109,113"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1DITypedArray.html" title=" " alt="" coords="163,177,296,218"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="186,113,202,128,217,152,226,176,221,178,212,154,198,132,183,117"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1DIDescriptor.html" title="A thin wraper around MDNode to access encoded debug info." alt="" coords="87,5,214,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="153,46,153,80,148,80,148,46"/>
+</map>

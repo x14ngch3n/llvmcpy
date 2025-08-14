@@ -1,0 +1,9 @@
+<map id="llvm::AMDGPURegisterInfo" name="llvm::AMDGPURegisterInfo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="77,79,260,105"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1R600RegisterInfo.html" title=" " alt="" coords="5,153,161,178"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="144,117,99,154,96,150,141,113"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1SIRegisterInfo.html" title=" " alt="" coords="185,153,322,178"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="196,113,241,150,238,154,193,117"/>
+<area shape="rect" id="Node000002" href="$classAMDGPUGenRegisterInfo.html" title=" " alt="" coords="81,5,256,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,46,171,79,166,79,166,46"/>
+</map>

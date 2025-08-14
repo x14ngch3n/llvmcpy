@@ -1,0 +1,7 @@
+<map id="ModRMDecision" name="ModRMDecision">
+<area shape="rect" id="Node000001" title=" " alt="" coords="31,102,149,128"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,66,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="34,47,34,62,39,77,50,90,64,99,60,104,46,93,34,79,29,63,28,47"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="112,5,180,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="137,47,119,79,102,103,98,100,115,77,132,44"/>
+</map>

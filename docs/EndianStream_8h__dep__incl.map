@@ -1,0 +1,15 @@
+<map id="EndianStream.h" name="EndianStream.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="184,5,298,31"/>
+<area shape="rect" id="Node000002" href="$InstrProfReader_8h.html" title=" " alt="" coords="103,153,227,178"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,41,179,58,162,80,157,98,156,118,163,152,158,153,151,118,151,98,157,78,175,54,198,37"/>
+<area shape="rect" id="Node000005" href="$InstrProfWriter_8cpp.html" title=" " alt="" coords="267,153,396,178"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="282,37,306,55,325,78,332,97,336,118,336,152,331,152,331,118,327,99,320,80,302,58,279,41"/>
+<area shape="rect" id="Node000006" href="$OnDiskHashTable_8h.html" title="Defines facilities for reading and writing on&#45;disk hash tables." alt="" coords="172,79,310,105"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="244,46,244,79,238,79,238,46"/>
+<area shape="rect" id="Node000003" href="$CoverageMapping_8cpp.html" title=" " alt="" coords="5,226,157,252"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="141,190,97,228,93,224,138,186"/>
+<area shape="rect" id="Node000004" href="$InstrProfReader_8cpp.html" title=" " alt="" coords="180,226,318,252"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="192,186,237,224,233,228,189,190"/>
+<area shape="poly" id="edge6_Node000006_Node000002" title=" " alt="" coords="219,117,180,154,176,150,215,114"/>
+<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="270,112,318,150,315,154,266,117"/>
+</map>

@@ -1,0 +1,41 @@
+<map id="llvm::yaml::ScalarEnumerationTraits&lt; T &gt;" name="llvm::yaml::ScalarEnumerationTraits&lt; T &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,634,205,675"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1yaml_1_1ScalarEnumerationTraits_3_01COFF_1_1MachineTypes_01_4.html" title=" " alt="" coords="522,37,728,77"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,618,117,498,139,338,155,258,175,186,198,127,212,105,227,88,260,65,296,47,335,36,375,29,456,26,529,33,528,39,455,32,376,34,336,41,298,52,263,69,230,92,216,108,203,130,180,188,160,259,144,339,122,498,111,619"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1yaml_1_1ScalarEnumerationTraits_3_01COFF_1_1RelocationTypeAMD64_01_4.html" title=" " alt="" coords="497,102,754,143"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="107,619,120,511,144,372,160,302,179,239,201,189,227,155,246,143,272,134,340,122,418,116,497,115,497,121,418,122,340,127,274,139,248,148,230,159,206,191,184,241,165,303,149,373,126,512,112,619"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1yaml_1_1ScalarEnumerationTraits_3_01COFF_1_1RelocationTypeI386_01_4.html" title=" " alt="" coords="507,167,744,208"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="109,618,124,524,149,405,165,346,184,293,204,250,227,222,247,210,274,201,345,188,426,183,506,181,506,187,426,188,345,194,276,206,249,215,230,226,209,253,189,295,170,347,154,406,129,525,114,619"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1yaml_1_1ScalarEnumerationTraits_3_01COFF_1_1SymbolBaseType_01_4.html" title=" " alt="" coords="513,233,738,273"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="104,618,109,547,127,456,143,409,164,364,192,323,227,288,248,276,276,267,348,255,432,249,513,248,513,253,432,254,349,260,277,272,250,281,230,292,196,327,169,367,148,411,132,458,115,547,109,619"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1yaml_1_1ScalarEnumerationTraits_3_01COFF_1_1SymbolComplexType_01_4.html" title=" " alt="" coords="502,298,748,339"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="107,618,117,559,137,486,153,449,173,414,197,382,227,355,247,344,274,335,343,323,423,317,502,314,502,320,423,322,344,328,276,340,249,349,230,359,201,386,177,417,158,452,143,488,122,560,112,619"/>
+<area shape="rect" id="Node000007" href="$structllvm_1_1yaml_1_1ScalarEnumerationTraits_3_01COFF_1_1SymbolStorageClass_01_4.html" title=" " alt="" coords="503,363,748,404"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="111,618,125,571,148,517,181,463,203,440,227,420,248,410,275,402,344,390,424,383,502,381,502,386,424,389,345,395,276,407,250,415,230,425,206,444,186,467,153,519,130,573,116,619"/>
+<area shape="rect" id="Node000008" href="$structllvm_1_1yaml_1_1ScalarEnumerationTraits_3_01COFF_1_1WindowsSubsystem_01_4.html" title=" " alt="" coords="504,429,746,469"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="118,619,135,584,159,546,190,509,227,480,276,464,346,453,504,446,504,451,346,459,278,469,230,485,193,513,163,549,139,587,123,621"/>
+<area shape="rect" id="Node000009" href="$structllvm_1_1yaml_1_1ScalarEnumerationTraits_3_01COFFYAML_1_1AuxSymbolType_01_4.html" title=" " alt="" coords="500,494,751,535"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="133,621,175,584,200,566,228,552,295,530,366,516,435,509,499,506,499,511,435,514,366,521,297,535,230,557,203,571,178,588,136,625"/>
+<area shape="rect" id="Node000010" href="$structllvm_1_1yaml_1_1ScalarEnumerationTraits_3_01COFFYAML_1_1COMDATType_01_4.html" title=" " alt="" coords="505,559,746,600"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="166,625,228,606,299,594,371,585,504,577,504,583,371,591,299,599,229,612,168,630"/>
+<area shape="rect" id="Node000011" href="$structllvm_1_1yaml_1_1ScalarEnumerationTraits_3_01COFFYAML_1_1WeakExternalCharacteristics_01_4.html" title=" " alt="" coords="463,625,788,665"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="220,652,439,650,462,649,462,654,439,655,220,657"/>
+<area shape="rect" id="Node000012" href="$structllvm_1_1yaml_1_1ScalarEnumerationTraits_3_01ELFYAML_1_1ELF__ELFCLASS_01_4.html" title=" " alt="" coords="504,690,747,731"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="204,676,229,680,371,696,503,704,503,710,371,701,228,685,203,681"/>
+<area shape="rect" id="Node000013" href="$structllvm_1_1yaml_1_1ScalarEnumerationTraits_3_01ELFYAML_1_1ELF__ELFDATA_01_4.html" title=" " alt="" coords="510,755,741,796"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="145,682,184,708,230,730,300,749,373,763,445,770,510,774,509,779,444,776,372,768,299,755,228,735,182,713,142,686"/>
+<area shape="rect" id="Node000014" href="$structllvm_1_1yaml_1_1ScalarEnumerationTraits_3_01ELFYAML_1_1ELF__ELFOSABI_01_4.html" title=" " alt="" coords="505,821,746,861"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="127,687,168,746,197,775,230,798,297,825,368,841,439,848,505,849,505,854,439,853,367,846,295,830,227,802,194,779,164,749,122,690"/>
+<area shape="rect" id="Node000015" href="$structllvm_1_1yaml_1_1ScalarEnumerationTraits_3_01ELFYAML_1_1ELF__EM_01_4.html" title=" " alt="" coords="526,886,725,927"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="117,689,131,734,154,786,186,837,207,858,230,876,264,895,301,909,339,918,378,924,455,927,525,922,525,927,455,932,378,929,338,923,299,914,262,900,227,881,203,862,182,840,149,789,126,736,112,691"/>
+<area shape="rect" id="Node000016" href="$structllvm_1_1yaml_1_1ScalarEnumerationTraits_3_01ELFYAML_1_1ELF__ET_01_4.html" title=" " alt="" coords="526,951,725,992"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="111,690,120,750,140,824,156,862,176,897,200,929,230,955,266,976,305,990,346,999,388,1003,470,1001,542,990,543,995,470,1006,388,1008,345,1004,304,995,264,981,227,960,196,932,171,900,151,864,135,826,115,751,106,691"/>
+<area shape="rect" id="Node000017" href="$structllvm_1_1yaml_1_1ScalarEnumerationTraits_3_01ELFYAML_1_1ELF__REL_01_4.html" title=" " alt="" coords="525,1017,726,1057"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="108,690,111,765,117,811,128,860,143,909,165,956,193,998,230,1032,251,1043,280,1050,356,1056,442,1053,524,1047,525,1052,442,1059,355,1061,279,1055,249,1048,227,1037,189,1001,160,959,138,911,123,862,112,812,106,765,103,690"/>
+<area shape="rect" id="Node000018" href="$structllvm_1_1yaml_1_1ScalarEnumerationTraits_3_01ELFYAML_1_1ELF__SHT_01_4.html" title=" " alt="" coords="524,1082,726,1123"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="114,689,129,784,154,904,170,963,188,1016,208,1058,230,1085,251,1096,280,1104,355,1112,441,1113,524,1109,524,1114,441,1118,354,1117,279,1109,249,1100,227,1089,204,1061,183,1018,164,965,148,905,123,785,108,690"/>
+<area shape="rect" id="Node000019" href="$structllvm_1_1yaml_1_1ScalarEnumerationTraits_3_01ELFYAML_1_1ELF__STT_01_4.html" title=" " alt="" coords="525,1147,726,1188"/>
+<area shape="poly" id="edge18_Node000001_Node000019" title=" " alt="" coords="113,690,126,796,149,933,165,1001,184,1062,206,1110,230,1142,265,1165,303,1181,343,1192,385,1197,467,1196,541,1186,542,1191,468,1202,384,1202,342,1197,301,1186,262,1170,227,1146,201,1113,179,1064,160,1002,144,934,120,796,107,690"/>
+<area shape="rect" id="Node000020" href="$structllvm_1_1yaml_1_1ScalarEnumerationTraits_3_01ELFYAML_1_1ELF__STV_01_4.html" title=" " alt="" coords="525,1213,726,1253"/>
+<area shape="poly" id="edge19_Node000001_Node000020" title=" " alt="" coords="111,690,121,813,142,976,158,1058,178,1131,202,1190,216,1212,230,1227,268,1251,309,1267,353,1275,399,1277,444,1275,487,1269,561,1251,562,1257,488,1274,444,1280,399,1282,353,1280,308,1272,265,1256,227,1231,211,1215,197,1192,173,1133,153,1059,137,977,116,813,106,690"/>
+</map>

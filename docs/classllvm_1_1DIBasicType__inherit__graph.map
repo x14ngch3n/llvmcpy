@@ -1,0 +1,9 @@
+<map id="llvm::DIBasicType" name="llvm::DIBasicType">
+<area shape="rect" id="Node000001" title="A basic type, like &#39;int&#39; or &#39;float&#39;." alt="" coords="5,226,134,252"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1DIType.html" title=" " alt="" coords="22,153,117,178"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="72,194,72,226,67,226,67,194"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1DIScope.html" title="A base class for various scopes." alt="" coords="17,79,122,105"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="72,120,72,152,67,152,67,120"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1DIDescriptor.html" title="A thin wraper around MDNode to access encoded debug info." alt="" coords="6,5,133,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="72,46,72,79,67,79,67,46"/>
+</map>

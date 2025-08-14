@@ -1,0 +1,5 @@
+<map id="llvm::sys::SmartScopedReader&lt; mt_only &gt;" name="llvm::sys::SmartScopedReader&lt; mt_only &gt;">
+<area shape="rect" id="Node000001" title="ScopedReader &#45; RAII acquisition of a reader lock." alt="" coords="5,102,209,143"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="8,5,206,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,46,110,102,104,102,104,46"/>
+</map>

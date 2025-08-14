@@ -1,0 +1,23 @@
+<map id="llvm::DefaultFoldingSetTrait&lt; T &gt;" name="llvm::DefaultFoldingSetTrait&lt; T &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,165,221,190"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1FoldingSetTrait_3_01T_01_5_01_4.html" title=" " alt="" coords="768,111,909,151"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,158,361,111,478,88,596,71,667,62,698,63,738,71,777,87,811,108,808,112,775,92,736,76,698,69,667,68,596,76,479,93,362,116,176,163"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1FoldingSetTrait_3_01std_1_1pair_3_01T1_00_01T2_01_4_01_4.html" title=" " alt="" coords="761,5,915,46"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="147,154,192,129,244,106,312,83,383,65,525,40,656,27,761,23,761,28,656,33,526,45,384,70,314,88,246,111,194,134,150,159"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1FoldingSetTrait.html" title=" " alt="" coords="394,165,567,190"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="236,175,393,175,393,180,236,180"/>
+<area shape="rect" id="Node000007" href="$structllvm_1_1DefaultFoldingSetTrait.html" title=" " alt="" coords="389,289,572,330"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="167,194,422,286,420,291,165,199"/>
+<area shape="rect" id="Node000008" href="$structllvm_1_1DefaultFoldingSetTrait.html" title=" " alt="" coords="389,355,572,395"/>
+<area shape="poly" id="edge11_Node000001_Node000008" title=" " alt="" coords="138,200,185,247,214,272,246,293,318,327,391,352,389,357,316,332,243,298,211,276,181,251,134,204"/>
+<area shape="poly" id="edge6_Node000004_Node000002" title=" " alt="" coords="582,166,737,147,767,142,768,148,737,153,583,171"/>
+<area shape="poly" id="edge7_Node000004_Node000003" title=" " alt="" coords="524,156,595,125,785,44,787,49,597,129,527,160"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1FoldingSetTrait_3_01SCEV_01_4.html" title=" " alt="" coords="768,289,909,330"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="576,191,669,210,738,231,782,258,817,287,814,291,779,262,736,236,667,216,575,196"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1FoldingSetTrait_3_01SDVTListNode_01_4.html" title=" " alt="" coords="768,355,909,395"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="511,198,551,229,597,260,678,302,762,339,790,352,787,357,760,344,676,307,595,264,548,233,507,202"/>
+<area shape="poly" id="edge9_Node000007_Node000005" title=" " alt="" coords="587,315,767,314,767,320,587,321"/>
+<area shape="poly" id="edge10_Node000007_Node000005" title=" " alt="" coords="587,299,767,300,767,305,587,304"/>
+<area shape="poly" id="edge12_Node000008_Node000006" title=" " alt="" coords="587,381,767,380,767,385,587,386"/>
+<area shape="poly" id="edge13_Node000008_Node000006" title=" " alt="" coords="587,364,767,365,767,370,587,369"/>
+</map>

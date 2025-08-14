@@ -1,0 +1,32 @@
+<map id="MCSectionCOFF.h" name="MCSectionCOFF.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="352,5,484,31"/>
+<area shape="rect" id="Node000002" href="$StringRef_8h.html" title=" " alt="" coords="345,153,491,178"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="421,31,421,137,416,137,416,31"/>
+<area shape="rect" id="Node000009" href="$MCSection_8h.html" title=" " alt="" coords="486,79,636,105"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="444,29,524,69,522,74,441,34"/>
+<area shape="rect" id="Node000013" href="$Support_2COFF_8h.html" title=" " alt="" coords="173,153,316,178"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="406,33,272,145,269,141,402,29"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="376,226,450,252"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="420,179,418,211,412,211,415,178"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="202,226,266,252"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="388,181,281,223,279,218,386,176"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="291,226,351,252"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="403,181,351,219,348,215,400,177"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="475,226,527,252"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="434,177,477,214,474,218,430,181"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="552,226,605,252"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="446,176,538,217,536,222,444,181"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="629,226,682,252"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="459,176,615,223,614,228,458,181"/>
+<area shape="poly" id="edge9_Node000009_Node000002" title=" " alt="" coords="538,108,457,148,455,143,535,103"/>
+<area shape="rect" id="Node000010" href="$SectionKind_8h.html" title=" " alt="" coords="515,153,670,178"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="569,104,584,137,579,139,564,106"/>
+<area shape="rect" id="Node000011" href="$Compiler_8h.html" title=" " alt="" coords="703,153,864,178"/>
+<area shape="poly" id="edge11_Node000009_Node000011" title=" " alt="" coords="599,103,732,145,730,150,598,108"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="706,226,872,252"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="787,178,789,211,784,211,782,179"/>
+<area shape="poly" id="edge15_Node000013_Node000004" title=" " alt="" coords="246,179,241,211,236,211,240,178"/>
+<area shape="poly" id="edge16_Node000013_Node000005" title=" " alt="" coords="260,177,299,214,295,218,256,181"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="5,226,178,252"/>
+<area shape="poly" id="edge14_Node000013_Node000014" title=" " alt="" coords="220,181,132,222,130,217,218,176"/>
+</map>

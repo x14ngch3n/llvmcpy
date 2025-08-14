@@ -1,0 +1,35 @@
+<map id="llvm::TargetLoweringObjectFile" name="llvm::TargetLoweringObjectFile">
+<area shape="rect" id="Node000001" title=" " alt="" coords="209,196,409,222"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1NVPTXTargetObjectFile.html" title=" " alt="" coords="457,105,650,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="349,186,456,141,495,129,497,134,458,146,351,191"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1TargetLoweringObjectFileCOFF.html" title=" " alt="" coords="464,155,643,196"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="423,191,463,185,464,190,424,196"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1TargetLoweringObjectFileELF.html" title=" " alt="" coords="464,220,643,261"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="425,221,464,226,463,232,424,227"/>
+<area shape="rect" id="Node000015" href="$classllvm_1_1TargetLoweringObjectFileMachO.html" title=" " alt="" coords="464,450,643,490"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="335,231,535,447,531,451,331,235"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1MCObjectFileInfo.html" title=" " alt="" coords="5,196,161,222"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="176,206,208,206,208,212,176,212"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1X86WindowsTargetObjectFile.html" title="This implementation is used for Windows targets on x86 and x86&#45;64." alt="" coords="701,5,927,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="645,144,648,142,659,129,666,117,671,91,677,65,684,52,697,40,714,29,717,34,700,44,689,56,682,67,676,93,671,119,664,132,652,145,649,148"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1AArch64__ELFTargetObjectFile.html" title="This implementation is used for AArch64 ELF targets (Linux in particular)." alt="" coords="699,55,929,80"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="644,209,648,206,660,192,666,177,671,148,676,118,683,104,697,89,713,79,716,83,700,94,688,107,681,120,676,149,671,179,665,194,652,209,648,213"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1ARMElfTargetObjectFile.html" title=" " alt="" coords="717,104,911,130"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="641,210,649,205,664,189,671,172,680,155,697,139,718,128,720,133,700,143,684,158,676,175,668,192,652,210,644,215"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1HexagonTargetObjectFile.html" title=" " alt="" coords="714,153,914,179"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="629,212,649,205,698,188,740,177,742,182,699,193,651,210,630,217"/>
+<area shape="rect" id="Node000010" href="$classllvm_1_1MipsTargetObjectFile.html" title=" " alt="" coords="726,203,902,228"/>
+<area shape="poly" id="edge9_Node000006_Node000010" title=" " alt="" coords="659,228,725,221,726,227,659,233"/>
+<area shape="rect" id="Node000011" href="$classllvm_1_1PPC64LinuxTargetObjectFile.html" title=" " alt="" coords="703,252,925,278"/>
+<area shape="poly" id="edge10_Node000006_Node000011" title=" " alt="" coords="659,248,703,252,703,257,658,253"/>
+<area shape="rect" id="Node000012" href="$classllvm_1_1SparcELFTargetObjectFile.html" title=" " alt="" coords="711,301,917,327"/>
+<area shape="poly" id="edge11_Node000006_Node000012" title=" " alt="" coords="626,264,699,288,742,298,741,303,698,293,624,269"/>
+<area shape="rect" id="Node000013" href="$classllvm_1_1X86LinuxTargetObjectFile.html" title=" " alt="" coords="713,351,915,376"/>
+<area shape="poly" id="edge12_Node000006_Node000013" title=" " alt="" coords="592,269,641,305,699,337,731,348,729,353,697,342,638,309,589,273"/>
+<area shape="rect" id="Node000014" href="$classllvm_1_1XCoreTargetObjectFile.html" title=" " alt="" coords="721,400,907,426"/>
+<area shape="poly" id="edge13_Node000006_Node000014" title=" " alt="" coords="580,272,630,332,663,362,700,386,724,397,722,402,697,391,660,366,626,336,576,276"/>
+<area shape="rect" id="Node000016" href="$classllvm_1_1AArch64__MachoTargetObjectFile.html" title="AArch64_MachoTargetObjectFile &#45; This TLOF implementation is used for Darwin." alt="" coords="721,450,907,490"/>
+<area shape="poly" id="edge15_Node000015_Node000016" title=" " alt="" coords="658,468,721,468,721,473,658,473"/>
+<area shape="rect" id="Node000017" href="$classllvm_1_1X86__64MachoTargetObjectFile.html" title=" " alt="" coords="698,515,930,540"/>
+<area shape="poly" id="edge16_Node000015_Node000017" title=" " alt="" coords="659,491,699,500,753,512,752,517,698,505,658,496"/>
+</map>

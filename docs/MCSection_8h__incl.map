@@ -1,0 +1,23 @@
+<map id="MCSection.h" name="MCSection.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="394,5,491,31"/>
+<area shape="rect" id="Node000002" href="$StringRef_8h.html" title=" " alt="" coords="195,79,341,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="414,34,313,75,311,70,412,29"/>
+<area shape="rect" id="Node000009" href="$SectionKind_8h.html" title=" " alt="" coords="365,79,520,105"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="445,31,445,63,440,63,440,31"/>
+<area shape="rect" id="Node000010" href="$Compiler_8h.html" title=" " alt="" coords="544,79,704,105"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="474,29,580,70,578,75,472,34"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,153,80,178"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="230,108,95,150,94,145,229,103"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="104,153,168,178"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="247,108,173,147,170,143,244,103"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="192,153,253,178"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="263,106,240,141,236,138,258,103"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="276,153,329,178"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="276,104,292,137,288,140,271,106"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="353,153,406,178"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="288,103,349,142,347,146,285,107"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="431,153,483,178"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="301,103,417,146,416,151,299,108"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="541,153,706,178"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="626,105,626,137,621,137,621,105"/>
+</map>

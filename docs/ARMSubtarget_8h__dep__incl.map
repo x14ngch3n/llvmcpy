@@ -1,0 +1,81 @@
+<map id="ARMSubtarget.h" name="ARMSubtarget.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="2016,6,2134,32"/>
+<area shape="poly" id="edge31_Node000001_Node000001" title=" " alt="" coords="2134,3,2152,7,2160,19,2157,28,2147,33,2119,35,2118,30,2145,28,2153,24,2155,19,2149,12,2133,8"/>
+<area shape="rect" id="Node000002" href="$ARMAsmPrinter_8h.html" title=" " alt="" coords="1769,80,1895,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="2020,39,1874,82,1873,77,2018,34"/>
+<area shape="rect" id="Node000005" href="$ARMBaseRegisterInfo_8cpp.html" title=" " alt="" coords="155,153,333,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="2000,26,1610,47,1088,82,716,116,344,156,333,157,333,152,344,151,715,111,1088,77,1610,42,2000,21"/>
+<area shape="rect" id="Node000006" href="$ARMCallingConv_8h.html" title=" " alt="" coords="544,80,675,105"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="2000,26,1496,48,799,82,676,90,675,84,799,77,1496,43,2000,21"/>
+<area shape="rect" id="Node000007" href="$ARMFastISel_8cpp.html" title=" " alt="" coords="5,153,131,179"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="2000,24,1274,43,846,61,667,71,532,82,416,98,302,118,121,155,120,150,301,113,416,93,532,77,667,66,846,55,1274,38,2000,19"/>
+<area shape="rect" id="Node000008" href="$ARMISelLowering_8cpp.html" title=" " alt="" coords="534,153,685,179"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="2000,28,1710,50,1339,82,1018,117,698,156,686,158,685,152,697,151,1017,111,1338,77,1710,45,2000,23"/>
+<area shape="rect" id="Node000009" href="$ARMHazardRecognizer_8cpp.html" title=" " alt="" coords="1562,80,1745,105"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="2001,35,1726,82,1725,76,2000,30"/>
+<area shape="rect" id="Node000010" href="$ARMLoadStoreOptimizer_8cpp.html" title=" " alt="" coords="709,153,899,179"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="2001,31,1550,82,900,157,899,151,1549,77,2000,26"/>
+<area shape="rect" id="Node000011" href="$ARMMachineFunctionInfo_8h.html" title=" " alt="" coords="1919,80,2102,105"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="2056,45,2023,81,2019,77,2052,41"/>
+<area shape="rect" id="Node000019" href="$ARMSubtarget_8cpp.html" title=" " alt="" coords="3243,153,3376,179"/>
+<area shape="poly" id="edge30_Node000001_Node000019" title=" " alt="" coords="2149,33,2363,77,2424,91,2486,103,2599,116,2695,124,2858,130,3022,135,3232,151,3243,152,3242,157,3232,156,3022,140,2858,136,2694,130,2598,122,2485,108,2423,97,2362,82,2148,38"/>
+<area shape="rect" id="Node000021" href="$Thumb1RegisterInfo_8cpp.html" title=" " alt="" coords="2907,153,3072,179"/>
+<area shape="poly" id="edge44_Node000001_Node000021" title=" " alt="" coords="2128,34,2253,69,2403,103,2540,123,2648,132,2756,139,2895,151,2907,152,2906,157,2894,156,2756,144,2648,137,2540,128,2402,108,2252,74,2127,39"/>
+<area shape="rect" id="Node000024" href="$ARMTargetMachine_8h.html" title=" " alt="" coords="2497,80,2644,105"/>
+<area shape="poly" id="edge32_Node000001_Node000024" title=" " alt="" coords="2150,28,2497,78,2496,83,2149,34"/>
+<area shape="rect" id="Node000029" href="$ARMTargetObjectFile_8cpp.html" title=" " alt="" coords="2669,80,2840,105"/>
+<area shape="poly" id="edge41_Node000001_Node000029" title=" " alt="" coords="2150,25,2656,77,2669,78,2668,84,2656,82,2149,30"/>
+<area shape="rect" id="Node000030" href="$MLxExpansionPass_8cpp.html" title=" " alt="" coords="2864,80,3026,105"/>
+<area shape="poly" id="edge42_Node000001_Node000030" title=" " alt="" coords="2150,22,2456,43,2852,77,2864,78,2864,84,2852,82,2456,49,2149,27"/>
+<area shape="rect" id="Node000031" href="$Thumb1InstrInfo_8cpp.html" title=" " alt="" coords="3051,80,3192,105"/>
+<area shape="poly" id="edge43_Node000001_Node000031" title=" " alt="" coords="2149,20,2531,39,2783,55,3039,77,3050,78,3050,84,3038,82,2783,60,2530,44,2149,26"/>
+<area shape="rect" id="Node000032" href="$Thumb2RegisterInfo_8cpp.html" title=" " alt="" coords="3216,80,3381,105"/>
+<area shape="poly" id="edge45_Node000001_Node000032" title=" " alt="" coords="2149,20,2596,38,2897,54,3204,77,3216,78,3216,84,3204,82,2897,60,2596,43,2149,25"/>
+<area shape="rect" id="Node000033" href="$Thumb2SizeReduction_8cpp.html" title=" " alt="" coords="3406,80,3584,105"/>
+<area shape="poly" id="edge46_Node000001_Node000033" title=" " alt="" coords="2149,19,2669,36,3028,53,3394,77,3405,78,3405,83,3393,82,3027,58,2669,41,2149,24"/>
+<area shape="rect" id="Node000003" href="$ARMAsmPrinter_8cpp.html" title=" " alt="" coords="2520,153,2661,179"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1911,103,2079,119,2211,128,2342,135,2508,151,2520,152,2520,157,2508,156,2341,141,2210,133,2079,125,1910,108"/>
+<area shape="rect" id="Node000004" href="$ARMMCInstLower_8cpp.html" title=" " alt="" coords="357,153,510,179"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="1754,108,1566,123,1407,131,1136,134,866,136,708,143,522,156,511,157,510,152,521,151,708,138,866,131,1136,129,1407,126,1566,118,1753,103"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="529,106,143,156,132,158,131,152,142,151,528,101"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="612,121,612,153,607,153,607,121"/>
+<area shape="poly" id="edge13_Node000011_Node000003" title=" " alt="" coords="2118,103,2508,151,2520,152,2520,158,2508,156,2118,109"/>
+<area shape="poly" id="edge15_Node000011_Node000005" title=" " alt="" coords="1904,108,1666,122,1465,129,1122,131,781,134,580,142,344,156,333,157,333,152,344,151,580,136,781,129,1122,126,1465,124,1666,117,1904,103"/>
+<area shape="poly" id="edge18_Node000011_Node000007" title=" " alt="" coords="1904,108,1635,122,1408,128,1021,126,835,124,635,126,409,136,143,156,131,157,131,152,142,151,409,131,635,121,835,119,1021,120,1408,123,1635,117,1904,103"/>
+<area shape="poly" id="edge20_Node000011_Node000008" title=" " alt="" coords="1904,108,1720,120,1564,126,1299,130,1035,135,880,143,698,156,686,157,685,152,697,151,879,137,1034,130,1299,125,1564,121,1720,114,1903,103"/>
+<area shape="poly" id="edge22_Node000011_Node000010" title=" " alt="" coords="1904,108,1624,125,1406,132,1189,139,912,156,900,157,899,152,912,151,1189,134,1406,127,1624,120,1904,103"/>
+<area shape="rect" id="Node000012" href="$ARMBaseInstrInfo_8cpp.html" title=" " alt="" coords="1716,153,1870,179"/>
+<area shape="poly" id="edge14_Node000011_Node000012" title=" " alt="" coords="1960,113,1831,155,1830,150,1959,108"/>
+<area shape="rect" id="Node000013" href="$ARMConstantIslandPass_8cpp.html" title=" " alt="" coords="1895,153,2089,179"/>
+<area shape="poly" id="edge16_Node000011_Node000013" title=" " alt="" coords="2006,121,1998,154,1993,152,2001,119"/>
+<area shape="rect" id="Node000014" href="$ARMExpandPseudoInsts_8cpp.html" title=" " alt="" coords="2113,153,2306,179"/>
+<area shape="poly" id="edge17_Node000011_Node000014" title=" " alt="" coords="2059,108,2176,150,2175,155,2058,114"/>
+<area shape="rect" id="Node000015" href="$ARMFrameLowering_8cpp.html" title=" " alt="" coords="2331,153,2496,179"/>
+<area shape="poly" id="edge19_Node000011_Node000015" title=" " alt="" coords="2095,106,2345,150,2344,155,2094,111"/>
+<area shape="rect" id="Node000016" href="$ARMInstrInfo_8cpp.html" title=" " alt="" coords="3095,153,3220,179"/>
+<area shape="poly" id="edge21_Node000011_Node000016" title=" " alt="" coords="2118,94,2542,110,2812,127,3084,151,3095,152,3094,157,3084,156,2811,132,2541,115,2118,99"/>
+<area shape="rect" id="Node000017" href="$ARMMachineFunctionInfo_8cpp.html" title=" " alt="" coords="2685,153,2883,179"/>
+<area shape="poly" id="edge23_Node000011_Node000017" title=" " alt="" coords="2118,100,2674,151,2685,152,2685,157,2673,156,2118,106"/>
+<area shape="rect" id="Node000018" href="$ARMOptimizeBarriersPass_8cpp.html" title=" " alt="" coords="924,153,1127,179"/>
+<area shape="poly" id="edge24_Node000011_Node000018" title=" " alt="" coords="1904,108,1689,124,1520,133,1353,141,1140,156,1127,157,1127,152,1140,151,1353,136,1520,127,1688,119,1904,103"/>
+<area shape="poly" id="edge25_Node000011_Node000019" title=" " alt="" coords="2118,95,2691,119,3004,134,3232,151,3243,152,3242,157,3232,156,3003,140,2691,124,2118,100"/>
+<area shape="rect" id="Node000020" href="$Thumb1FrameLowering_8cpp.html" title=" " alt="" coords="1152,153,1334,179"/>
+<area shape="poly" id="edge26_Node000011_Node000020" title=" " alt="" coords="1904,108,1624,132,1347,156,1334,157,1334,152,1346,151,1623,127,1904,103"/>
+<area shape="poly" id="edge27_Node000011_Node000021" title=" " alt="" coords="2118,97,2464,117,2895,151,2907,152,2906,157,2894,156,2463,122,2117,102"/>
+<area shape="rect" id="Node000022" href="$Thumb2ITBlockPass_8cpp.html" title=" " alt="" coords="1358,153,1527,179"/>
+<area shape="poly" id="edge28_Node000011_Node000022" title=" " alt="" coords="1904,110,1528,157,1527,152,1903,105"/>
+<area shape="rect" id="Node000023" href="$Thumb2InstrInfo_8cpp.html" title=" " alt="" coords="1551,153,1692,179"/>
+<area shape="poly" id="edge29_Node000011_Node000023" title=" " alt="" coords="1930,111,1688,155,1687,150,1929,106"/>
+<area shape="poly" id="edge33_Node000024_Node000003" title=" " alt="" coords="2581,119,2590,152,2585,154,2575,121"/>
+<area shape="poly" id="edge35_Node000024_Node000008" title=" " alt="" coords="2482,99,1526,125,1003,142,698,156,686,157,685,152,697,151,1002,137,1526,120,2482,94"/>
+<area shape="poly" id="edge36_Node000024_Node000016" title=" " alt="" coords="2660,103,2874,126,3084,151,3095,152,3094,158,3084,156,2874,131,2660,108"/>
+<area shape="poly" id="edge38_Node000024_Node000019" title=" " alt="" coords="2660,103,2822,118,2948,126,3073,135,3232,151,3243,152,3242,157,3232,156,3073,140,2948,131,2821,123,2660,108"/>
+<area shape="rect" id="Node000025" href="$ARMISelDAGToDAG_8cpp.html" title=" " alt="" coords="3802,153,3974,179"/>
+<area shape="poly" id="edge34_Node000024_Node000025" title=" " alt="" coords="2660,103,2832,116,2979,123,3227,128,3475,132,3620,139,3791,151,3802,152,3802,157,3790,156,3620,144,3475,138,3227,133,2978,128,2832,121,2660,108"/>
+<area shape="rect" id="Node000026" href="$ARMSelectionDAGInfo_8cpp.html" title=" " alt="" coords="3997,153,4179,179"/>
+<area shape="poly" id="edge37_Node000024_Node000026" title=" " alt="" coords="2660,103,2862,117,3033,125,3324,129,3615,132,3785,138,3986,151,3997,152,3997,157,3985,156,3785,144,3615,137,3324,134,3033,130,2862,122,2660,108"/>
+<area shape="rect" id="Node000027" href="$ARMTargetMachine_8cpp.html" title=" " alt="" coords="3399,153,3561,179"/>
+<area shape="poly" id="edge39_Node000024_Node000027" title=" " alt="" coords="2660,103,2866,119,3026,127,3185,135,3388,151,3399,152,3398,157,3388,156,3185,140,3026,133,2865,125,2660,108"/>
+<area shape="rect" id="Node000028" href="$ARMTargetTransformInfo_8cpp.html" title=" " alt="" coords="3585,153,3778,179"/>
+<area shape="poly" id="edge40_Node000024_Node000028" title=" " alt="" coords="2660,103,2918,121,3118,129,3318,135,3574,151,3584,152,3584,157,3573,156,3318,140,3118,134,2917,127,2660,108"/>
+</map>

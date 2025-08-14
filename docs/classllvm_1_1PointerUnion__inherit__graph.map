@@ -1,0 +1,21 @@
+<map id="llvm::PointerUnion&lt; PT1, PT2 &gt;" name="llvm::PointerUnion&lt; PT1, PT2 &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,289,134,329"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1PointerUnion.html" title=" " alt="" coords="396,21,536,61"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="71,272,78,227,93,174,118,121,135,98,156,77,183,60,213,46,276,30,339,26,395,28,395,33,339,31,277,36,215,51,186,64,159,82,139,101,122,124,98,176,83,228,76,273"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1PointerUnion.html" title=" " alt="" coords="402,86,530,127"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="76,273,86,239,102,202,125,166,156,136,175,127,200,120,264,110,401,103,401,109,265,115,201,125,177,132,159,140,129,169,107,204,91,241,81,275"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1PointerUnion.html" title=" " alt="" coords="369,151,562,192"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="88,274,117,238,136,220,156,207,208,185,263,172,318,165,369,163,369,169,318,171,264,177,210,190,159,211,139,225,121,241,93,277"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1PointerUnion.html" title=" " alt="" coords="402,217,530,257"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="116,278,157,261,221,246,286,238,401,233,402,238,287,243,222,252,158,266,118,283"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1PointerUnion.html" title=" " alt="" coords="392,281,540,337"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="149,306,391,306,391,312,149,312"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1PointerUnion.html" title=" " alt="" coords="384,361,548,417"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="115,335,159,355,216,370,275,379,384,387,384,392,275,384,215,375,157,360,113,340"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1PointerUnion.html" title=" " alt="" coords="368,443,564,514"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="83,343,95,371,111,402,132,431,159,454,208,477,262,489,316,493,367,491,367,496,316,498,261,494,207,482,156,459,128,435,106,405,90,374,78,345"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1PointerUnion.html" title=" " alt="" coords="370,538,562,608"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="74,345,78,396,92,456,103,486,117,515,136,541,159,562,183,577,208,587,262,599,317,600,369,594,370,599,317,605,261,604,206,592,180,581,156,567,132,544,113,518,98,489,87,458,73,397,68,345"/>
+<area shape="rect" id="Node000010" href="$classllvm_1_1PointerUnion.html" title=" " alt="" coords="379,632,552,687"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="77,344,87,420,104,513,128,597,143,629,159,649,183,665,209,676,266,687,324,687,378,680,379,685,324,693,266,693,208,681,181,669,156,653,138,631,123,599,99,514,82,421,72,345"/>
+</map>

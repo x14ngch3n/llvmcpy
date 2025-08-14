@@ -1,0 +1,9 @@
+<map id="AMDGPUMCCodeEmitter.h" name="AMDGPUMCCodeEmitter.h">
+<area shape="rect" id="Node000001" title="CodeEmitter interface for R600 and SI codegen." alt="" coords="220,5,405,31"/>
+<area shape="rect" id="Node000002" href="$AMDGPUMCCodeEmitter_8cpp.html" title="CodeEmitter interface for R600 and SI codegen." alt="" coords="5,79,204,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="264,39,141,81,139,76,262,34"/>
+<area shape="rect" id="Node000003" href="$R600MCCodeEmitter_8cpp.html" title="The R600 code emitter produces machine code that can be executed directly on the GPU device." alt="" coords="227,79,398,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="315,46,315,79,310,79,310,46"/>
+<area shape="rect" id="Node000004" href="$SIMCCodeEmitter_8cpp.html" title="The SI code emitter produces machine code that can be executed directly on the GPU device." alt="" coords="422,79,574,105"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="359,34,467,76,465,81,357,39"/>
+</map>

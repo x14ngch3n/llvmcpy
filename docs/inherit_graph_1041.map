@@ -1,0 +1,24 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classllvm_1_1Metadata.html" title="Root of the metadata hierarchy." alt="" coords="54,131,161,156"/>
+<area shape="rect" id="Node000001" href="$classllvm_1_1MDNode.html" title="Tuple of metadata." alt="" coords="283,180,388,206"/>
+<area shape="poly" id="edge2252_Node000000_Node000001" title=" " alt="" coords="177,156,283,179,282,184,176,161"/>
+<area shape="rect" id="Node000010" href="$classllvm_1_1MDString.html" title="A single uniqued string." alt="" coords="281,131,390,156"/>
+<area shape="poly" id="edge2257_Node000000_Node000010" title=" " alt="" coords="177,141,281,141,281,146,177,146"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1ValueAsMetadata.html" title="Value wrapper in the Metadata hierarchy." alt="" coords="258,29,413,55"/>
+<area shape="poly" id="edge2258_Node000000_Node000004" title=" " alt="" coords="151,121,303,53,305,58,153,126"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1MDNodeFwdDecl.html" title="Forward declaration of metadata." alt="" coords="470,105,628,131"/>
+<area shape="poly" id="edge2253_Node000001_Node000002" title=" " alt="" coords="394,172,412,166,513,129,515,134,414,171,396,177"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1UniquableMDNode.html" title="Uniquable metadata node." alt="" coords="468,180,631,206"/>
+<area shape="poly" id="edge2254_Node000001_Node000007" title=" " alt="" coords="403,190,467,190,467,196,403,196"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1MDLocation.html" title="Debug location." alt="" coords="685,155,809,180"/>
+<area shape="poly" id="edge2255_Node000007_Node000008" title=" " alt="" coords="646,178,685,173,685,178,646,183"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1MDTuple.html" title="Tuple of metadata." alt="" coords="694,204,800,230"/>
+<area shape="poly" id="edge2256_Node000007_Node000009" title=" " alt="" coords="646,202,694,208,693,213,646,207"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1ConstantAsMetadata.html" title=" " alt="" coords="461,5,637,31"/>
+<area shape="poly" id="edge2259_Node000004_Node000005" title=" " alt="" coords="428,29,460,25,461,31,429,34"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1LocalAsMetadata.html" title=" " alt="" coords="472,55,626,80"/>
+<area shape="poly" id="edge2260_Node000004_Node000006" title=" " alt="" coords="429,51,472,56,471,61,428,56"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1ReplaceableMetadataImpl.html" title="Shared implementation of use&#45;lists for replaceable metadata." alt="" coords="5,55,210,80"/>
+<area shape="poly" id="edge2261_Node000003_Node000002" title=" " alt="" coords="226,78,470,107,470,112,225,84"/>
+<area shape="poly" id="edge2262_Node000003_Node000004" title=" " alt="" coords="225,52,257,48,257,53,226,57"/>
+</map>

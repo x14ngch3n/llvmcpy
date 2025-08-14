@@ -1,0 +1,7 @@
+<map id="llvm::PatternMatch::MaxMin_match&lt; CmpInst_t, LHS_t, RHS_t, Pred_t &gt;" name="llvm::PatternMatch::MaxMin_match&lt; CmpInst_t, LHS_t, RHS_t, Pred_t &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,102,189,158"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="26,5,85,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="68,45,89,100,84,102,63,47"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="109,5,170,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="132,46,110,102,105,100,127,44"/>
+</map>

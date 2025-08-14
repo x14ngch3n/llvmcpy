@@ -1,0 +1,33 @@
+<map id="llvm::ValID" name="llvm::ValID">
+<area shape="rect" id="Node000001" title=" " alt="" coords="354,578,439,603"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,461,124,486"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,495,126,525,172,551,218,567,267,577,353,586,353,591,266,582,217,572,169,556,123,529,86,499"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1SMLoc.html" title="Represents a location in source code." alt="" coords="148,461,242,486"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="206,499,221,527,244,552,270,566,298,576,354,586,353,591,297,581,267,571,241,556,217,530,202,502"/>
+<area shape="rect" id="Node000004" href="$classunsigned.html" title=" " alt="" coords="329,5,402,31"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="418,18,465,28,488,38,508,53,527,76,536,99,538,154,538,475,538,518,532,537,518,556,501,569,481,579,440,589,439,584,479,574,498,565,515,552,527,534,532,518,533,475,533,154,530,100,522,79,504,57,485,43,463,33,417,23"/>
+<area shape="rect" id="Node000010" href="$structllvm_1_1fltSemantics.html" title=" " alt="" coords="161,143,288,168"/>
+<area shape="poly" id="edge11_Node000010_Node000004" title=" " alt="" coords="319,40,293,57,267,93,234,144,230,141,262,90,289,53,316,36"/>
+<area shape="rect" id="Node000014" href="$classllvm_1_1Value.html" title="LLVM Value Representation." alt="" coords="311,143,396,168"/>
+<area shape="poly" id="edge15_Node000014_Node000004" title=" " alt="" coords="366,47,358,142,352,142,361,46"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="572,461,626,486"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="593,502,578,530,556,556,528,572,498,582,440,591,439,586,496,577,526,567,552,552,574,527,588,500"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1APSInt.html" title=" " alt="" coords="650,461,746,486"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="689,502,670,531,643,556,606,569,552,579,440,590,440,584,551,574,604,564,640,551,666,527,684,499"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1APInt.html" title="Class for arbitrary precision integers." alt="" coords="655,361,741,387"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="700,402,700,460,695,460,695,402"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="664,143,732,168"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="700,183,700,361,695,361,695,183"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1APFloat.html" title="A self&#45;contained host&#45; and target&#45;independent arbitrary&#45;precision floating&#45;point software implementat..." alt="" coords="210,411,311,437"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="278,448,304,485,348,536,386,575,382,579,345,539,300,488,274,451"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="227,184,230,253,239,337,259,410,254,411,234,338,225,254,222,184"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="127,5,186,31"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="152,47,150,82,153,101,160,117,172,130,187,140,184,144,168,134,156,120,148,102,145,83,147,46"/>
+<area shape="rect" id="Node000012" href="$classllvm_1_1Constant.html" title="LLVM Constant Representation." alt="" coords="387,461,494,486"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="410,498,400,512,395,528,393,546,396,577,391,578,388,546,389,527,395,509,405,495"/>
+<area shape="rect" id="Node000013" href="$classllvm_1_1User.html" title=" " alt="" coords="396,361,477,387"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="440,402,443,460,437,460,435,402"/>
+<area shape="poly" id="edge14_Node000013_Node000014" title=" " alt="" coords="366,181,435,360,430,362,361,183"/>
+<area shape="rect" id="Node000015" href="$classllvm_1_1Use.html" title="A Use represents the edge between a Value definition and its users." alt="" coords="420,143,498,168"/>
+<area shape="poly" id="edge16_Node000013_Node000015" title=" " alt="" coords="445,183,441,193,433,241,431,288,437,360,432,361,426,289,427,240,436,192,440,181"/>
+</map>

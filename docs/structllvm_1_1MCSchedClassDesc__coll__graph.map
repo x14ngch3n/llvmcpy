@@ -1,0 +1,9 @@
+<map id="llvm::MCSchedClassDesc" name="llvm::MCSchedClassDesc">
+<area shape="rect" id="Node000001" title=" " alt="" coords="143,265,320,290"/>
+<area shape="rect" id="Node000002" href="$classunsigned.html" title=" " alt="" coords="5,5,79,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="39,46,33,88,33,140,43,193,54,217,69,239,80,247,97,253,143,264,142,269,96,258,78,251,65,243,49,220,38,195,27,141,28,88,34,46"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="208,5,254,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="234,47,234,264,229,264,229,47"/>
+<area shape="rect" id="Node000004" href="$classbool.html" title=" " alt="" coords="282,5,327,31"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="310,46,311,86,308,137,298,191,278,242,267,256,254,266,251,262,263,252,273,239,293,189,303,136,306,86,305,46"/>
+</map>

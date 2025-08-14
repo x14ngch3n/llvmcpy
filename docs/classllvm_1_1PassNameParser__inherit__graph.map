@@ -1,0 +1,14 @@
+<map id="llvm::PassNameParser" name="llvm::PassNameParser">
+<area shape="rect" id="Node000001" title=" " alt="" coords="43,267,199,293"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1FilteredPassNameParser.html" title=" " alt="" coords="21,342,221,383"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="124,308,124,342,118,342,118,308"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1PassRegistrationListener.html" title=" " alt="" coords="5,184,205,210"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,225,121,266,116,267,108,226"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1cl_1_1parser.html" title=" " alt="" coords="229,177,381,218"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="247,227,150,269,148,264,245,222"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1cl_1_1generic__parser__base.html" title=" " alt="" coords="181,5,373,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="282,46,289,106,303,176,298,177,284,106,277,47"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1cl_1_1parser.html" title=" " alt="" coords="298,80,485,106"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="310,37,374,78,371,82,307,42"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="373,120,324,178,319,175,369,116"/>
+</map>

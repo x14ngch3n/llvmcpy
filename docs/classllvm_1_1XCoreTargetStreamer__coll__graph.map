@@ -1,0 +1,7 @@
+<map id="llvm::XCoreTargetStreamer" name="llvm::XCoreTargetStreamer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,177,185,203"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1MCTargetStreamer.html" title=" " alt="" coords="13,102,177,128"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,143,98,177,92,177,92,143"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1MCStreamer.html" title=" " alt="" coords="31,5,159,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="98,46,98,101,92,101,92,46"/>
+</map>

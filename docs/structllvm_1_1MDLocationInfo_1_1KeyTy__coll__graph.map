@@ -1,0 +1,10 @@
+<map id="llvm::MDLocationInfo::KeyTy" name="llvm::MDLocationInfo::KeyTy">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,257,151,298"/>
+<area shape="rect" id="Node000002" href="$classunsigned.html" title=" " alt="" coords="43,5,116,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="79,47,78,55,72,110,72,166,79,256,73,257,66,166,67,110,73,55,74,46"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1Metadata.html" title="Root of the metadata hierarchy." alt="" coords="134,131,241,157"/>
+<area shape="poly" id="edge4_Node000003_Node000002" title=" " alt="" coords="82,46,87,72,99,97,120,115,145,128,143,133,117,120,95,100,82,74,77,47"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="170,171,96,258,92,255,165,167"/>
+<area shape="rect" id="Node000004" href="$classbool.html" title=" " alt="" coords="213,5,258,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="228,46,208,99,195,132,190,130,204,97,223,45"/>
+</map>

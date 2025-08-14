@@ -1,0 +1,15 @@
+<map id="llvm::cl::OptionValueCopy&lt; DataType &gt;" name="llvm::cl::OptionValueCopy&lt; DataType &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="241,71,413,111"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1cl_1_1OptionValueBase_3_01DataType_00_01false_01_4.html" title=" " alt="" coords="592,5,763,46"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="420,64,437,60,591,34,592,40,438,66,421,69"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1cl_1_1OptionValueCopy.html" title=" " alt="" coords="591,71,764,111"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="429,88,591,88,591,94,429,94"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1cl_1_1OptionValueCopy.html" title=" " alt="" coords="591,136,764,177"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="420,113,438,117,591,143,590,148,437,122,419,118"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1cl_1_1GenericOptionValue.html" title=" " alt="" coords="5,78,192,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="207,88,241,88,241,94,207,94"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1cl_1_1OptionValue_3_01cl_1_1boolOrDefault_01_4.html" title=" " alt="" coords="813,71,956,111"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="779,88,813,88,813,94,779,94"/>
+<area shape="rect" id="Node000007" href="$structllvm_1_1cl_1_1OptionValue_3_01std_1_1string_01_4.html" title=" " alt="" coords="814,136,955,177"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="779,154,814,154,814,159,779,159"/>
+</map>

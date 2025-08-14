@@ -1,0 +1,9 @@
+<map id="llvm::IntervalMapInfo&lt; SlotIndex &gt;" name="llvm::IntervalMapInfo&lt; SlotIndex &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="122,229,265,269"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1IntervalMapHalfOpenInfo.html" title=" " alt="" coords="5,117,182,158"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="124,167,178,227,174,230,120,171"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1IntervalMapHalfOpenInfo.html" title=" " alt="" coords="5,5,182,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="96,61,96,117,91,117,91,61"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1IntervalMapInfo.html" title=" " alt="" coords="206,124,381,150"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="274,164,213,230,209,226,270,160"/>
+</map>

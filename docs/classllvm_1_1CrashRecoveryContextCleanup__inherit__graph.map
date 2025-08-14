@@ -1,0 +1,20 @@
+<map id="llvm::CrashRecoveryContextCleanup" name="llvm::CrashRecoveryContextCleanup">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,175,196,216"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1CrashRecoveryContextCleanupBase.html" title=" " alt="" coords="711,20,960,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="143,164,204,126,283,83,373,42,421,26,469,13,531,4,595,3,657,8,715,17,714,22,657,13,595,9,532,10,470,18,422,31,375,47,285,87,206,131,145,169"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1CrashRecoveryContextCleanupBase.html" title=" " alt="" coords="711,121,960,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="193,217,296,238,420,253,487,256,554,254,622,247,687,233,717,222,747,208,797,175,800,180,749,212,719,227,688,238,622,252,555,259,487,261,420,258,295,243,192,223"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1CrashRecoveryContextCleanupBase.html" title=" " alt="" coords="711,242,960,298"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="150,221,196,243,246,260,368,280,492,287,610,287,711,281,711,286,610,292,492,293,367,285,244,265,194,248,148,226"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1CrashRecoveryContextCleanupBase.html" title=" " alt="" coords="245,130,445,171"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="211,173,244,166,245,172,212,178"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1CrashRecoveryContextDeleteCleanup.html" title=" " alt="" coords="1009,27,1199,68"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="975,45,1009,45,1009,50,975,50"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1CrashRecoveryContextDestructorCleanup.html" title=" " alt="" coords="1009,129,1199,169"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="975,146,1009,146,1009,152,975,152"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1CrashRecoveryContextReleaseRefCleanup.html" title=" " alt="" coords="1009,250,1199,291"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="975,268,1009,268,1009,273,975,273"/>
+<area shape="poly" id="edge8_Node000008_Node000002" title=" " alt="" coords="404,121,469,98,593,72,711,56,711,61,594,77,470,104,406,126"/>
+<area shape="poly" id="edge9_Node000008_Node000004" title=" " alt="" coords="461,147,711,147,711,152,461,153"/>
+<area shape="poly" id="edge10_Node000008_Node000006" title=" " alt="" coords="408,174,470,196,594,227,711,249,710,255,592,232,469,202,406,179"/>
+</map>

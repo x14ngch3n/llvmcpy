@@ -1,0 +1,9 @@
+<map id="XCoreMCTargetDesc.h" name="XCoreMCTargetDesc.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="200,5,358,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,79,180,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="248,34,139,75,138,70,247,29"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="204,79,355,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="282,31,282,63,276,63,276,31"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="379,79,560,105"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="312,29,424,71,422,76,311,34"/>
+</map>

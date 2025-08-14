@@ -1,0 +1,13 @@
+<map id="llvm::Region" name="llvm::Region">
+<area shape="rect" id="Node000001" title=" " alt="" coords="155,319,249,344"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1RegionBase.html" title=" " alt="" coords="113,229,291,269"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,285,205,318,199,318,199,285"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1RegionNodeBase.html" title=" " alt="" coords="5,117,199,158"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="132,167,186,227,182,230,128,171"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1RegionNodeBase.html" title="A RegionNode represents a subregion or a BasicBlock that is part of a Region." alt="" coords="24,5,180,46"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="105,61,105,117,99,117,99,61"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1RegionBase.html" title="A single entry single exit Region." alt="" coords="223,124,384,150"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="284,164,222,230,218,226,280,160"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1RegionNodeBase.html" title="A RegionNode represents a subregion or a BasicBlock that is part of a Region." alt="" coords="226,5,381,46"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="306,62,306,124,301,124,301,62"/>
+</map>

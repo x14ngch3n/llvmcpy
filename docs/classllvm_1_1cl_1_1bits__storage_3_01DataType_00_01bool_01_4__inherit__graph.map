@@ -1,0 +1,7 @@
+<map id="llvm::cl::bits_storage&lt; DataType, bool &gt;" name="llvm::cl::bits_storage&lt; DataType, bool &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="28,117,171,158"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1cl_1_1bits.html" title=" " alt="" coords="17,207,182,248"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="102,173,102,207,97,207,97,173"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1cl_1_1bits__storage.html" title=" " alt="" coords="5,5,194,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="102,61,102,117,97,117,97,61"/>
+</map>

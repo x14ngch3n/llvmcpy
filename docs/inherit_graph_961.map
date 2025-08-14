@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classllvm_1_1MCCodeEmitter.html" title="MCCodeEmitter &#45; Generic instruction encoding interface." alt="" coords="5,55,153,80"/>
+<area shape="rect" id="Node000001" href="$classllvm_1_1AMDGPUMCCodeEmitter.html" title=" " alt="" coords="201,5,407,31"/>
+<area shape="poly" id="edge2170_Node000000_Node000001" title=" " alt="" coords="155,48,241,29,242,34,156,53"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1HexagonMCCodeEmitter.html" title=" " alt="" coords="204,55,404,80"/>
+<area shape="poly" id="edge2171_Node000000_Node000002" title=" " alt="" coords="168,65,204,65,204,70,168,70"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1MipsMCCodeEmitter.html" title=" " alt="" coords="216,104,392,130"/>
+<area shape="poly" id="edge2172_Node000000_Node000003" title=" " alt="" coords="156,82,242,101,241,106,155,87"/>
+</map>

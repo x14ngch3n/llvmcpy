@@ -1,0 +1,12 @@
+<map id="llvm::RegisterPassParser&lt; RegistryClass &gt;" name="llvm::RegisterPassParser&lt; RegistryClass &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="873,39,1043,79"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1MachinePassRegistryListener.html" title=" " alt="" coords="642,5,824,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="840,39,873,44,872,49,839,44"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1cl_1_1parser.html" title=" " alt="" coords="643,71,823,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="838,73,872,68,873,74,839,79"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1cl_1_1generic__parser__base.html" title=" " alt="" coords="5,72,197,97"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="212,76,402,71,618,75,643,77,642,82,618,80,402,76,212,81"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1cl_1_1parser.html" title=" " alt="" coords="246,104,433,129"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="213,97,246,101,245,106,212,102"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="449,123,532,124,618,118,663,109,664,115,619,124,532,130,449,128"/>
+</map>

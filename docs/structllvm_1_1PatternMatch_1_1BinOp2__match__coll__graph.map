@@ -1,0 +1,7 @@
+<map id="llvm::PatternMatch::BinOp2_match&lt; LHS_t, RHS_t, Opc1, Opc2 &gt;" name="llvm::PatternMatch::BinOp2_match&lt; LHS_t, RHS_t, Opc1, Opc2 &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,102,176,158"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="20,5,78,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="62,45,83,100,78,102,57,47"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="102,5,164,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="126,46,104,102,99,100,121,44"/>
+</map>

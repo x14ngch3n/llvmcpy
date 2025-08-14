@@ -1,0 +1,5 @@
+<map id="llvm::raw_null_ostream" name="llvm::raw_null_ostream">
+<area shape="rect" id="Node000001" title="raw_null_ostream &#45; A raw_ostream that discards all output." alt="" coords="5,79,161,105"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1raw__ostream.html" title=" " alt="" coords="19,5,147,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="86,46,86,79,80,79,80,46"/>
+</map>

@@ -1,0 +1,25 @@
+<map id="Cloning.h" name="Cloning.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="862,5,939,31"/>
+<area shape="rect" id="Node000002" href="$AMDGPUAlwaysInlinePass_8cpp.html" title=" " alt="" coords="5,79,215,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="847,27,228,82,215,83,215,78,227,76,847,21"/>
+<area shape="rect" id="Node000003" href="$AddressSanitizer_8cpp.html" title=" " alt="" coords="239,79,384,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="847,28,396,82,384,83,383,78,395,76,847,23"/>
+<area shape="rect" id="Node000004" href="$CloneFunction_8cpp.html" title=" " alt="" coords="408,79,538,105"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="848,31,539,82,538,77,847,26"/>
+<area shape="rect" id="Node000005" href="$CloneModule_8cpp.html" title=" " alt="" coords="562,79,684,105"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="848,36,672,81,670,76,847,30"/>
+<area shape="rect" id="Node000006" href="$InlineFunction_8cpp.html" title=" " alt="" coords="709,79,836,105"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="867,41,796,81,793,76,864,37"/>
+<area shape="rect" id="Node000007" href="$Inliner_8cpp.html" title=" " alt="" coords="860,79,941,105"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="903,46,903,79,898,79,898,46"/>
+<area shape="rect" id="Node000008" href="$LinkModules_8cpp.html" title=" " alt="" coords="965,79,1084,105"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="936,37,1005,76,1002,81,933,41"/>
+<area shape="rect" id="Node000009" href="$LoopUnroll_8cpp.html" title=" " alt="" coords="1108,79,1216,105"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="954,31,1118,76,1117,81,953,36"/>
+<area shape="rect" id="Node000010" href="$LoopUnrollRuntime_8cpp.html" title=" " alt="" coords="1241,79,1398,105"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="955,26,1248,76,1247,81,954,31"/>
+<area shape="rect" id="Node000011" href="$LoopUnswitch_8cpp.html" title=" " alt="" coords="1423,79,1552,105"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="954,23,1410,76,1423,78,1422,83,1410,82,954,28"/>
+<area shape="rect" id="Node000012" href="$PartialInlining_8cpp.html" title=" " alt="" coords="1576,79,1700,105"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="955,20,1218,41,1565,76,1576,78,1575,83,1564,82,1217,46,954,26"/>
+</map>

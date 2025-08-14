@@ -1,0 +1,17 @@
+<map id="llvm::CrashRecoveryContextCleanupBase&lt; DERIVED, T &gt;" name="llvm::CrashRecoveryContextCleanupBase&lt; DERIVED, T &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="245,105,445,145"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1CrashRecoveryContextCleanupBase.html" title=" " alt="" coords="711,17,960,73"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="404,96,469,75,593,54,711,45,711,50,593,59,470,80,406,101"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1CrashRecoveryContextCleanupBase.html" title=" " alt="" coords="711,97,960,153"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="461,122,711,122,711,128,461,128"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1CrashRecoveryContextCleanupBase.html" title=" " alt="" coords="711,177,960,233"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="404,149,470,171,531,183,593,192,711,201,711,206,593,197,530,189,469,176,403,154"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1CrashRecoveryContextCleanup.html" title=" " alt="" coords="5,105,196,145"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,122,245,122,245,128,211,128"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1CrashRecoveryContextDeleteCleanup.html" title=" " alt="" coords="1009,25,1199,65"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="975,42,1009,42,1009,48,975,48"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1CrashRecoveryContextDestructorCleanup.html" title=" " alt="" coords="1009,105,1199,145"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="975,122,1009,122,1009,128,975,128"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1CrashRecoveryContextReleaseRefCleanup.html" title=" " alt="" coords="1009,185,1199,225"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="975,202,1009,202,1009,208,975,208"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="llvm::RegisterSDNode" name="llvm::RegisterSDNode">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,379,158,404"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1SDNode.html" title=" " alt="" coords="30,304,133,329"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="84,345,84,378,79,378,79,345"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1FoldingSetImpl_1_1Node.html" title=" " alt="" coords="8,229,123,254"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="74,269,82,303,76,304,69,270"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1ilist__node.html" title=" " alt="" coords="146,229,329,254"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="199,264,109,305,107,301,196,259"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1ilist__half__node.html" title=" " alt="" coords="61,117,198,158"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="163,167,227,226,223,230,160,171"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1ilist__half__node.html" title=" " alt="" coords="61,5,198,46"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="132,61,132,117,127,117,127,61"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1ilist__node.html" title=" " alt="" coords="222,124,400,150"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="296,164,248,230,244,227,291,161"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1ilist__half__node.html" title=" " alt="" coords="243,5,379,46"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="314,62,314,124,308,124,308,62"/>
+</map>

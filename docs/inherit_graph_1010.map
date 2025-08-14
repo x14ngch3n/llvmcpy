@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classllvm_1_1MCSection.html" title=" " alt="" coords="5,80,124,106"/>
+<area shape="rect" id="Node000001" href="$classllvm_1_1MCSectionCOFF.html" title="MCSectionCOFF &#45; This represents a section on Windows." alt="" coords="175,5,329,31"/>
+<area shape="poly" id="edge2225_Node000000_Node000001" title=" " alt="" coords="103,70,171,40,201,29,203,34,173,45,106,75"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1MCSectionELF.html" title=" " alt="" coords="181,55,323,80"/>
+<area shape="poly" id="edge2226_Node000000_Node000002" title=" " alt="" coords="139,80,180,75,181,80,140,85"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1MCSectionMachO.html" title=" " alt="" coords="172,104,332,130"/>
+<area shape="poly" id="edge2227_Node000000_Node000003" title=" " alt="" coords="140,100,172,104,171,109,139,105"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1NVPTXSection.html" title=" " alt="" coords="181,153,323,179"/>
+<area shape="poly" id="edge2228_Node000000_Node000004" title=" " alt="" coords="106,110,173,140,203,150,202,155,171,145,104,115"/>
+</map>

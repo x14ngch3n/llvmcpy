@@ -1,0 +1,7 @@
+<map id="llvm::detail::PassModel&lt; IRUnitT, PassT, PreservedAnalysesT, false &gt;" name="llvm::detail::PassModel&lt; IRUnitT, PassT, PreservedAnalysesT, false &gt;">
+<area shape="rect" id="Node000001" title="Specialization of PassModel for passes that accept an analyis manager." alt="" coords="471,34,713,90"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1detail_1_1PassConcept.html" title="Template for the abstract base class used to dispatch polymorphically over pass objects." alt="" coords="41,5,212,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="228,30,447,46,470,48,470,53,446,51,228,35"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1detail_1_1PassModel.html" title="A template wrapper used to implement the polymorphic API." alt="" coords="5,70,248,126"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="263,102,354,101,446,94,487,88,488,93,447,100,354,107,263,107"/>
+</map>

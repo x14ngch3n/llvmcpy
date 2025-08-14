@@ -1,0 +1,21 @@
+<map id="llvm::LiveRangeEdit::Remat" name="llvm::LiveRangeEdit::Remat">
+<area shape="rect" id="Node000001" title="Remat &#45; Information needed to rematerialize at a specific location." alt="" coords="154,437,292,478"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1VNInfo.html" title=" " alt="" coords="110,340,204,366"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="173,378,194,412,211,435,206,438,189,414,169,381"/>
+<area shape="rect" id="Node000003" href="$classunsigned.html" title=" " alt="" coords="5,236,79,262"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="68,270,145,338,141,342,65,274"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1SlotIndex.html" title="SlotIndex &#45; An opaque wrapper around machine indexes." alt="" coords="102,236,211,262"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="159,278,159,340,154,340,154,278"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1MachineInstr.html" title=" " alt="" coords="242,340,370,366"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="290,380,263,415,243,438,239,435,259,411,286,377"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1ilist__node.html" title=" " alt="" coords="235,229,404,269"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="317,285,310,340,305,340,312,285"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1ilist__half__node.html" title=" " alt="" coords="143,117,280,158"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="243,167,302,226,298,230,239,171"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1ilist__half__node.html" title=" " alt="" coords="143,5,280,46"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="214,61,214,117,209,117,209,61"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1ilist__node.html" title=" " alt="" coords="304,124,481,150"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="379,164,335,230,330,227,374,161"/>
+<area shape="rect" id="Node000010" href="$classllvm_1_1ilist__half__node.html" title=" " alt="" coords="324,5,461,46"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="395,62,395,124,390,124,390,62"/>
+</map>

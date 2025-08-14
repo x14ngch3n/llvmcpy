@@ -1,0 +1,7 @@
+<map id="llvm::DIRef&lt; T &gt;" name="llvm::DIRef&lt; T &gt;">
+<area shape="rect" id="Node000001" title="Represents reference to a DIDescriptor." alt="" coords="118,5,238,31"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1DIRef.html" title=" " alt="" coords="5,102,169,128"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="158,44,101,103,97,100,154,40"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1DIRef.html" title=" " alt="" coords="192,102,347,128"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="214,38,233,53,252,77,266,100,261,103,248,80,229,57,211,42"/>
+</map>

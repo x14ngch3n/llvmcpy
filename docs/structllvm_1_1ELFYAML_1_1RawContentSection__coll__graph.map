@@ -1,0 +1,20 @@
+<map id="llvm::ELFYAML::RawContentSection" name="llvm::ELFYAML::RawContentSection">
+<area shape="rect" id="Node000001" title=" " alt="" coords="439,316,631,356"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1ELFYAML_1_1Section.html" title=" " alt="" coords="244,219,407,245"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="365,249,496,313,494,318,363,254"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,102,97,128"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="76,136,114,166,161,193,202,207,244,217,243,223,200,212,159,197,112,170,73,140"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1StringRef.html" title=" " alt="" coords="121,102,229,128"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="192,139,213,167,240,193,262,206,285,216,283,221,259,211,237,197,209,171,188,142"/>
+<area shape="rect" id="Node000005" href="$classsize__t.html" title=" " alt="" coords="147,5,203,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="178,46,178,101,172,101,172,46"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="253,102,332,128"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="291,143,291,168,296,194,313,217,309,220,291,196,285,169,286,143"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="357,102,436,128"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="373,140,363,153,344,188,332,220,327,218,339,186,358,150,369,137"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="483,102,542,128"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="518,143,519,151,536,315,530,316,514,152,513,143"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="470,133,433,154,423,164,418,174,412,185,402,197,361,221,359,216,399,193,408,182,413,172,419,161,430,150,467,128"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1yaml_1_1BinaryRef.html" title="Specialized YAMLIO scalar type for representing a binary blob." alt="" coords="593,219,741,245"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="641,256,562,317,558,313,638,252"/>
+</map>

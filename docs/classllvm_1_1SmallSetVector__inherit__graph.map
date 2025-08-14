@@ -1,0 +1,15 @@
+<map id="llvm::SmallSetVector&lt; T, N &gt;" name="llvm::SmallSetVector&lt; T, N &gt;">
+<area shape="rect" id="Node000001" title="A SetVector that performs no allocations if smaller than a certain size." alt="" coords="543,104,688,145"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1SmallSetVector.html" title=" " alt="" coords="842,5,986,46"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="663,94,711,71,777,50,841,35,842,41,778,55,713,76,665,98"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1SmallSetVector.html" title=" " alt="" coords="842,71,986,111"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="703,112,841,96,842,102,703,117"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1SmallSetVector.html" title=" " alt="" coords="842,136,986,177"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="703,139,712,141,841,151,841,157,711,146,703,145"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1SmallSetVector.html" title=" " alt="" coords="842,201,986,242"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="660,151,713,178,778,198,842,210,841,216,777,203,711,183,658,156"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1SetVector.html" title=" " alt="" coords="350,96,494,152"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="509,122,543,122,543,127,509,127"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1SetVector.html" title="A vector that has set insertion semantics." alt="" coords="5,104,139,145"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="154,122,349,122,349,127,154,127"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="llvm::object::pe32_header" name="llvm::object::pe32_header">
+<area shape="rect" id="Node000001" title="The 32&#45;bit PE header that follows the COFF header." alt="" coords="403,244,527,285"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,162,170,218"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,188,280,196,331,205,380,217,433,242,431,246,378,222,329,210,280,201,185,193"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="57,252,118,278"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="134,262,402,262,402,267,134,267"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,494,170,550"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="186,536,234,537,284,532,333,519,377,494,400,473,418,447,432,418,443,388,456,331,460,285,466,286,461,331,448,390,437,420,422,449,404,476,380,499,335,524,285,537,234,542,185,541"/>
+</map>

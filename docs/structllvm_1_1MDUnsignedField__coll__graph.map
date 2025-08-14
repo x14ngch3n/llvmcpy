@@ -1,0 +1,15 @@
+<map id="llvm::MDUnsignedField&lt; NumTy &gt;" name="llvm::MDUnsignedField&lt; NumTy &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,304,163,344"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1MDFieldImpl.html" title=" " alt="" coords="103,214,238,254"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="143,267,105,305,101,301,139,263"/>
+<area shape="rect" id="Node000003" href="$classNumTy.html" title=" " alt="" coords="44,110,108,135"/>
+<area shape="poly" id="edge7_Node000001_Node000003" title=" " alt="" coords="70,151,60,199,58,227,60,254,77,303,72,304,55,255,53,227,54,198,65,150"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="91,147,119,188,144,211,141,215,115,191,87,150"/>
+<area shape="rect" id="Node000004" href="$classbool.html" title=" " alt="" coords="164,5,209,31"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="184,46,175,102,172,163,173,213,167,213,167,163,170,102,178,45"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1MDFieldImpl.html" title="Structure to represent an optional metadata field." alt="" coords="223,102,358,143"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="212,40,273,100,269,104,208,44"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="260,155,194,215,190,211,256,151"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="259,5,322,31"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="293,46,293,102,288,102,288,46"/>
+</map>

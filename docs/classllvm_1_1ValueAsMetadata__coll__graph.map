@@ -1,0 +1,11 @@
+<map id="llvm::ValueAsMetadata" name="llvm::ValueAsMetadata">
+<area shape="rect" id="Node000001" title="Value wrapper in the Metadata hierarchy." alt="" coords="116,197,271,223"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1Metadata.html" title="Root of the metadata hierarchy." alt="" coords="50,122,158,148"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,156,181,195,177,199,129,160"/>
+<area shape="rect" id="Node000003" href="$classbool.html" title=" " alt="" coords="5,5,51,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="25,46,24,72,32,97,44,110,60,119,57,124,41,114,27,100,19,73,19,46"/>
+<area shape="rect" id="Node000004" href="$classunsigned.html" title=" " alt="" coords="143,5,217,31"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="177,46,168,73,153,100,127,124,123,120,149,97,163,71,172,45"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1ReplaceableMetadataImpl.html" title="Shared implementation of use&#45;lists for replaceable metadata." alt="" coords="182,122,386,148"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="259,160,210,199,206,195,255,156"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="llvm::APFloat" name="llvm::APFloat">
+<area shape="rect" id="Node000001" title="A self&#45;contained host&#45; and target&#45;independent arbitrary&#45;precision floating&#45;point software implementat..." alt="" coords="44,341,144,367"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1fltSemantics.html" title=" " alt="" coords="30,122,157,148"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,163,96,341,91,341,91,163"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,5,65,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="32,47,31,72,39,97,49,110,64,119,61,124,46,114,34,100,26,73,27,46"/>
+<area shape="rect" id="Node000004" href="$classunsigned.html" title=" " alt="" coords="117,5,190,31"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="149,47,127,100,108,124,104,121,122,97,144,45"/>
+</map>

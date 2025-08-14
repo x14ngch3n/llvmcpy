@@ -1,0 +1,68 @@
+<map id="TargetTransformInfo.h" name="TargetTransformInfo.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="2593,5,2743,31"/>
+<area shape="rect" id="Node000002" href="$AArch64TargetTransformInfo_8cpp.html" title=" " alt="" coords="5,79,219,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="2578,22,2205,24,1628,31,939,49,581,63,231,82,219,82,219,77,231,76,581,58,939,44,1628,26,2205,18,2578,17"/>
+<area shape="rect" id="Node000003" href="$AMDGPUTargetTransformInfo_8cpp.html" title=" " alt="" coords="242,79,464,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="2578,23,2238,26,1721,34,1107,52,477,82,465,82,465,77,477,76,1107,47,1721,29,2238,20,2578,17"/>
+<area shape="rect" id="Node000004" href="$ARMTargetTransformInfo_8cpp.html" title=" " alt="" coords="489,79,682,105"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="2578,22,2267,25,1803,34,1255,52,971,65,694,82,683,82,682,77,693,76,971,60,1255,46,1803,29,2267,20,2578,17"/>
+<area shape="rect" id="Node000005" href="$BBVectorize_8cpp.html" title=" " alt="" coords="706,79,825,105"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="2578,24,1716,42,1208,59,997,70,836,82,826,83,825,78,836,76,996,64,1208,54,1716,37,2578,18"/>
+<area shape="rect" id="Node000006" href="$BasicTargetTransformInfo_8cpp.html" title=" " alt="" coords="848,79,1045,105"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="2578,23,1943,39,1505,56,1058,82,1045,83,1045,77,1057,76,1504,51,1942,33,2578,18"/>
+<area shape="rect" id="Node000007" href="$CodeGenPrepare_8cpp.html" title=" " alt="" coords="1070,79,1216,105"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="2578,23,2343,27,2009,37,1622,54,1228,82,1216,83,1216,78,1228,76,1622,49,2009,31,2343,22,2578,18"/>
+<area shape="rect" id="Node000008" href="$CodeMetrics_8cpp.html" title=" " alt="" coords="1240,79,1360,105"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="2578,23,2364,26,2065,36,1721,53,1372,82,1361,83,1361,78,1372,76,1721,48,2065,30,2363,21,2578,17"/>
+<area shape="rect" id="Node000009" href="$ConstantHoisting_8cpp.html" title=" " alt="" coords="1384,79,1531,105"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="2578,24,2133,42,1840,58,1543,82,1532,83,1531,78,1542,76,1839,53,2132,36,2578,19"/>
+<area shape="rect" id="Node000010" href="$CostModel_8cpp.html" title=" " alt="" coords="1555,79,1664,105"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="2578,24,2186,40,1932,57,1676,82,1665,83,1664,78,1676,76,1932,52,2185,35,2578,19"/>
+<area shape="rect" id="Node000011" href="$FunctionTargetTransformInfo_8h.html" title=" " alt="" coords="1688,79,1888,105"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="2578,29,1907,82,1888,83,1887,78,1906,76,2578,23"/>
+<area shape="rect" id="Node000013" href="$LoopUnrollPass_8cpp.html" title=" " alt="" coords="1856,153,1994,178"/>
+<area shape="poly" id="edge18_Node000001_Node000013" title=" " alt="" coords="2578,24,2410,30,2214,40,2044,57,1985,68,1952,81,1940,97,1932,116,1928,153,1922,152,1927,115,1935,94,1949,77,1983,63,2043,52,2214,35,2410,24,2578,19"/>
+<area shape="rect" id="Node000014" href="$IndVarSimplify_8cpp.html" title=" " alt="" coords="1962,79,2091,105"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="2578,30,2362,52,2104,82,2092,83,2091,78,2104,76,2361,47,2578,25"/>
+<area shape="rect" id="Node000015" href="$InlineCost_8cpp.html" title=" " alt="" coords="2115,79,2221,105"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="2578,33,2234,82,2222,84,2221,78,2233,76,2578,28"/>
+<area shape="rect" id="Node000016" href="$LoopIdiomRecognize_8cpp.html" title=" " alt="" coords="2245,79,2414,105"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="2596,37,2387,81,2386,76,2595,32"/>
+<area shape="rect" id="Node000017" href="$LoopRotation_8cpp.html" title=" " alt="" coords="2437,79,2560,105"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="2626,40,2529,81,2527,76,2624,35"/>
+<area shape="rect" id="Node000018" href="$LoopStrengthReduce_8cpp.html" title=" " alt="" coords="2584,79,2752,105"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="2671,46,2671,79,2665,79,2665,46"/>
+<area shape="rect" id="Node000019" href="$LoopUnswitch_8cpp.html" title=" " alt="" coords="2777,79,2906,105"/>
+<area shape="poly" id="edge19_Node000001_Node000019" title=" " alt="" coords="2712,35,2813,76,2811,81,2710,40"/>
+<area shape="rect" id="Node000020" href="$LoopVectorize_8cpp.html" title=" " alt="" coords="2930,79,3059,105"/>
+<area shape="poly" id="edge20_Node000001_Node000020" title=" " alt="" coords="2739,32,2940,76,2939,81,2738,37"/>
+<area shape="rect" id="Node000021" href="$MipsTargetMachine_8cpp.html" title=" " alt="" coords="3083,79,3242,105"/>
+<area shape="poly" id="edge21_Node000001_Node000021" title=" " alt="" coords="2759,30,3083,76,3082,82,2758,35"/>
+<area shape="rect" id="Node000022" href="$NVPTXTargetTransformInfo_8cpp.html" title=" " alt="" coords="3266,79,3475,105"/>
+<area shape="poly" id="edge22_Node000001_Node000022" title=" " alt="" coords="2758,26,3266,77,3266,83,2758,31"/>
+<area shape="rect" id="Node000023" href="$PPCTargetTransformInfo_8cpp.html" title=" " alt="" coords="3499,79,3690,105"/>
+<area shape="poly" id="edge23_Node000001_Node000023" title=" " alt="" coords="2758,22,3080,44,3487,76,3499,77,3498,83,3486,82,3080,49,2758,28"/>
+<area shape="rect" id="Node000024" href="$PartiallyInlineLibCalls_8cpp.html" title=" " alt="" coords="3714,79,3886,105"/>
+<area shape="poly" id="edge24_Node000001_Node000024" title=" " alt="" coords="2758,20,3167,39,3433,56,3703,76,3714,77,3714,83,3702,82,3433,61,3167,45,2758,26"/>
+<area shape="rect" id="Node000025" href="$SLPVectorizer_8cpp.html" title=" " alt="" coords="3910,79,4039,105"/>
+<area shape="poly" id="edge25_Node000001_Node000025" title=" " alt="" coords="2758,18,3245,33,3569,50,3898,76,3910,78,3909,83,3897,82,3569,55,3245,38,2758,23"/>
+<area shape="rect" id="Node000026" href="$ScalarEvolutionExpander_8cpp.html" title=" " alt="" coords="4063,79,4254,105"/>
+<area shape="poly" id="edge26_Node000001_Node000026" title=" " alt="" coords="2758,19,3306,36,3676,53,4052,76,4063,77,4063,83,4052,82,3675,58,3305,41,2758,24"/>
+<area shape="rect" id="Node000027" href="$SeparateConstOffsetFromGEP_8cpp.html" title=" " alt="" coords="4278,79,4503,105"/>
+<area shape="poly" id="edge27_Node000001_Node000027" title=" " alt="" coords="2758,18,3388,35,3823,52,4267,76,4278,77,4278,82,4267,82,3823,58,3388,41,2758,24"/>
+<area shape="rect" id="Node000028" href="$SimplifyCFG_8cpp.html" title=" " alt="" coords="4527,79,4649,105"/>
+<area shape="poly" id="edge28_Node000001_Node000028" title=" " alt="" coords="2758,18,3627,37,4140,54,4354,65,4516,76,4527,78,4527,83,4516,82,4354,70,4140,59,3627,42,2758,24"/>
+<area shape="rect" id="Node000029" href="$SimplifyCFGPass_8cpp.html" title=" " alt="" coords="4672,79,4824,105"/>
+<area shape="poly" id="edge29_Node000001_Node000029" title=" " alt="" coords="2758,16,3071,17,3541,24,4095,42,4381,57,4662,76,4672,77,4672,83,4661,82,4381,62,4094,47,3541,29,3071,22,2758,22"/>
+<area shape="rect" id="Node000030" href="$TailRecursionElimination_8cpp.html" title=" " alt="" coords="4848,79,5037,105"/>
+<area shape="poly" id="edge30_Node000001_Node000030" title=" " alt="" coords="2758,17,3095,18,3607,26,4214,44,4528,58,4836,76,4848,77,4848,83,4836,82,4528,64,4214,49,3607,32,3095,24,2758,22"/>
+<area shape="rect" id="Node000031" href="$TargetTransformInfo_8cpp.html" title=" " alt="" coords="5061,79,5224,105"/>
+<area shape="poly" id="edge31_Node000001_Node000031" title=" " alt="" coords="2758,18,3874,36,4551,54,4835,64,5050,76,5061,77,5061,83,5049,82,4835,70,4551,59,3874,42,2758,23"/>
+<area shape="rect" id="Node000032" href="$X86TargetTransformInfo_8cpp.html" title=" " alt="" coords="5248,79,5434,105"/>
+<area shape="poly" id="edge32_Node000001_Node000032" title=" " alt="" coords="2758,18,3959,37,4695,54,5003,65,5236,76,5248,77,5248,83,5236,82,5003,70,4695,59,3959,42,2758,23"/>
+<area shape="rect" id="Node000033" href="$XCoreTargetTransformInfo_8cpp.html" title=" " alt="" coords="5458,79,5659,105"/>
+<area shape="poly" id="edge33_Node000001_Node000033" title=" " alt="" coords="2758,18,4055,36,4857,54,5193,64,5447,76,5458,77,5458,82,5447,82,5193,70,4857,59,4055,42,2758,23"/>
+<area shape="rect" id="Node000012" href="$FunctionTargetTransformInfo_8cpp.html" title=" " alt="" coords="1619,153,1832,178"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="1770,118,1738,154,1734,150,1766,115"/>
+<area shape="poly" id="edge12_Node000011_Node000013" title=" " alt="" coords="1826,110,1903,150,1901,154,1824,115"/>
+</map>

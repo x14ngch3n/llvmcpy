@@ -1,0 +1,15 @@
+<map id="llvm::DIType" name="llvm::DIType">
+<area shape="rect" id="Node000001" title=" " alt="" coords="100,153,196,178"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1DIBasicType.html" title="A basic type, like &#39;int&#39; or &#39;float&#39;." alt="" coords="5,226,134,252"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="126,191,84,228,81,224,122,187"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1DIDerivedType.html" title="A simple derived type." alt="" coords="158,226,298,252"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="175,187,217,224,213,228,171,191"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1DIScope.html" title="A base class for various scopes." alt="" coords="96,79,200,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="151,120,151,152,146,152,146,120"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1DIDescriptor.html" title="A thin wraper around MDNode to access encoded debug info." alt="" coords="84,5,212,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="151,46,151,79,146,79,146,46"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1DICompositeType.html" title="Types that refer to multiple other types." alt="" coords="149,300,307,326"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="231,267,231,300,226,300,226,267"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1DISubroutineType.html" title=" " alt="" coords="150,374,307,399"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="231,341,231,373,226,373,226,341"/>
+</map>

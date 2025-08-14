@@ -1,0 +1,9 @@
+<map id="llvm::AssertingVH&lt; ValueTy &gt;" name="llvm::AssertingVH&lt; ValueTy &gt;">
+<area shape="rect" id="Node000001" title="Value handle that asserts if the Value is deleted." alt="" coords="85,80,221,121"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1AssertingVH.html" title=" " alt="" coords="5,192,141,233"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="105,132,92,146,82,169,77,192,72,191,76,167,87,144,101,129"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1AssertingVH.html" title=" " alt="" coords="165,192,301,233"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="194,130,206,143,220,167,230,191,225,193,215,170,202,147,190,133"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1ValueHandleBase.html" title="This is the common base class of value handles." alt="" coords="75,5,231,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="156,47,156,80,150,80,150,47"/>
+</map>

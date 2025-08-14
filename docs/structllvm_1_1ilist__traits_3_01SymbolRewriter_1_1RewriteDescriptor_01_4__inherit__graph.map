@@ -1,0 +1,33 @@
+<map id="llvm::ilist_traits&lt; SymbolRewriter::RewriteDescriptor &gt;" name="llvm::ilist_traits&lt; SymbolRewriter::RewriteDescriptor &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1205,183,1457,223"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1ilist__default__traits.html" title=" " alt="" coords="829,175,991,231"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1007,208,1205,209,1205,214,1007,213"/>
+<area shape="poly" id="edge12_Node000001_Node000002" title=" " alt="" coords="1007,193,1205,192,1205,197,1007,198"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1ilist__nextprev__traits.html" title=" " alt="" coords="408,95,570,151"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="586,139,829,185,828,190,585,144"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1ilist__nextprev__traits.html" title=" " alt="" coords="12,103,143,143"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="158,120,408,120,408,126,158,126"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1ilist__sentinel__traits.html" title=" " alt="" coords="408,175,570,231"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="586,200,829,200,829,206,586,206"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1ilist__sentinel__traits.html" title=" " alt="" coords="14,177,141,218"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="156,196,408,199,408,205,156,201"/>
+<area shape="rect" id="Node000007" href="$structllvm_1_1ilist__node__traits.html" title=" " alt="" coords="364,29,615,70"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="589,72,694,104,806,146,860,172,858,177,804,151,693,109,587,77"/>
+<area shape="rect" id="Node000008" href="$structllvm_1_1ilist__node__traits.html" title=" " alt="" coords="5,28,150,69"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="165,46,363,47,363,52,165,51"/>
+<area shape="rect" id="Node000009" href="$structllvm_1_1ilist__default__traits.html" title=" " alt="" coords="426,281,552,322"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="567,293,680,278,743,265,804,249,855,229,857,234,806,254,744,270,681,283,568,298"/>
+<area shape="rect" id="Node000010" href="$structllvm_1_1ilist__nextprev__traits.html" title=" " alt="" coords="12,381,143,422"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="148,373,173,366,308,333,425,310,427,315,309,338,174,371,149,379"/>
+<area shape="rect" id="Node000014" href="$structllvm_1_1ilist__default__traits.html" title=" " alt="" coords="426,347,552,387"/>
+<area shape="poly" id="edge15_Node000014_Node000010" title=" " alt="" coords="158,392,425,370,426,375,159,398"/>
+<area shape="rect" id="Node000011" href="$structllvm_1_1ilist__sentinel__traits.html" title=" " alt="" coords="14,315,141,355"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="156,326,173,324,426,304,426,309,174,330,156,331"/>
+<area shape="poly" id="edge16_Node000014_Node000011" title=" " alt="" coords="156,338,426,359,425,365,156,344"/>
+<area shape="rect" id="Node000012" href="$structllvm_1_1ilist__node__traits.html" title=" " alt="" coords="5,249,150,290"/>
+<area shape="poly" id="edge11_Node000009_Node000012" title=" " alt="" coords="165,258,174,258,257,253,293,253,340,258,385,266,428,278,427,283,384,272,339,263,293,258,257,258,174,263,166,263"/>
+<area shape="poly" id="edge17_Node000014_Node000012" title=" " alt="" coords="166,286,340,327,426,348,425,354,339,332,164,292"/>
+<area shape="rect" id="Node000013" href="$structllvm_1_1ilist__traits.html" title=" " alt="" coords="856,313,965,354"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="979,311,1181,249,1266,221,1268,226,1182,254,981,316"/>
+<area shape="poly" id="edge14_Node000013_Node000014" title=" " alt="" coords="568,358,855,335,855,341,568,364"/>
+</map>

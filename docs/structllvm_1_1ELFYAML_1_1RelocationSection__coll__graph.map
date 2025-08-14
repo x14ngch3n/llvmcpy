@@ -1,0 +1,20 @@
+<map id="llvm::ELFYAML::RelocationSection" name="llvm::ELFYAML::RelocationSection">
+<area shape="rect" id="Node000001" title=" " alt="" coords="148,331,329,371"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1ELFYAML_1_1Section.html" title=" " alt="" coords="156,226,320,252"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="241,268,241,330,236,330,236,268"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="436,102,528,128"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="477,143,464,172,442,197,297,228,296,223,439,193,460,169,473,141"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1StringRef.html" title=" " alt="" coords="5,102,114,128"/>
+<area shape="poly" id="edge8_Node000001_Node000004" title=" " alt="" coords="67,142,85,199,99,230,117,258,158,298,202,328,199,332,155,302,113,261,94,232,80,200,62,144"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="82,137,111,165,146,193,176,210,206,223,204,228,174,215,143,197,108,169,79,141"/>
+<area shape="rect" id="Node000005" href="$classsize__t.html" title=" " alt="" coords="31,5,88,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="62,46,62,101,57,101,57,46"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="137,102,216,128"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="190,141,215,194,233,225,228,227,210,196,185,143"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="241,102,320,128"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="274,143,245,227,240,225,269,142"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="344,102,404,128"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="361,142,341,170,316,197,292,215,267,228,264,224,289,210,312,193,337,166,357,139"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="344,219,503,260"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="379,270,272,333,270,328,376,265"/>
+</map>

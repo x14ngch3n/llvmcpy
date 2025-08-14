@@ -1,0 +1,7 @@
+<map id="llvm::MachO::scattered_relocation_info" name="llvm::MachO::scattered_relocation_info">
+<area shape="rect" id="Node000001" title=" " alt="" coords="12,183,170,224"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,73,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="36,47,31,100,34,130,43,158,62,181,58,185,38,161,29,131,26,100,30,46"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="113,5,173,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="142,47,133,100,116,160,105,184,100,182,111,158,128,99,137,46"/>
+</map>

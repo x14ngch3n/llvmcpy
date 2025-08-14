@@ -1,0 +1,9 @@
+<map id="llvm::FoldingSetTrait&lt; std::pair&lt; T1, T2 &gt; &gt;" name="llvm::FoldingSetTrait&lt; std::pair&lt; T1, T2 &gt; &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="57,177,212,218"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1DefaultFoldingSetTrait.html" title=" " alt="" coords="5,80,221,106"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,121,133,176,128,177,116,122"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1FoldingSetTrait.html" title=" " alt="" coords="245,80,418,106"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="296,116,173,179,171,174,294,111"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1DefaultFoldingSetTrait.html" title=" " alt="" coords="224,5,439,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="334,46,334,80,329,80,329,46"/>
+</map>

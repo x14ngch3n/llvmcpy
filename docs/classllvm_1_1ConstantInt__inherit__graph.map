@@ -1,0 +1,9 @@
+<map id="llvm::ConstantInt" name="llvm::ConstantInt">
+<area shape="rect" id="Node000001" title="Class for constant integers." alt="" coords="5,226,127,252"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1Constant.html" title="LLVM Constant Representation." alt="" coords="13,153,119,178"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="69,194,69,226,63,226,63,194"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1User.html" title=" " alt="" coords="25,79,107,105"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="69,120,69,152,63,152,63,120"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1Value.html" title="LLVM Value Representation." alt="" coords="23,5,109,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="69,46,69,79,63,79,63,46"/>
+</map>

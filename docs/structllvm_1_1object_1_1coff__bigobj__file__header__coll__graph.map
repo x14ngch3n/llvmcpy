@@ -1,0 +1,9 @@
+<map id="llvm::object::coff_bigobj_file_header" name="llvm::object::coff_bigobj_file_header">
+<area shape="rect" id="Node000001" title=" " alt="" coords="356,273,488,314"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,70,170,125"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="186,86,223,89,261,95,299,106,333,125,367,158,392,198,409,239,419,272,414,274,404,241,387,201,363,161,330,129,297,111,260,100,222,94,185,92"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,266,170,321"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="185,291,355,291,355,296,185,296"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="57,346,118,372"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="133,352,225,339,331,319,359,312,360,317,332,324,225,345,133,357"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="llvm::PtrUseVisitor&lt; DerivedT &gt;" name="llvm::PtrUseVisitor&lt; DerivedT &gt;">
+<area shape="rect" id="Node000001" title="A base class for visitors over the uses of a pointer value." alt="" coords="146,207,277,248"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1PtrUseVisitor.html" title=" " alt="" coords="146,319,277,359"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="214,263,214,318,209,318,209,263"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1InstVisitor.html" title=" " alt="" coords="14,117,134,158"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,164,182,204,179,209,116,169"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1InstVisitor.html" title="Base class for instruction visitors." alt="" coords="5,5,143,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="77,61,77,117,71,117,71,61"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1detail_1_1PtrUseVisitorBase.html" title="Implementation of non&#45;dependent functionality for PtrUseVisitor." alt="" coords="158,124,358,150"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="247,165,224,208,219,205,242,163"/>
+<area shape="rect" id="Node000006" href="$classAllocaSlices_1_1SliceBuilder.html" title="Builder for the alloca slices." alt="" coords="126,409,296,434"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="214,375,214,408,209,408,209,375"/>
+</map>

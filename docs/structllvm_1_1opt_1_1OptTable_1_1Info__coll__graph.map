@@ -1,0 +1,7 @@
+<map id="llvm::opt::OptTable::Info" name="llvm::opt::OptTable::Info">
+<area shape="rect" id="Node000001" title="Entry for a single option instance in the option data table." alt="" coords="10,204,141,244"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,52,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="25,46,20,109,22,145,32,178,50,202,45,205,27,181,17,146,14,109,20,46"/>
+<area shape="rect" id="Node000003" href="$classunsigned.html" title=" " alt="" coords="86,5,160,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="123,47,113,108,96,180,87,204,82,202,91,179,108,107,118,46"/>
+</map>

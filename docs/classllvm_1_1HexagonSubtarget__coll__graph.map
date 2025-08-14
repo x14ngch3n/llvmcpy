@@ -1,0 +1,7 @@
+<map id="llvm::HexagonSubtarget" name="llvm::HexagonSubtarget">
+<area shape="rect" id="Node000001" title=" " alt="" coords="102,102,263,128"/>
+<area shape="rect" id="Node000002" href="$classHexagonGenSubtargetInfo.html" title=" " alt="" coords="5,5,181,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,41,173,100,169,103,113,44"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="204,5,339,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="252,44,196,103,192,100,248,41"/>
+</map>

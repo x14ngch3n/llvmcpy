@@ -1,0 +1,18 @@
+<map id="llvm::MachineConstantPoolEntry" name="llvm::MachineConstantPoolEntry">
+<area shape="rect" id="Node000001" title="An entry in a MachineConstantPool." alt="" coords="162,426,343,467"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1Constant.html" title="LLVM Constant Representation." alt="" coords="78,322,184,348"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="158,356,233,424,229,428,154,360"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1User.html" title=" " alt="" coords="111,239,192,265"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="147,281,137,322,132,321,142,280"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1Value.html" title="LLVM Value Representation." alt="" coords="58,143,143,168"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="117,181,147,237,142,240,112,183"/>
+<area shape="rect" id="Node000005" href="$classunsigned.html" title=" " alt="" coords="5,5,79,31"/>
+<area shape="poly" id="edge8_Node000001_Node000005" title=" " alt="" coords="38,47,28,97,23,154,23,336,27,358,36,376,50,392,68,405,113,424,162,435,161,441,111,429,65,410,46,396,31,379,22,359,18,336,18,154,23,96,33,46"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="56,44,98,141,93,143,51,46"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1Use.html" title="A Use represents the edge between a Value definition and its users." alt="" coords="167,143,245,168"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="194,183,161,240,156,237,189,181"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1MachineConstantPoolValue.html" title=" " alt="" coords="209,314,390,355"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="288,370,263,427,258,425,283,368"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="414,322,524,348"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="446,360,415,383,381,404,324,428,322,423,378,400,412,378,442,355"/>
+</map>

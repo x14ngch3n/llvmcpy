@@ -1,0 +1,15 @@
+<map id="llvm::RefCountedBase&lt; Derived &gt;" name="llvm::RefCountedBase&lt; Derived &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,71,159,111"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1RefCountedBase.html" title=" " alt="" coords="330,5,483,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,64,182,60,329,34,330,39,183,66,170,69"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1RefCountedBase.html" title=" " alt="" coords="330,71,483,111"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="174,88,329,88,329,94,174,94"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1RefCountedBase.html" title=" " alt="" coords="330,136,483,177"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="168,113,183,117,330,143,329,149,182,122,167,118"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1BitCodeAbbrev.html" title=" " alt="" coords="532,13,674,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="498,23,532,23,532,28,498,28"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1sys_1_1fs_1_1detail_1_1DirIterState.html" title=" " alt="" coords="537,71,669,111"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="498,88,537,88,537,94,498,94"/>
+<area shape="rect" id="Node000007" href="$structllvm_1_1sys_1_1fs_1_1detail_1_1RecDirIterState.html" title=" " alt="" coords="537,136,669,177"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="498,154,537,154,537,159,498,159"/>
+</map>

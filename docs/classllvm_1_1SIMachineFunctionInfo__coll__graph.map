@@ -1,0 +1,16 @@
+<map id="llvm::SIMachineFunctionInfo" name="llvm::SIMachineFunctionInfo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="195,313,382,338"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1AMDGPUMachineFunction.html" title=" " alt="" coords="183,187,394,212"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="291,228,291,312,286,312,286,228"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1MachineFunctionInfo.html" title=" " alt="" coords="410,13,584,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="485,54,457,95,418,136,370,167,323,189,321,184,368,163,415,132,453,91,480,51"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="104,5,300,46"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="195,61,192,97,194,115,200,132,212,149,227,163,260,184,258,189,224,167,208,153,195,135,189,117,186,97,190,61"/>
+<area shape="rect" id="Node000005" href="$classunsigned.html" title=" " alt="" coords="5,13,79,38"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="38,54,30,94,27,143,34,194,43,218,55,240,84,268,119,289,157,304,195,313,194,319,155,309,116,294,81,273,51,243,38,220,29,195,22,143,25,93,32,53"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="52,53,70,94,83,114,99,131,252,184,251,189,96,136,79,117,65,96,47,55"/>
+<area shape="rect" id="Node000006" href="$classbool.html" title=" " alt="" coords="341,13,386,38"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="361,54,352,93,336,135,319,164,301,188,297,185,315,161,332,133,347,91,356,53"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="419,187,601,212"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="476,223,311,315,309,310,474,218"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="llvm::isPodLike&lt; Slice &gt;" name="llvm::isPodLike&lt; Slice &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,199,169,224"/>
+<area shape="rect" id="Node000002" href="$classbool.html" title=" " alt="" coords="64,5,110,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="86,46,81,102,83,156,88,198,82,198,77,156,76,102,81,46"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1isPodLike.html" title=" " alt="" coords="129,102,272,128"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="114,39,187,99,184,103,111,43"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="176,140,103,200,100,196,173,135"/>
+</map>

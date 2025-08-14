@@ -1,0 +1,21 @@
+<map id="llvm::ImutProfileInfo&lt; T &gt;" name="llvm::ImutProfileInfo&lt; T &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,173,176,199"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1ImutContainerInfo_3_01T_01_5_01_4.html" title=" " alt="" coords="652,40,809,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,158,140,102,167,74,198,52,257,27,319,11,382,4,446,3,507,8,565,16,661,37,660,42,564,21,507,13,446,9,383,9,320,16,258,32,201,56,170,78,144,106,107,161"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1ImutContainerInfo.html" title=" " alt="" coords="366,48,555,74"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="109,159,147,119,172,100,199,85,239,70,282,61,365,54,366,59,283,66,241,75,201,90,175,105,151,123,113,163"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1ImutProfileInfo.html" title=" " alt="" coords="386,97,534,123"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="129,163,199,137,296,118,386,110,386,115,296,124,200,142,131,168"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1ImutProfileInfo.html" title=" " alt="" coords="375,147,546,172"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="191,176,374,163,375,168,191,181"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1ImutProfileInfo.html" title=" " alt="" coords="394,200,526,226"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="169,199,200,204,302,210,394,211,394,217,302,216,199,209,168,205"/>
+<area shape="rect" id="Node000007" href="$structllvm_1_1ImutProfileInfo.html" title=" " alt="" coords="383,249,538,275"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="125,205,161,224,200,240,247,250,294,257,383,262,383,267,294,262,246,256,199,245,158,229,123,210"/>
+<area shape="rect" id="Node000008" href="$structllvm_1_1ImutProfileInfo_3_01T_01_5_01_4.html" title=" " alt="" coords="391,299,530,340"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="112,210,149,252,174,273,201,289,248,306,298,316,347,321,391,321,391,327,346,326,297,321,247,311,199,294,171,277,146,256,108,213"/>
+<area shape="rect" id="Node000009" href="$structllvm_1_1ImutProfileInfo_3_01bool_01_4.html" title="Profile traits for booleans." alt="" coords="391,364,530,405"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="104,212,118,245,139,283,166,320,201,349,247,371,296,383,346,388,391,388,391,394,346,393,296,388,245,376,198,354,163,324,134,286,113,248,99,214"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="571,58,651,58,651,63,571,63"/>
+<area shape="poly" id="edge9_Node000008_Node000002" title=" " alt="" coords="542,292,553,285,609,235,656,178,692,123,717,80,721,83,697,126,660,181,613,239,557,289,545,297"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,80,141,106"/>
+<area shape="rect" id="Node000001" href="$structllvm_1_1greater__ptr.html" title=" " alt="" coords="189,5,342,31"/>
+<area shape="poly" id="edge2644_Node000000_Node000001" title=" " alt="" coords="115,71,188,40,218,29,220,34,190,45,117,75"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1latency__sort.html" title="Sorting functions for the Available queue." alt="" coords="203,55,328,80"/>
+<area shape="poly" id="edge2645_Node000000_Node000002" title=" " alt="" coords="156,79,202,73,203,78,156,85"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1less__ptr.html" title=" " alt="" coords="197,104,334,130"/>
+<area shape="poly" id="edge2646_Node000000_Node000003" title=" " alt="" coords="157,101,197,106,196,111,156,106"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1resource__sort.html" title="Sorting functions for the Available queue." alt="" coords="199,153,332,179"/>
+<area shape="poly" id="edge2647_Node000000_Node000004" title=" " alt="" coords="118,110,190,140,220,150,218,155,188,145,116,115"/>
+</map>

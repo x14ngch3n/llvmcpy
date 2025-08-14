@@ -1,0 +1,15 @@
+<map id="llvm::SubMultiClassReference" name="llvm::SubMultiClassReference">
+<area shape="rect" id="Node000001" title=" " alt="" coords="99,234,298,260"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1SMRange.html" title=" " alt="" coords="5,137,117,163"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,172,127,208,170,231,168,236,125,212,81,176"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1SMLoc.html" title="Represents a location in source code." alt="" coords="14,13,108,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="64,54,64,137,58,137,58,54"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1MultiClass.html" title=" " alt="" coords="141,137,256,163"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="201,178,201,233,196,233,196,178"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1Record.html" title=" " alt="" coords="141,13,237,38"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="194,54,200,137,195,137,188,54"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="261,5,394,46"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="298,59,213,139,209,135,294,55"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="280,137,420,163"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="320,174,219,236,217,231,317,169"/>
+</map>

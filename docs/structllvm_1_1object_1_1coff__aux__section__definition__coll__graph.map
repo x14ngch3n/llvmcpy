@@ -1,0 +1,9 @@
+<map id="llvm::object::coff_aux_section_definition" name="llvm::object::coff_aux_section_definition">
+<area shape="rect" id="Node000001" title=" " alt="" coords="360,143,517,184"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,21,170,77"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,45,261,54,300,63,337,76,362,90,385,107,421,141,417,145,381,111,359,94,335,81,298,68,260,59,185,50"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,136,170,192"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="185,161,359,161,359,166,185,166"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="57,226,118,251"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="133,236,227,230,282,222,335,210,369,198,400,182,402,187,371,202,336,215,283,227,228,235,134,241"/>
+</map>

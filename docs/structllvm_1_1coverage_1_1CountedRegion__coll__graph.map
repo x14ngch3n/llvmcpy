@@ -1,0 +1,16 @@
+<map id="llvm::coverage::CountedRegion" name="llvm::coverage::CountedRegion">
+<area shape="rect" id="Node000001" title="Associates a source range with an execution count." alt="" coords="378,511,582,537"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1coverage_1_1CounterMappingRegion.html" title="A Counter mapping region associates a source range with a specific counter." alt="" coords="294,399,503,440"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="425,450,472,509,468,512,421,454"/>
+<area shape="rect" id="Node000003" href="$classunsigned.html" title=" " alt="" coords="14,5,87,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="42,46,24,103,10,177,8,217,12,256,23,293,43,327,58,340,81,353,144,375,219,391,294,404,293,409,218,397,143,380,79,358,55,345,39,330,18,295,7,257,3,217,5,177,19,101,37,45"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1coverage_1_1Counter.html" title="A Counter is an abstract value that describes how to compute the execution count for a region of code..." alt="" coords="208,233,368,258"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="76,40,277,230,273,234,72,44"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="303,271,329,320,363,374,382,397,378,401,359,377,324,322,298,274"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="392,233,480,258"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="433,274,405,399,400,398,427,273"/>
+<area shape="rect" id="Node000006" href="$classbool.html" title=" " alt="" coords="504,233,549,258"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="520,274,494,330,476,355,454,377,426,401,423,397,450,373,472,352,489,327,515,272"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="527,407,595,432"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="544,446,491,512,487,509,540,443"/>
+</map>

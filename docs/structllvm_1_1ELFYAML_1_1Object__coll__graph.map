@@ -1,0 +1,25 @@
+<map id="llvm::ELFYAML::Object" name="llvm::ELFYAML::Object">
+<area shape="rect" id="Node000001" title=" " alt="" coords="564,273,721,299"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1ELFYAML_1_1FileHeader.html" title=" " alt="" coords="272,192,454,218"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="426,220,596,270,595,275,424,225"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="25,5,145,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="161,29,205,44,247,65,284,95,315,130,357,190,352,193,311,134,280,99,244,70,203,49,160,34"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="30,59,140,84"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="156,83,201,96,247,114,306,152,350,190,346,194,303,157,244,119,200,101,154,88"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="26,112,144,138"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="159,136,246,157,332,189,330,194,245,162,158,141"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="50,165,120,191"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="136,180,272,193,271,199,135,186"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="49,219,121,244"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="136,227,245,219,272,216,272,221,246,224,136,232"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="50,272,120,298"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="134,276,188,266,245,252,332,216,334,221,247,257,189,271,135,281"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="55,325,115,351"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="129,334,188,323,218,312,244,295,253,284,256,272,259,258,268,244,290,228,314,216,317,221,293,232,272,248,264,260,261,273,257,286,247,299,220,317,189,329,130,339"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="291,258,436,314"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="452,284,563,284,563,289,452,289"/>
+<area shape="rect" id="Node000011" href="$structllvm_1_1ELFYAML_1_1LocalGlobalWeakSymbols.html" title=" " alt="" coords="270,370,457,410"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="433,362,605,297,606,302,435,367"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="5,412,165,453"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="180,434,245,429,314,408,315,414,246,434,180,440"/>
+</map>

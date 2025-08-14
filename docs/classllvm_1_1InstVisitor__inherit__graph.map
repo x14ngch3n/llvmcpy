@@ -1,0 +1,32 @@
+<map id="llvm::InstVisitor&lt; SubClass, RetTy &gt;" name="llvm::InstVisitor&lt; SubClass, RetTy &gt;">
+<area shape="rect" id="Node000001" title="Base class for instruction visitors." alt="" coords="5,281,143,321"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1PtrUseVisitor.html" title=" " alt="" coords="977,85,1108,125"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="77,265,86,224,102,177,128,132,145,112,165,96,216,67,270,45,325,27,383,15,441,7,500,4,616,7,727,20,828,39,915,61,983,82,981,87,914,66,827,45,726,25,616,12,500,9,441,13,383,20,327,33,271,50,218,72,168,101,149,116,132,135,107,179,91,225,82,266"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1InstVisitor.html" title=" " alt="" coords="414,114,534,155"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="87,265,118,213,139,188,165,168,195,153,227,141,294,128,358,123,413,125,413,130,358,129,294,133,229,146,197,158,168,173,143,192,122,217,92,268"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1InstVisitor.html" title=" " alt="" coords="403,179,545,220"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="106,268,134,248,166,231,226,212,289,201,350,196,403,194,403,200,350,201,290,206,228,217,168,236,136,252,109,273"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1InstVisitor.html" title=" " alt="" coords="403,244,544,300"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="158,292,402,274,403,280,158,298"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1InstVisitor.html" title=" " alt="" coords="378,323,570,364"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="158,319,167,320,276,332,377,339,377,344,275,338,166,325,157,324"/>
+<area shape="rect" id="Node000010" href="$classllvm_1_1InstVisitor.html" title=" " alt="" coords="414,389,534,429"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="110,330,137,349,168,366,231,386,297,398,360,405,414,407,413,412,359,410,296,403,230,391,166,371,134,354,107,334"/>
+<area shape="rect" id="Node000012" href="$classllvm_1_1InstVisitor.html" title=" " alt="" coords="382,453,566,509"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="88,335,100,365,117,398,140,428,168,453,219,476,274,489,330,493,382,492,382,497,330,498,273,494,217,481,165,457,136,432,112,401,95,367,83,337"/>
+<area shape="rect" id="Node000014" href="$classllvm_1_1InstVisitor.html" title=" " alt="" coords="391,533,556,589"/>
+<area shape="poly" id="edge14_Node000001_Node000014" title=" " alt="" coords="80,336,86,385,101,442,127,498,146,522,168,542,193,557,220,568,278,581,336,582,390,577,391,582,337,587,277,586,218,574,191,562,165,547,142,525,123,500,96,444,81,386,74,337"/>
+<area shape="rect" id="Node000003" href="$classAllocaSlices_1_1SliceBuilder.html" title="Builder for the alloca slices." alt="" coords="1157,92,1328,118"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1124,102,1157,102,1157,108,1124,108"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1PtrUseVisitor.html" title="A base class for visitors over the uses of a pointer value." alt="" coords="658,114,789,155"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="550,132,657,132,657,137,550,137"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="805,128,952,116,976,113,977,118,953,121,805,133"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1InstCombiner.html" title="InstCombiner &#45; The &#45;instcombine pass." alt="" coords="658,331,789,357"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="586,341,657,341,657,346,586,346"/>
+<area shape="rect" id="Node000011" href="$classllvm_1_1Interpreter.html" title=" " alt="" coords="667,396,780,422"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="549,406,667,406,667,412,549,412"/>
+<area shape="rect" id="Node000013" href="$classllvm_1_1ObjectSizeOffsetEvaluator.html" title="Evaluate the size and offset of an object pointed to by a Value*. May create code to compute the resu..." alt="" coords="619,468,828,494"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="581,478,619,478,619,484,581,484"/>
+<area shape="rect" id="Node000015" href="$classllvm_1_1ObjectSizeOffsetVisitor.html" title="Evaluate the size and offset of an object pointed to by a Value* statically. Fails if size or offset ..." alt="" coords="628,548,819,574"/>
+<area shape="poly" id="edge15_Node000014_Node000015" title=" " alt="" coords="572,558,628,558,628,564,572,564"/>
+</map>

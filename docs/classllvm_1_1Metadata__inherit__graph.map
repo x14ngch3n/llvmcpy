@@ -1,0 +1,21 @@
+<map id="llvm::Metadata" name="llvm::Metadata">
+<area shape="rect" id="Node000001" title="Root of the metadata hierarchy." alt="" coords="5,92,113,118"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1MDNode.html" title="Tuple of metadata." alt="" coords="186,43,291,68"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="122,85,188,66,190,72,124,90"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1MDString.html" title="A single uniqued string." alt="" coords="184,92,292,118"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="128,102,184,102,184,108,128,108"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1ValueAsMetadata.html" title="Value wrapper in the Metadata hierarchy." alt="" coords="161,141,316,167"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="124,120,190,138,188,143,122,125"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1MDNodeFwdDecl.html" title="Forward declaration of metadata." alt="" coords="374,5,531,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="305,41,374,29,375,34,306,46"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1UniquableMDNode.html" title="Uniquable metadata node." alt="" coords="370,55,534,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="306,57,370,60,370,66,306,62"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1MDLocation.html" title="Debug location." alt="" coords="588,31,712,56"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="549,53,588,48,588,54,549,58"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1MDTuple.html" title="Tuple of metadata." alt="" coords="597,80,703,106"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="549,77,597,83,596,89,549,83"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1ConstantAsMetadata.html" title=" " alt="" coords="364,116,540,142"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="331,141,363,137,364,142,332,146"/>
+<area shape="rect" id="Node000010" href="$classllvm_1_1LocalAsMetadata.html" title=" " alt="" coords="375,165,529,191"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="332,162,375,167,374,172,331,167"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="llvm::Mips16HardFloatInfo::FuncNameSignature" name="llvm::Mips16HardFloatInfo::FuncNameSignature">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,214,180,254"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="33,110,80,135"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="68,149,89,212,84,214,63,151"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1Mips16HardFloatInfo_1_1FuncSignature.html" title=" " alt="" coords="104,102,278,143"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="165,156,112,215,108,212,162,152"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="62,5,179,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="140,42,180,100,176,103,135,45"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="203,5,320,31"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="252,46,232,80,212,103,208,100,228,76,247,44"/>
+</map>

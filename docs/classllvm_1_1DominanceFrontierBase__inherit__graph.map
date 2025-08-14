@@ -1,0 +1,29 @@
+<map id="llvm::DominanceFrontierBase&lt; BlockT &gt;" name="llvm::DominanceFrontierBase&lt; BlockT &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,298,199,338"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1ForwardDominanceFrontierBase.html" title=" " alt="" coords="433,540,644,581"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,352,130,394,152,441,183,487,203,507,224,524,273,548,327,562,381,569,433,569,433,575,381,574,326,568,271,553,221,528,199,511,179,490,148,444,125,396,110,354"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1DominanceFrontierBase.html" title=" " alt="" coords="441,88,636,114"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="112,282,128,244,151,201,182,160,221,126,260,113,315,104,441,97,441,103,316,109,261,118,224,131,186,163,155,204,132,247,117,284"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1DominanceFrontierBase.html" title=" " alt="" coords="429,140,648,166"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="120,283,161,228,189,201,222,180,258,168,310,160,428,152,428,157,310,165,259,173,224,184,193,205,165,232,124,286"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1DominanceFrontierBase.html" title=" " alt="" coords="447,193,630,219"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="140,286,179,262,222,242,279,226,337,215,446,204,447,210,338,220,280,231,224,247,181,267,143,291"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1DominanceFrontierBase.html" title=" " alt="" coords="472,260,604,301"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="214,306,472,284,472,289,214,311"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1DominanceFrontierBase.html" title=" " alt="" coords="443,335,634,376"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="171,341,223,353,279,360,337,362,442,361,443,366,336,368,279,365,222,359,170,346"/>
+<area shape="rect" id="Node000010" href="$classllvm_1_1DominanceFrontierBase.html" title=" " alt="" coords="445,410,632,450"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="133,347,173,383,198,400,224,412,279,428,336,436,392,439,444,438,444,443,392,444,336,442,278,433,222,417,195,404,170,387,129,351"/>
+<area shape="rect" id="Node000011" href="$classllvm_1_1DominanceFrontierBase.html" title=" " alt="" coords="458,475,618,516"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="118,352,134,386,157,425,187,461,224,488,252,501,281,509,343,518,403,517,457,511,458,516,403,523,342,523,280,515,250,506,221,493,183,465,153,428,130,389,113,354"/>
+<area shape="rect" id="Node000012" href="$classllvm_1_1DominanceFrontierBase.html" title=" " alt="" coords="442,23,635,64"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="107,282,120,233,141,175,174,118,196,93,221,72,273,45,330,31,388,26,441,27,441,32,388,31,331,36,275,50,224,76,200,97,179,121,146,177,125,234,112,283"/>
+<area shape="rect" id="Node000013" href="$classllvm_1_1DominanceFrontierBase.html" title=" " alt="" coords="442,606,635,646"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="109,353,119,410,140,478,155,512,173,545,196,574,224,599,248,614,275,625,331,639,387,643,441,640,441,646,387,648,330,644,273,630,246,618,221,603,193,578,169,548,150,514,135,479,114,411,104,354"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1ForwardDominanceFrontierBase.html" title=" " alt="" coords="881,472,1091,513"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="659,536,672,534,880,504,881,509,672,539,659,541"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1ForwardDominanceFrontierBase.html" title=" " alt="" coords="875,554,1097,594"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="659,562,875,568,874,573,659,567"/>
+<area shape="poly" id="edge12_Node000012_Node000003" title=" " alt="" coords="642,69,650,73,710,119,766,173,817,230,862,288,934,396,977,471,972,473,929,399,858,292,813,234,762,177,706,124,646,78,639,73"/>
+<area shape="poly" id="edge14_Node000013_Node000004" title=" " alt="" coords="650,610,874,584,875,590,651,616"/>
+</map>

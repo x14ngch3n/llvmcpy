@@ -1,0 +1,9 @@
+<map id="llvm::COFF::AuxiliarybfAndefSymbol" name="llvm::COFF::AuxiliarybfAndefSymbol">
+<area shape="rect" id="Node000001" title=" " alt="" coords="27,143,220,183"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,66,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="40,46,47,82,63,117,88,140,84,144,59,120,42,83,35,47"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="90,5,157,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="126,47,126,142,121,142,121,47"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="195,5,262,31"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="229,47,221,84,202,120,173,144,169,140,197,117,215,82,224,46"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="llvm::MipsFunctionInfo" name="llvm::MipsFunctionInfo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="333,39,486,64"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1MachineFunctionInfo.html" title=" " alt="" coords="14,5,189,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,24,309,34,332,37,332,42,308,39,204,29"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,56,198,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="213,69,332,57,333,62,213,75"/>
+</map>

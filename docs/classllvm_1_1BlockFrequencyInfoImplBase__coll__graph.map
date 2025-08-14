@@ -1,0 +1,9 @@
+<map id="llvm::BlockFrequencyInfoImplBase" name="llvm::BlockFrequencyInfoImplBase">
+<area shape="rect" id="Node000001" title="Base class for BlockFrequencyInfoImpl." alt="" coords="316,71,485,111"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,213,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="228,46,292,60,321,67,320,73,291,66,227,52"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="11,71,207,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="222,88,315,88,315,94,222,94"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="21,136,197,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="212,134,291,117,321,109,322,115,292,122,213,139"/>
+</map>

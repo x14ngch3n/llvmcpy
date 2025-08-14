@@ -1,0 +1,11 @@
+<map id="llvm::object::Elf_Shdr_Base&lt; ELFType&lt; TargetEndianness, MaxAlign, false &gt; &gt;" name="llvm::object::Elf_Shdr_Base&lt; ELFType&lt; TargetEndianness, MaxAlign, false &gt; &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="77,259,320,315"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,13,80,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="38,54,30,93,27,140,34,190,42,213,54,234,80,257,76,261,50,237,37,215,29,191,22,140,25,92,33,53"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="116,13,188,38"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="149,54,144,91,141,137,144,186,156,234,171,257,166,260,151,236,139,187,136,137,139,90,144,53"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="211,13,274,38"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="243,54,233,136,216,236,210,259,205,258,211,235,228,135,237,54"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1object_1_1Elf__Shdr__Base.html" title=" " alt="" coords="297,5,444,46"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="371,61,365,101,354,147,335,194,307,237,277,261,274,257,303,234,330,192,349,145,360,100,365,61"/>
+</map>

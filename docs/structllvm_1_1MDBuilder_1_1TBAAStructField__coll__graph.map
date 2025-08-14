@@ -1,0 +1,14 @@
+<map id="llvm::MDBuilder::TBAAStructField" name="llvm::MDBuilder::TBAAStructField">
+<area shape="rect" id="Node000001" title=" " alt="" coords="96,314,288,355"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="121,197,188,223"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="162,238,176,290,185,313,180,315,171,291,157,239"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1MDNode.html" title="Tuple of metadata." alt="" coords="213,197,318,223"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="253,238,206,315,201,313,248,235"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1Metadata.html" title="Root of the metadata hierarchy." alt="" coords="126,122,234,148"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="207,156,253,195,250,199,204,160"/>
+<area shape="rect" id="Node000005" href="$classbool.html" title=" " alt="" coords="5,5,51,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="30,46,35,73,49,97,66,110,85,119,127,129,126,135,83,124,63,114,45,100,30,75,25,47"/>
+<area shape="rect" id="Node000006" href="$classunsigned.html" title=" " alt="" coords="205,5,278,31"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="277,39,288,54,294,73,297,94,294,135,284,171,274,198,269,196,279,169,289,134,292,94,289,75,283,56,273,43"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="197,42,184,56,178,73,176,90,180,122,174,123,170,90,172,71,179,54,193,38"/>
+</map>

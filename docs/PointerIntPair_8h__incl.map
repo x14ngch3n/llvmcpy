@@ -1,0 +1,15 @@
+<map id="PointerIntPair.h" name="PointerIntPair.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="292,5,402,31"/>
+<area shape="rect" id="Node000002" href="$Compiler_8h.html" title=" " alt="" coords="12,86,172,112"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="308,34,146,84,145,79,307,29"/>
+<area shape="rect" id="Node000004" href="$PointerLikeTypeTraits_8h.html" title=" " alt="" coords="197,79,360,120"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="338,33,307,69,303,65,334,30"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="384,86,448,112"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="359,30,397,73,393,76,355,33"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="472,86,525,112"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="371,29,463,77,461,81,369,34"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,168,171,193"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="94,113,92,152,87,152,89,112"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="195,168,368,193"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="282,120,283,152,278,152,277,120"/>
+</map>

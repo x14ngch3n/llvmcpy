@@ -1,0 +1,9 @@
+<map id="llvm::InlineCostAnalysis" name="llvm::InlineCostAnalysis">
+<area shape="rect" id="Node000001" title="Cost analyzer used by inliner." alt="" coords="108,177,270,203"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1CallGraphSCCPass.html" title=" " alt="" coords="5,80,176,106"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="116,115,178,174,175,178,112,119"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1Pass.html" title=" " alt="" coords="49,5,132,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="93,46,93,80,88,80,88,46"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="199,80,246,106"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="216,122,196,177,191,176,211,120"/>
+</map>

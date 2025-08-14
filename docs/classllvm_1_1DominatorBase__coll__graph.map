@@ -1,0 +1,7 @@
+<map id="llvm::DominatorBase&lt; NodeT &gt;" name="llvm::DominatorBase&lt; NodeT &gt;">
+<area shape="rect" id="Node000001" title="Base class that other, more interesting dominator analyses inherit from." alt="" coords="54,102,198,143"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,135,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="86,43,118,100,113,103,82,46"/>
+<area shape="rect" id="Node000003" href="$classbool.html" title=" " alt="" coords="159,5,205,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="171,46,152,79,139,103,134,100,148,77,166,43"/>
+</map>

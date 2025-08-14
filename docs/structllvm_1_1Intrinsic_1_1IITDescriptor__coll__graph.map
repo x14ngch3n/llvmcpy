@@ -1,0 +1,9 @@
+<map id="llvm::Intrinsic::IITDescriptor" name="llvm::Intrinsic::IITDescriptor">
+<area shape="rect" id="Node000001" title=" " alt="" coords="854,202,1037,228"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="165,46,288,72"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="303,42,411,30,546,26,619,31,692,42,763,59,831,86,868,111,899,142,923,175,939,200,935,203,919,178,895,146,865,115,828,91,761,65,690,47,618,36,546,32,412,35,304,47"/>
+<area shape="rect" id="Node000003" href="$classunsigned.html" title=" " alt="" coords="190,202,263,228"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="278,212,854,212,854,218,278,218"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,255,448,281"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="463,267,643,259,829,241,898,226,899,231,830,246,644,265,464,272"/>
+</map>

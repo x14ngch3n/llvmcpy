@@ -1,0 +1,15 @@
+<map id="llvm::CodeMetrics" name="llvm::CodeMetrics">
+<area shape="rect" id="Node000001" title="Utility to calculate the size and a few similar metrics for a set of basic blocks." alt="" coords="965,238,1092,264"/>
+<area shape="rect" id="Node000002" href="$classbool.html" title=" " alt="" coords="677,82,722,108"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="737,88,781,86,834,89,890,100,942,122,973,148,997,180,1025,237,1020,239,992,183,969,152,939,127,888,105,834,94,781,92,737,93"/>
+<area shape="rect" id="Node000003" href="$classunsigned.html" title=" " alt="" coords="663,238,736,264"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="752,248,964,248,964,254,752,254"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1DenseMap.html" title=" " alt="" coords="619,289,780,344"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="795,303,866,292,940,277,990,262,991,267,941,282,867,297,795,308"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1DenseMapBase.html" title=" " alt="" coords="236,253,407,308"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="423,282,596,297,619,300,619,305,595,302,423,288"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1DenseMap.html" title=" " alt="" coords="226,332,417,373"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="433,355,513,353,595,345,618,340,619,346,596,350,513,359,433,360"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1DenseMapBase.html" title=" " alt="" coords="5,325,177,380"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="193,350,225,350,225,355,193,355"/>
+</map>

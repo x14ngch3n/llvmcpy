@@ -1,0 +1,17 @@
+<map id="llvm::raw_ostream" name="llvm::raw_ostream">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,185,134,210"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1circular__raw__ostream.html" title=" " alt="" coords="209,5,332,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="84,170,123,113,150,83,180,57,207,41,210,46,183,61,153,87,127,117,88,173"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1formatted__raw__ostream.html" title=" " alt="" coords="203,71,339,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="98,173,137,146,180,121,205,109,207,114,183,125,139,151,101,177"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1raw__fd__ostream.html" title=" " alt="" coords="198,136,344,161"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="139,178,215,159,216,164,140,183"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1raw__null__ostream.html" title="raw_null_ostream &#45; A raw_ostream that discards all output." alt="" coords="193,185,348,210"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="149,195,193,195,193,200,149,200"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1raw__os__ostream.html" title=" " alt="" coords="196,234,346,260"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="140,212,216,231,215,236,139,217"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1raw__string__ostream.html" title=" " alt="" coords="187,284,354,309"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="101,218,139,245,183,270,211,280,209,285,181,275,136,250,98,223"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1raw__svector__ostream.html" title=" " alt="" coords="182,333,360,358"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="89,222,128,272,154,298,183,319,205,330,203,335,180,324,151,302,124,276,85,225"/>
+</map>

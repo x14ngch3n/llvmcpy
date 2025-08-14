@@ -1,0 +1,7 @@
+<map id="llvm::IntervalMapImpl::NodeBase&lt; T1, T2, N &gt;" name="llvm::IntervalMapImpl::NodeBase&lt; T1, T2, N &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,102,176,143"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="41,5,79,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="61,46,66,77,78,100,73,103,61,79,56,47"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="103,5,142,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="117,47,99,102,94,101,112,45"/>
+</map>

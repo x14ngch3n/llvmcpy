@@ -1,0 +1,9 @@
+<map id="llvm::CostTblEntry&lt; TypeTy &gt;" name="llvm::CostTblEntry&lt; TypeTy &gt;">
+<area shape="rect" id="Node000001" title="Cost Table Entry." alt="" coords="34,102,164,143"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,44,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="42,43,65,76,84,100,80,103,61,80,38,46"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="68,5,131,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="102,46,102,102,97,102,97,46"/>
+<area shape="rect" id="Node000004" href="$classunsigned.html" title=" " alt="" coords="155,5,228,31"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="174,45,143,80,120,103,116,100,139,76,169,41"/>
+</map>

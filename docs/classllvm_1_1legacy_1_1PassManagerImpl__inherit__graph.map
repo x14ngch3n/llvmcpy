@@ -1,0 +1,9 @@
+<map id="llvm::legacy::PassManagerImpl" name="llvm::legacy::PassManagerImpl">
+<area shape="rect" id="Node000001" title="PassManagerImpl manages MPPassManagers." alt="" coords="86,79,290,105"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1Pass.html" title=" " alt="" coords="5,5,89,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="86,36,165,76,163,81,83,41"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1PMDataManager.html" title=" " alt="" coords="113,5,264,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="191,46,191,79,186,79,186,46"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1PMTopLevelManager.html" title=" " alt="" coords="289,5,464,31"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="331,39,221,81,219,76,329,34"/>
+</map>

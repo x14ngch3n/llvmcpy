@@ -1,0 +1,13 @@
+<map id="llvm::DOTGraphTraits&lt; DomTreeNode * &gt;" name="llvm::DOTGraphTraits&lt; DomTreeNode * &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="569,39,719,79"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1DOTGraphTraits_3_01DominatorTree_01_5_01_4.html" title=" " alt="" coords="777,5,926,46"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="733,42,776,35,777,40,734,47"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1DOTGraphTraits_3_01PostDominatorTree_01_5_01_4.html" title=" " alt="" coords="768,71,935,111"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="734,70,768,75,767,81,733,75"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1DefaultDOTGraphTraits.html" title=" " alt="" coords="5,46,197,72"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="212,64,396,65,569,63,569,68,396,71,212,69"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="212,49,396,47,569,50,569,55,396,53,212,54"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1DOTGraphTraits.html" title=" " alt="" coords="246,108,395,149"/>
+<area shape="poly" id="edge4_Node000003_Node000002" title=" " alt="" coords="160,74,255,105,253,110,158,80"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="411,128,477,124,545,110,580,96,612,77,614,82,582,100,546,115,478,129,411,134"/>
+</map>

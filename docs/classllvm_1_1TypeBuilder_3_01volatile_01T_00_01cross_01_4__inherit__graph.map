@@ -1,0 +1,8 @@
+<map id="llvm::TypeBuilder&lt; volatile T, cross &gt;" name="llvm::TypeBuilder&lt; volatile T, cross &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="57,207,186,248"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1TypeBuilder.html" title=" " alt="" coords="208,117,337,158"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="227,168,157,209,154,204,224,163"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1TypeBuilder.html" title=" " alt="" coords="5,5,158,46"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="75,62,70,108,71,133,76,157,88,183,105,205,101,208,84,186,71,159,65,133,64,108,70,61"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="130,52,240,114,237,119,127,56"/>
+</map>

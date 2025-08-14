@@ -1,0 +1,25 @@
+<map id="llvm::ValueHandleBase" name="llvm::ValueHandleBase">
+<area shape="rect" id="Node000001" title="This is the common base class of value handles." alt="" coords="5,156,162,181"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1AssertingVH.html" title=" " alt="" coords="629,5,764,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="104,142,149,99,178,77,210,59,264,39,320,24,378,15,435,9,542,8,628,14,628,19,542,13,435,15,378,20,321,30,265,44,212,64,181,81,153,103,108,146"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1AssertingVH.html" title=" " alt="" coords="629,88,764,129"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="177,157,628,112,629,118,177,162"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1AssertingVH.html" title="Value handle that asserts if the Value is deleted." alt="" coords="240,73,375,114"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="135,147,185,130,239,112,240,117,187,135,137,152"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1CallbackVH.html" title="Value handle with callbacks on RAUW and destruction." alt="" coords="246,189,369,214"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="177,180,245,190,245,195,177,185"/>
+<area shape="rect" id="Node000010" href="$classllvm_1_1TrackingVH.html" title="Value handle that tracks a Value across RAUW." alt="" coords="211,238,403,264"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="124,186,212,224,246,235,245,240,210,230,122,191"/>
+<area shape="rect" id="Node000011" href="$classllvm_1_1WeakVH.html" title="Value handle that is nullable, but tries to track the Value." alt="" coords="254,288,360,313"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="108,191,154,234,182,255,212,274,255,289,253,294,210,279,179,260,150,238,105,194"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="389,78,557,50,628,37,629,42,558,55,390,84"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="390,101,427,103,629,107,628,112,427,109,390,106"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1IVStrideUse.html" title=" " alt="" coords="634,156,759,181"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="384,192,634,171,634,176,385,198"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1MMIAddrLabelMapCallbackPtr.html" title=" " alt="" coords="581,205,812,230"/>
+<area shape="poly" id="edge8_Node000005_Node000007" title=" " alt="" coords="385,202,581,210,581,216,384,207"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1SCEVUnknown.html" title=" " alt="" coords="624,254,769,280"/>
+<area shape="poly" id="edge9_Node000005_Node000008" title=" " alt="" coords="385,212,624,252,623,257,384,217"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1ValueMapCallbackVH.html" title=" " alt="" coords="606,304,787,345"/>
+<area shape="poly" id="edge10_Node000005_Node000009" title=" " alt="" coords="385,215,405,223,417,234,429,245,469,263,503,273,582,290,621,301,620,306,581,295,501,278,467,268,426,249,414,238,402,228,382,219"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="llvm::PBQP::RegAlloc::GraphMetadata" name="llvm::PBQP::RegAlloc::GraphMetadata">
+<area shape="rect" id="Node000001" title="Holds graph&#45;level metadata relevent to PBQP RA problems." alt="" coords="215,349,366,389"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1MachineFunction.html" title=" " alt="" coords="5,252,158,278"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,282,252,346,249,351,119,287"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1LiveIntervals.html" title=" " alt="" coords="424,252,552,278"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="453,287,330,351,328,346,450,283"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1MachineFunctionPass.html" title=" " alt="" coords="237,155,419,181"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="346,192,361,210,379,226,404,239,431,249,429,254,402,244,376,230,357,214,342,196"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1MachineBlockFrequencyInfo.html" title=" " alt="" coords="182,252,400,278"/>
+<area shape="poly" id="edge8_Node000008_Node000004" title=" " alt="" coords="320,196,298,252,293,250,315,194"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1FunctionPass.html" title=" " alt="" coords="262,80,395,106"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="331,121,331,155,326,155,326,121"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1Pass.html" title=" " alt="" coords="286,5,370,31"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="331,46,331,80,326,80,326,46"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="454,155,501,181"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="483,196,489,251,484,252,478,197"/>
+<area shape="poly" id="edge9_Node000008_Node000007" title=" " alt="" coords="442,190,316,254,314,249,439,186"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="294,293,294,348,288,348,288,293"/>
+</map>

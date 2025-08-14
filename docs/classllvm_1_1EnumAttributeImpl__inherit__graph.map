@@ -1,0 +1,9 @@
+<map id="llvm::EnumAttributeImpl" name="llvm::EnumAttributeImpl">
+<area shape="rect" id="Node000001" title="A set of classes that contain the value of the attribute object. There are three main categories: enu..." alt="" coords="5,153,167,178"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1IntAttributeImpl.html" title=" " alt="" coords="15,226,157,252"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="89,194,89,226,83,226,83,194"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1AttributeImpl.html" title="This class represents a single, uniqued attribute. That attribute could be a single enum,..." alt="" coords="22,79,150,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,120,89,152,83,152,83,120"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1FoldingSetImpl_1_1Node.html" title=" " alt="" coords="29,5,143,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="89,46,89,79,83,79,83,46"/>
+</map>

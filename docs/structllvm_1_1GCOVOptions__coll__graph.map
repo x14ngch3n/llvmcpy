@@ -1,0 +1,7 @@
+<map id="llvm::GCOVOptions" name="llvm::GCOVOptions">
+<area shape="rect" id="Node000001" title="GCOVOptions &#45; A struct for passing gcov options between functions." alt="" coords="49,305,186,331"/>
+<area shape="rect" id="Node000002" href="$classbool.html" title=" " alt="" coords="11,5,56,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="27,46,16,94,8,155,9,188,13,220,22,251,36,280,49,293,66,302,63,307,46,297,32,283,17,253,8,221,3,188,3,155,11,93,22,45"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="179,5,226,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="209,46,213,94,213,155,202,221,191,253,176,283,163,297,148,307,145,303,160,293,171,280,186,251,197,220,207,154,208,94,204,46"/>
+</map>

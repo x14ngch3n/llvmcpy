@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classllvm_1_1MachineSchedStrategy.html" title=" " alt="" coords="5,55,194,80"/>
+<area shape="rect" id="Node000001" href="$classllvm_1_1ConvergingVLIWScheduler.html" title=" " alt="" coords="242,5,452,31"/>
+<area shape="poly" id="edge2134_Node000000_Node000001" title=" " alt="" coords="182,48,278,29,279,34,183,54"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1GenericSchedulerBase.html" title=" " alt="" coords="254,55,440,80"/>
+<area shape="poly" id="edge2135_Node000000_Node000002" title=" " alt="" coords="209,65,253,65,253,70,209,70"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1R600SchedStrategy.html" title=" " alt="" coords="262,104,432,130"/>
+<area shape="poly" id="edge2138_Node000000_Node000005" title=" " alt="" coords="183,81,279,101,278,106,182,87"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1GenericScheduler.html" title=" " alt="" coords="514,31,670,56"/>
+<area shape="poly" id="edge2136_Node000002_Node000003" title=" " alt="" coords="455,54,513,49,513,54,455,60"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1PostGenericScheduler.html" title=" " alt="" coords="500,80,683,106"/>
+<area shape="poly" id="edge2137_Node000002_Node000004" title=" " alt="" coords="456,76,500,81,499,86,455,81"/>
+</map>

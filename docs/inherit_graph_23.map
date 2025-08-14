@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classARMGenRegisterInfo.html" title=" " alt="" coords="5,55,152,80"/>
+<area shape="rect" id="Node000001" href="$classllvm_1_1ARMBaseRegisterInfo.html" title=" " alt="" coords="200,55,384,80"/>
+<area shape="poly" id="edge15_Node000000_Node000001" title=" " alt="" coords="167,65,199,65,199,70,167,70"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1ARMRegisterInfo.html" title=" " alt="" coords="440,5,595,31"/>
+<area shape="poly" id="edge16_Node000001_Node000002" title=" " alt="" coords="368,48,455,29,456,34,370,53"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1Thumb1RegisterInfo.html" title=" " alt="" coords="432,55,603,80"/>
+<area shape="poly" id="edge17_Node000001_Node000003" title=" " alt="" coords="400,65,432,65,432,70,400,70"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1Thumb2RegisterInfo.html" title=" " alt="" coords="432,104,603,130"/>
+<area shape="poly" id="edge18_Node000001_Node000004" title=" " alt="" coords="370,82,456,101,455,106,368,87"/>
+</map>

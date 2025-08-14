@@ -1,0 +1,7 @@
+<map id="llvm::COFF::AuxiliaryFunctionDefinition" name="llvm::COFF::AuxiliaryFunctionDefinition">
+<area shape="rect" id="Node000001" title=" " alt="" coords="26,163,223,204"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,73,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="35,46,31,92,34,116,43,138,54,150,68,160,64,165,50,154,38,140,29,117,25,92,29,46"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="188,5,234,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="212,47,204,92,196,117,184,141,160,164,156,161,180,137,191,115,199,91,207,46"/>
+</map>

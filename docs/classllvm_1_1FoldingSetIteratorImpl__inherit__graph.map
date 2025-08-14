@@ -1,0 +1,8 @@
+<map id="llvm::FoldingSetIteratorImpl" name="llvm::FoldingSetIteratorImpl">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,187,31"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1FoldingSetIterator.html" title=" " alt="" coords="23,177,180,218"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,47,103,176,98,177,94,47"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1FoldingSetIterator.html" title=" " alt="" coords="118,80,306,106"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="129,37,194,78,191,82,126,42"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="190,119,124,179,121,175,186,115"/>
+</map>

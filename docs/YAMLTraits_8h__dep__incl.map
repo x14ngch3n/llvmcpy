@@ -1,0 +1,17 @@
+<map id="YAMLTraits.h" name="YAMLTraits.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="201,5,299,31"/>
+<area shape="rect" id="Node000002" href="$YAML_8h.html" title=" " alt="" coords="161,79,227,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="234,45,206,80,202,77,230,41"/>
+<area shape="rect" id="Node000008" href="$YAMLTraits_8cpp.html" title=" " alt="" coords="251,79,364,105"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="271,41,300,77,296,80,267,45"/>
+<area shape="rect" id="Node000003" href="$COFFYAML_8h.html" title=" " alt="" coords="19,153,121,178"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="162,115,93,154,90,150,159,110"/>
+<area shape="rect" id="Node000005" href="$ELFYAML_8h.html" title="This file declares classes for handling the YAML representation of ELF." alt="" coords="149,153,239,178"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="197,120,197,152,192,152,192,120"/>
+<area shape="rect" id="Node000007" href="$YAML_8cpp.html" title=" " alt="" coords="263,153,344,178"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="227,111,286,150,283,154,224,115"/>
+<area shape="rect" id="Node000004" href="$COFFYAML_8cpp.html" title=" " alt="" coords="5,226,122,252"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="70,194,67,226,62,226,65,194"/>
+<area shape="rect" id="Node000006" href="$ELFYAML_8cpp.html" title=" " alt="" coords="146,226,250,252"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="198,194,200,226,195,226,193,194"/>
+</map>

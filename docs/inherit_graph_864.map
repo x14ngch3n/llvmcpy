@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classllvm_1_1MachinePassRegistryNode.html" title=" " alt="" coords="5,55,218,80"/>
+<area shape="rect" id="Node000001" href="$classllvm_1_1MachineSchedRegistry.html" title=" " alt="" coords="266,5,454,31"/>
+<area shape="poly" id="edge2130_Node000000_Node000001" title=" " alt="" coords="194,48,291,29,292,34,196,54"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1RegisterRegAlloc.html" title=" " alt="" coords="282,55,438,80"/>
+<area shape="poly" id="edge2131_Node000000_Node000002" title=" " alt="" coords="233,65,282,65,282,70,233,70"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1RegisterScheduler.html" title=" " alt="" coords="280,104,440,130"/>
+<area shape="poly" id="edge2132_Node000000_Node000003" title=" " alt="" coords="196,81,292,101,291,106,194,87"/>
+</map>

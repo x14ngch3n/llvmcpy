@@ -1,0 +1,11 @@
+<map id="llvm::object::pe32plus_header" name="llvm::object::pe32plus_header">
+<area shape="rect" id="Node000001" title="The 64&#45;bit PE header that follows the COFF header." alt="" coords="403,387,551,428"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,175,170,231"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,189,233,189,284,194,334,208,380,230,400,246,417,265,444,308,463,351,473,386,468,388,458,353,440,311,413,268,396,250,377,235,332,213,283,200,232,194,185,194"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="57,265,118,291"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="134,276,267,283,333,292,380,305,407,322,430,343,464,385,460,388,426,347,403,326,378,310,332,297,266,289,133,281"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,507,170,563"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="185,553,232,556,281,556,331,548,377,531,408,510,432,482,451,453,464,427,469,429,456,455,436,485,411,514,380,536,332,553,282,561,232,562,185,558"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="5,642,170,698"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="185,693,233,699,284,698,333,688,377,667,404,643,425,613,442,580,454,546,468,479,473,428,478,428,473,480,459,547,447,583,430,616,408,646,380,671,334,693,284,703,233,704,185,698"/>
+</map>

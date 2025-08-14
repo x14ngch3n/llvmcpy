@@ -1,0 +1,7 @@
+<map id="llvm::TargetRegisterInfoDesc" name="llvm::TargetRegisterInfoDesc">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,102,197,128"/>
+<area shape="rect" id="Node000002" href="$classunsigned.html" title=" " alt="" coords="10,5,83,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="44,47,45,62,50,77,61,90,74,99,71,104,57,93,45,79,40,63,39,47"/>
+<area shape="rect" id="Node000003" href="$classbool.html" title=" " alt="" coords="134,5,180,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="148,47,130,79,113,103,109,100,125,77,143,44"/>
+</map>

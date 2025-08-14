@@ -1,0 +1,5 @@
+<map id="llvm::DIGlobalVariable" name="llvm::DIGlobalVariable">
+<area shape="rect" id="Node000001" title="This is a wrapper for a global variable." alt="" coords="5,79,156,105"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1DIDescriptor.html" title="A thin wraper around MDNode to access encoded debug info." alt="" coords="17,5,144,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="83,46,83,79,78,79,78,46"/>
+</map>

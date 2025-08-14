@@ -1,0 +1,24 @@
+<map id="llvm::TargetLoweringBase::AddrMode" name="llvm::TargetLoweringBase::AddrMode">
+<area shape="rect" id="Node000001" title=" " alt="" coords="306,627,477,668"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1GlobalValue.html" title=" " alt="" coords="214,510,336,536"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="291,547,309,574,331,601,360,625,357,629,327,605,304,578,287,550"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1Constant.html" title="LLVM Constant Representation." alt="" coords="126,413,232,439"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="204,448,265,507,261,511,200,452"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1User.html" title=" " alt="" coords="207,289,288,314"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="236,330,188,414,184,411,231,327"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1Value.html" title="LLVM Value Representation." alt="" coords="81,143,166,168"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="145,178,239,287,235,290,141,182"/>
+<area shape="rect" id="Node000006" href="$classunsigned.html" title=" " alt="" coords="5,5,79,31"/>
+<area shape="poly" id="edge8_Node000002_Node000006" title=" " alt="" coords="38,47,28,97,23,154,23,427,28,441,42,454,90,477,152,495,214,509,213,514,151,501,88,482,39,458,24,444,18,428,18,154,23,96,33,46"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="59,43,118,141,114,143,55,46"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1Use.html" title="A Use represents the edge between a Value definition and its users." alt="" coords="209,143,286,168"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="250,184,250,288,245,288,245,184"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="257,413,358,439"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="301,455,282,510,277,509,296,453"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1Module.html" title="The main container class for the LLVM Intermediate Representation." alt="" coords="382,413,478,439"/>
+<area shape="poly" id="edge9_Node000002_Node000009" title=" " alt="" coords="407,451,355,488,308,512,305,507,353,484,404,447"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="361,510,422,536"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="394,551,394,627,389,627,389,551"/>
+<area shape="rect" id="Node000011" href="$classbool.html" title=" " alt="" coords="462,510,507,536"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="482,551,473,578,457,605,430,629,427,625,453,601,468,576,477,550"/>
+</map>

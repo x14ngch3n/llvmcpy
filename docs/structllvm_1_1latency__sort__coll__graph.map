@@ -1,0 +1,9 @@
+<map id="llvm::latency_sort" name="llvm::latency_sort">
+<area shape="rect" id="Node000001" title="Sorting functions for the Available queue." alt="" coords="88,207,212,233"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,95,175,136"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,148,145,205,141,208,107,151"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1LatencyPriorityQueue.html" title=" " alt="" coords="198,103,376,128"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="260,140,168,209,165,204,257,136"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1SchedulingPriorityQueue.html" title=" " alt="" coords="208,5,366,46"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="290,62,290,102,285,102,285,62"/>
+</map>

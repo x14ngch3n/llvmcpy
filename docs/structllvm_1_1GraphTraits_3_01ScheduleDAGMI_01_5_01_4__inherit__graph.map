@@ -1,0 +1,11 @@
+<map id="llvm::GraphTraits&lt; ScheduleDAGMI * &gt;" name="llvm::GraphTraits&lt; ScheduleDAGMI * &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,319,150,359"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1GraphTraits_3_01ScheduleDAG_01_5_01_4.html" title=" " alt="" coords="124,229,253,269"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="153,281,104,320,101,316,150,277"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1GraphTraits_3_01SUnit_01_5_01_4.html" title=" " alt="" coords="337,117,466,158"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="351,167,228,231,225,226,349,163"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1GraphTraits.html" title=" " alt="" coords="124,5,253,46"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="150,58,93,111,66,145,46,183,40,219,45,256,56,290,69,317,64,319,51,292,40,257,35,219,41,181,62,142,89,107,146,54"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="191,62,191,228,186,228,186,62"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="241,51,365,114,362,119,238,56"/>
+</map>

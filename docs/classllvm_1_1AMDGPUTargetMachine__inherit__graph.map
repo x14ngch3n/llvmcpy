@@ -1,0 +1,9 @@
+<map id="llvm::AMDGPUTargetMachine" name="llvm::AMDGPUTargetMachine">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,153,203,178"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1GCNTargetMachine.html" title=" " alt="" coords="20,226,188,252"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="107,194,107,226,101,226,101,194"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1LLVMTargetMachine.html" title=" " alt="" coords="18,79,190,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,120,107,152,101,152,101,120"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1TargetMachine.html" title=" " alt="" coords="35,5,173,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="107,46,107,79,101,79,101,46"/>
+</map>

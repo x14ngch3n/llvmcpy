@@ -1,0 +1,31 @@
+<map id="llvm::SetVector&lt; T, Vector, Set &gt;" name="llvm::SetVector&lt; T, Vector, Set &gt;">
+<area shape="rect" id="Node000001" title="A vector that has set insertion semantics." alt="" coords="5,481,139,521"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1SmallSetVector.html" title=" " alt="" coords="1171,99,1315,140"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="69,465,72,402,84,322,96,280,112,240,133,202,161,168,217,120,279,82,345,52,415,30,487,15,561,6,635,3,710,4,854,19,986,43,1098,71,1183,96,1181,101,1097,76,985,48,853,24,709,10,635,8,561,11,488,20,416,35,347,57,281,87,220,125,165,172,138,205,117,242,101,282,89,323,77,402,75,465"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1SmallSetVector.html" title=" " alt="" coords="1171,205,1315,245"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="72,464,77,413,92,352,103,321,118,292,137,265,161,242,218,201,272,169,324,145,374,128,424,118,473,113,571,115,672,128,782,144,903,156,970,158,1040,157,1094,151,1118,151,1148,157,1188,177,1221,202,1218,206,1186,182,1146,162,1117,156,1095,156,1041,162,970,164,903,161,781,149,672,133,570,120,473,118,424,123,376,133,326,150,274,174,220,205,164,246,141,268,123,294,108,323,97,354,83,414,77,465"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1SmallSetVector.html" title=" " alt="" coords="1171,283,1315,324"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="88,465,118,423,138,403,161,388,203,372,252,362,308,356,370,353,506,356,650,366,796,377,933,384,1053,383,1103,377,1146,366,1185,347,1218,322,1221,327,1188,351,1148,371,1104,382,1053,388,933,390,795,382,650,371,505,362,370,358,309,361,253,367,205,377,164,393,141,407,122,426,92,468"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1SetVector.html" title=" " alt="" coords="396,494,610,564"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="120,526,163,543,222,553,282,555,341,553,395,547,395,552,341,558,282,561,221,558,162,548,118,531"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1SetVector.html" title=" " alt="" coords="415,588,591,614"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="99,532,128,561,164,584,226,604,292,613,356,614,414,611,414,616,356,620,292,618,225,609,162,589,124,565,95,535"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1SetVector.html" title=" " alt="" coords="405,638,601,679"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="87,535,98,563,115,593,137,621,164,643,192,657,222,667,284,678,346,680,404,675,404,680,347,685,284,683,220,672,190,662,161,647,133,625,111,596,94,565,82,537"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1SetVector.html" title=" " alt="" coords="431,270,575,326"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="82,465,111,404,133,373,161,348,193,330,227,316,299,297,369,290,430,290,430,295,369,295,299,303,229,321,195,335,164,352,137,377,115,407,87,467"/>
+<area shape="rect" id="Node000011" href="$classllvm_1_1SetVector.html" title=" " alt="" coords="634,409,848,465"/>
+<area shape="poly" id="edge13_Node000001_Node000011" title=" " alt="" coords="153,481,162,480,289,464,416,452,633,439,634,444,416,458,289,469,163,485,154,486"/>
+<area shape="rect" id="Node000012" href="$classllvm_1_1SetVector.html" title=" " alt="" coords="425,703,580,744"/>
+<area shape="poly" id="edge15_Node000001_Node000012" title=" " alt="" coords="80,536,88,578,103,626,128,672,145,692,164,708,194,725,226,737,260,745,295,749,363,748,424,740,425,745,363,753,295,754,259,750,225,742,192,730,161,713,141,695,124,675,98,628,83,579,74,537"/>
+<area shape="rect" id="Node000013" href="$classllvm_1_1SetVector.html" title=" " alt="" coords="429,769,576,809"/>
+<area shape="poly" id="edge16_Node000001_Node000013" title=" " alt="" coords="75,537,79,593,92,660,103,694,118,726,139,755,164,779,194,797,227,810,261,817,296,820,366,818,428,807,429,812,367,823,296,826,260,822,225,815,192,802,161,783,135,758,114,729,98,696,86,661,74,593,70,537"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1SmallSetVector.html" title="A SetVector that performs no allocations if smaller than a certain size." alt="" coords="872,270,1017,311"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="590,294,872,289,872,294,590,299"/>
+<area shape="poly" id="edge9_Node000009_Node000002" title=" " alt="" coords="979,258,1039,213,1117,171,1189,138,1191,143,1119,176,1042,218,982,262"/>
+<area shape="poly" id="edge10_Node000009_Node000003" title=" " alt="" coords="1031,266,1040,264,1170,236,1171,241,1041,269,1033,271"/>
+<area shape="poly" id="edge11_Node000009_Node000004" title=" " alt="" coords="1032,291,1171,298,1170,303,1032,297"/>
+<area shape="rect" id="Node000010" href="$classllvm_1_1SmallSetVector.html" title=" " alt="" coords="1171,375,1315,416"/>
+<area shape="poly" id="edge12_Node000009_Node000010" title=" " alt="" coords="1012,314,1042,325,1177,372,1176,377,1040,330,1010,319"/>
+<area shape="poly" id="edge14_Node000011_Node000010" title=" " alt="" coords="864,426,1146,404,1170,401,1170,407,1147,409,864,431"/>
+</map>

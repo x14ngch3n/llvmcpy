@@ -1,0 +1,19 @@
+<map id="llvm::PtrToIntOperator" name="llvm::PtrToIntOperator">
+<area shape="rect" id="Node000001" title=" " alt="" coords="101,551,251,577"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1ConcreteOperator.html" title=" " alt="" coords="98,446,254,502"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,518,179,551,173,551,173,518"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1Operator.html" title=" " alt="" coords="48,322,152,348"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="116,360,163,445,159,447,112,363"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1User.html" title=" " alt="" coords="59,239,141,265"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="103,281,103,322,97,322,97,281"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1Value.html" title="LLVM Value Representation." alt="" coords="5,143,91,168"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="64,181,96,237,91,240,60,183"/>
+<area shape="rect" id="Node000006" href="$classunsigned.html" title=" " alt="" coords="11,5,85,31"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="51,46,51,142,45,142,45,46"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1Use.html" title="A Use represents the edge between a Value definition and its users." alt="" coords="115,143,192,168"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="141,183,109,240,105,237,137,181"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1ConcreteOperator.html" title="A helper template for defining operators for individual opcodes." alt="" coords="175,314,332,355"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="237,370,194,447,189,444,233,367"/>
+<area shape="rect" id="Node000009" href="$classSuperClass.html" title=" " alt="" coords="209,239,298,265"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="256,281,256,314,251,314,251,281"/>
+</map>

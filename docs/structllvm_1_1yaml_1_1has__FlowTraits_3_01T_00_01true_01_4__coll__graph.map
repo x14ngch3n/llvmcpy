@@ -1,0 +1,8 @@
+<map id="llvm::yaml::has_FlowTraits&lt; T, true &gt;" name="llvm::yaml::has_FlowTraits&lt; T, true &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,214,184,254"/>
+<area shape="rect" id="Node000002" href="$classbool.html" title=" " alt="" coords="72,5,117,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="93,46,87,102,89,163,94,213,89,213,83,163,82,102,88,46"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1yaml_1_1has__FlowTraits.html" title=" " alt="" coords="136,102,314,143"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="123,39,202,100,199,104,120,43"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="192,155,119,215,116,211,189,151"/>
+</map>

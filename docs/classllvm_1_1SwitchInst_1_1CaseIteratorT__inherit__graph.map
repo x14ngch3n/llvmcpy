@@ -1,0 +1,9 @@
+<map id="llvm::SwitchInst::CaseIteratorT&lt; SwitchInstTy, ConstantIntTy, BasicBlockTy &gt;" name="llvm::SwitchInst::CaseIteratorT&lt; SwitchInstTy, ConstantIntTy, BasicBlockTy &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,68,215,124"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1SwitchInst_1_1CaseIteratorT.html" title=" " alt="" coords="425,28,640,84"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="230,82,424,64,424,69,231,87"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1SwitchInst_1_1CaseIteratorT.html" title=" " alt="" coords="435,108,630,164"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="218,125,239,129,340,137,434,138,434,143,339,143,238,134,217,130"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1SwitchInst_1_1CaseIt.html" title=" " alt="" coords="689,123,852,149"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="646,133,689,133,689,139,646,139"/>
+</map>

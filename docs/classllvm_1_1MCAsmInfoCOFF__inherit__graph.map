@@ -1,0 +1,17 @@
+<map id="llvm::MCAsmInfoCOFF" name="llvm::MCAsmInfoCOFF">
+<area shape="rect" id="Node000001" title=" " alt="" coords="177,80,336,106"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1MCAsmInfoGNUCOFF.html" title=" " alt="" coords="384,55,573,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="351,79,383,76,384,81,352,85"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1MCAsmInfoMicrosoft.html" title=" " alt="" coords="390,104,567,130"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="352,100,390,105,389,110,351,106"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1MCAsmInfo.html" title=" " alt="" coords="5,80,129,106"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="144,90,176,90,176,96,144,96"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1ARMCOFFMCAsmInfoGNU.html" title=" " alt="" coords="633,5,853,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="566,49,670,29,671,34,567,54"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1X86MCAsmInfoGNUCOFF.html" title=" " alt="" coords="637,55,849,80"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="589,65,637,65,637,70,589,70"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1ARMCOFFMCAsmInfoMicrosoft.html" title=" " alt="" coords="621,104,865,130"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="583,114,621,114,621,120,583,120"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1X86MCAsmInfoMicrosoft.html" title=" " alt="" coords="643,153,843,179"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="567,130,671,150,670,155,566,136"/>
+</map>

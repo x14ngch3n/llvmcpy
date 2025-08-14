@@ -1,0 +1,44 @@
+<map id="DIBuilder.h" name="DIBuilder.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="943,5,1029,31"/>
+<area shape="rect" id="Node000002" href="$AddDiscriminators_8cpp.html" title=" " alt="" coords="5,79,159,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="928,25,606,46,172,82,159,83,159,78,171,76,605,40,928,20"/>
+<area shape="rect" id="Node000003" href="$AddressSanitizer_8cpp.html" title=" " alt="" coords="183,79,328,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="928,27,673,48,340,82,328,83,328,78,339,76,672,43,928,21"/>
+<area shape="rect" id="Node000004" href="$AutoUpgrade_8cpp.html" title=" " alt="" coords="352,79,474,105"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="928,28,732,51,486,82,475,83,474,78,486,76,731,45,927,23"/>
+<area shape="rect" id="Node000005" href="$DIBuilder_8cpp.html" title=" " alt="" coords="498,79,597,105"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="928,31,609,82,598,84,597,78,608,76,928,25"/>
+<area shape="rect" id="Node000006" href="$DeadArgumentElimination_8cpp.html" title=" " alt="" coords="621,79,818,105"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="929,37,765,81,764,76,928,32"/>
+<area shape="rect" id="Node000007" href="$DebugInfo_8cpp.html" title=" " alt="" coords="842,79,948,105"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="961,43,912,81,909,77,957,39"/>
+<area shape="rect" id="Node000008" href="$DwarfDebug_8cpp.html" title=" " alt="" coords="1210,226,1330,252"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="1033,35,1127,77,1190,111,1229,135,1251,151,1261,170,1268,191,1272,226,1267,227,1263,192,1256,172,1247,154,1226,139,1188,116,1125,81,1031,40"/>
+<area shape="rect" id="Node000009" href="$DwarfUnit_8cpp.html" title=" " alt="" coords="640,226,745,252"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="987,47,980,78,963,106,946,121,930,130,898,138,864,142,824,155,760,193,710,228,707,224,757,188,822,150,862,137,897,133,928,125,943,117,959,103,975,76,982,46"/>
+<area shape="rect" id="Node000010" href="$DwarfUnit_8h.html" title=" " alt="" coords="1023,79,1114,105"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="1013,39,1057,77,1053,81,1010,44"/>
+<area shape="rect" id="Node000016" href="$Local_8cpp.html" title=" " alt="" coords="1189,79,1266,105"/>
+<area shape="poly" id="edge20_Node000001_Node000016" title=" " alt="" coords="1042,33,1189,76,1187,82,1041,38"/>
+<area shape="rect" id="Node000017" href="$PromoteMemoryToRegister_8cpp.html" title=" " alt="" coords="1290,79,1495,105"/>
+<area shape="poly" id="edge21_Node000001_Node000017" title=" " alt="" coords="1044,27,1324,76,1323,81,1044,32"/>
+<area shape="rect" id="Node000018" href="$SROA_8cpp.html" title=" " alt="" coords="1518,79,1603,105"/>
+<area shape="poly" id="edge22_Node000001_Node000018" title=" " alt="" coords="1045,22,1250,42,1508,76,1519,78,1518,84,1507,82,1249,47,1044,27"/>
+<area shape="rect" id="Node000019" href="$ScalarReplAggregates_8cpp.html" title=" " alt="" coords="1627,79,1804,105"/>
+<area shape="poly" id="edge23_Node000001_Node000019" title=" " alt="" coords="1044,22,1616,76,1627,78,1627,83,1615,82,1044,27"/>
+<area shape="poly" id="edge17_Node000010_Node000008" title=" " alt="" coords="1130,105,1177,123,1221,151,1238,168,1251,189,1268,225,1263,227,1247,191,1234,172,1218,155,1175,128,1129,110"/>
+<area shape="poly" id="edge19_Node000010_Node000009" title=" " alt="" coords="1012,112,882,155,720,228,718,223,880,150,1010,107"/>
+<area shape="rect" id="Node000011" href="$DIE_8cpp.html" title=" " alt="" coords="1117,226,1186,252"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="1076,119,1084,148,1096,177,1116,203,1138,224,1134,228,1112,207,1092,180,1078,150,1071,120"/>
+<area shape="rect" id="Node000012" href="$DwarfCompileUnit_8h.html" title=" " alt="" coords="892,153,1032,178"/>
+<area shape="poly" id="edge11_Node000010_Node000012" title=" " alt="" coords="1039,116,982,154,979,150,1036,111"/>
+<area shape="rect" id="Node000015" href="$DwarfFile_8cpp.html" title=" " alt="" coords="1106,153,1208,178"/>
+<area shape="poly" id="edge18_Node000010_Node000015" title=" " alt="" coords="1097,113,1144,150,1140,154,1094,117"/>
+<area shape="poly" id="edge15_Node000012_Node000008" title=" " alt="" coords="1030,180,1218,223,1217,228,1029,185"/>
+<area shape="poly" id="edge16_Node000012_Node000009" title=" " alt="" coords="902,185,739,228,738,223,901,180"/>
+<area shape="poly" id="edge12_Node000012_Node000011" title=" " alt="" coords="1009,182,1120,223,1118,228,1007,187"/>
+<area shape="rect" id="Node000013" href="$DwarfAccelTable_8cpp.html" title=" " alt="" coords="947,226,1092,252"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="983,189,1012,224,1008,228,979,192"/>
+<area shape="rect" id="Node000014" href="$DwarfCompileUnit_8cpp.html" title=" " alt="" coords="769,226,923,252"/>
+<area shape="poly" id="edge14_Node000012_Node000014" title=" " alt="" coords="931,189,867,228,864,223,928,184"/>
+</map>

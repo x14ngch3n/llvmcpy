@@ -1,0 +1,106 @@
+<map id="COFF.h" name="COFF.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1885,5,1952,31"/>
+<area shape="rect" id="Node000002" href="$ARMAsmParser_8cpp.html" title=" " alt="" coords="927,79,1067,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1870,24,1538,43,1311,60,1079,82,1068,83,1067,78,1078,76,1310,55,1538,38,1869,19"/>
+<area shape="rect" id="Node000003" href="$ARMAsmPrinter_8cpp.html" title=" " alt="" coords="1091,79,1231,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1870,26,1603,47,1244,82,1232,83,1232,78,1244,76,1602,41,1869,20"/>
+<area shape="rect" id="Node000004" href="$ARMWinCOFFObjectWriter_8cpp.html" title=" " alt="" coords="1255,79,1462,105"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1870,28,1454,81,1454,76,1869,23"/>
+<area shape="rect" id="Node000005" href="$Object_2COFF_8h.html" title=" " alt="" coords="1536,79,1602,105"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1871,31,1615,82,1603,84,1602,79,1614,76,1870,26"/>
+<area shape="rect" id="Node000006" href="$COFFObjectFile_8cpp.html" title=" " alt="" coords="374,160,516,186"/>
+<area shape="poly" id="edge35_Node000001_Node000006" title=" " alt="" coords="1870,24,1714,40,1619,57,1525,81,1500,95,1474,107,1333,138,1213,152,1105,155,1004,150,903,143,794,139,672,141,528,155,492,162,491,157,527,150,671,136,794,133,903,138,1004,145,1105,149,1212,147,1332,133,1472,102,1497,90,1523,77,1618,52,1713,35,1870,19"/>
+<area shape="rect" id="Node000026" href="$COFFAsmParser_8cpp.html" title=" " alt="" coords="936,160,1082,186"/>
+<area shape="poly" id="edge34_Node000001_Node000026" title=" " alt="" coords="1879,40,1792,81,1767,96,1741,107,1645,130,1562,141,1489,145,1420,145,1276,141,1193,144,1095,155,1058,162,1057,157,1094,150,1192,139,1276,136,1420,139,1489,140,1562,136,1644,125,1739,102,1765,91,1789,77,1877,35"/>
+<area shape="rect" id="Node000027" href="$COFFYAML_8h.html" title=" " alt="" coords="1626,79,1728,105"/>
+<area shape="poly" id="edge36_Node000001_Node000027" title=" " alt="" coords="1871,36,1719,81,1718,76,1870,31"/>
+<area shape="rect" id="Node000029" href="$MCSectionCOFF_8h.html" title=" " alt="" coords="1802,79,1934,105"/>
+<area shape="poly" id="edge38_Node000001_Node000029" title=" " alt="" coords="1904,45,1879,80,1874,77,1899,42"/>
+<area shape="rect" id="Node000035" href="$MCWinEH_8cpp.html" title=" " alt="" coords="2454,160,2564,186"/>
+<area shape="poly" id="edge52_Node000001_Node000035" title=" " alt="" coords="1937,42,1966,75,1984,90,2004,102,2065,127,2119,140,2169,145,2216,144,2317,139,2376,141,2443,150,2472,157,2470,162,2442,155,2375,146,2317,144,2217,149,2169,150,2118,146,2064,132,2001,107,1981,94,1962,79,1933,46"/>
+<area shape="rect" id="Node000037" href="$WinCOFFObjectWriter_8cpp.html" title=" " alt="" coords="2588,160,2764,186"/>
+<area shape="poly" id="edge55_Node000001_Node000037" title=" " alt="" coords="1949,38,2006,76,2054,102,2130,124,2196,137,2255,142,2311,142,2428,139,2496,142,2576,150,2618,157,2617,162,2575,155,2496,147,2428,145,2311,147,2255,147,2195,142,2129,130,2052,107,2003,80,1946,42"/>
+<area shape="rect" id="Node000038" href="$WinCOFFStreamer_8cpp.html" title=" " alt="" coords="2788,160,2945,186"/>
+<area shape="poly" id="edge56_Node000001_Node000038" title=" " alt="" coords="1960,35,2105,102,2204,124,2290,135,2366,139,2437,138,2587,135,2674,139,2776,150,2815,157,2814,162,2775,155,2674,144,2586,141,2437,144,2366,144,2289,140,2203,129,2103,107,1957,40"/>
+<area shape="rect" id="Node000040" href="$X86AsmPrinter_8cpp.html" title=" " alt="" coords="2969,160,3102,186"/>
+<area shape="poly" id="edge58_Node000001_Node000040" title=" " alt="" coords="1967,32,2096,77,2123,91,2150,102,2270,127,2373,139,2464,142,2550,139,2730,133,2835,136,2958,150,2992,157,2991,162,2957,155,2834,142,2730,138,2551,145,2464,148,2372,145,2269,133,2148,107,2120,96,2093,81,1965,37"/>
+<area shape="rect" id="Node000042" href="$Path_8cpp.html" title=" " alt="" coords="2160,79,2234,105"/>
+<area shape="poly" id="edge53_Node000001_Node000042" title=" " alt="" coords="1968,29,2161,78,2159,84,1966,34"/>
+<area shape="rect" id="Node000043" href="$StringTableBuilder_8cpp.html" title=" " alt="" coords="2258,79,2408,105"/>
+<area shape="poly" id="edge54_Node000001_Node000043" title=" " alt="" coords="1967,25,2263,76,2262,81,1967,30"/>
+<area shape="rect" id="Node000044" href="$WinCodeViewLineTables_8cpp.html" title=" " alt="" coords="2432,79,2624,105"/>
+<area shape="poly" id="edge57_Node000001_Node000044" title=" " alt="" coords="1967,23,2432,77,2431,82,1967,28"/>
+<area shape="rect" id="Node000045" href="$X86WinCOFFObjectWriter_8cpp.html" title=" " alt="" coords="2648,79,2848,105"/>
+<area shape="poly" id="edge59_Node000001_Node000045" title=" " alt="" coords="1967,21,2636,76,2648,77,2647,83,2636,82,1967,26"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="1522,107,1518,107,1367,124,1240,131,1022,131,917,129,805,131,678,138,528,155,492,162,491,157,527,150,677,133,805,125,917,124,1022,125,1240,126,1367,118,1517,102,1521,101"/>
+<area shape="rect" id="Node000007" href="$ObjectFile_8cpp.html" title=" " alt="" coords="666,160,771,186"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="1522,107,1518,107,1406,120,1311,126,1149,127,988,130,894,139,783,155,755,162,753,157,782,150,893,133,987,125,1149,122,1311,121,1406,115,1517,102,1521,101"/>
+<area shape="rect" id="Node000008" href="$RelocVisitor_8h.html" title=" " alt="" coords="539,160,642,186"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="1522,107,1518,107,1387,122,1275,128,1085,126,993,125,896,127,785,137,655,155,627,162,625,157,654,150,784,131,895,122,993,120,1085,121,1275,122,1386,116,1517,102,1521,101"/>
+<area shape="rect" id="Node000009" href="$DIContext_8h.html" title=" " alt="" coords="544,241,637,267"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="593,202,593,241,588,241,588,202"/>
+<area shape="rect" id="Node000010" href="$DIContext_8cpp.html" title=" " alt="" coords="5,610,112,635"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="529,263,406,278,263,304,199,323,146,345,111,371,102,385,98,400,98,477,95,516,86,553,66,610,61,608,81,552,90,515,93,476,93,400,97,383,107,367,144,340,197,317,262,299,405,272,529,258"/>
+<area shape="rect" id="Node000011" href="$DWARFContext_8h.html" title=" " alt="" coords="562,536,689,562"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="541,276,515,293,496,316,493,327,496,340,502,378,516,413,539,450,566,484,614,534,610,538,562,488,534,453,511,416,496,380,491,341,488,327,491,314,512,289,539,272"/>
+<area shape="rect" id="Node000017" href="$DWARFDebugInfoEntry_8h.html" title=" " alt="" coords="505,315,676,341"/>
+<area shape="poly" id="edge17_Node000009_Node000017" title=" " alt="" coords="593,282,593,315,588,315,588,282"/>
+<area shape="rect" id="Node000023" href="$DWARFDebugLine_8h.html" title=" " alt="" coords="700,315,844,341"/>
+<area shape="poly" id="edge30_Node000009_Node000023" title=" " alt="" coords="636,271,742,312,740,317,635,276"/>
+<area shape="rect" id="Node000025" href="$IntelJITEventListener_8cpp.html" title=" " alt="" coords="867,315,1036,341"/>
+<area shape="poly" id="edge33_Node000009_Node000025" title=" " alt="" coords="652,265,891,312,890,317,651,270"/>
+<area shape="poly" id="edge11_Node000011_Node000010" title=" " alt="" coords="546,561,354,582,124,612,113,614,112,609,123,607,353,577,545,556"/>
+<area shape="rect" id="Node000012" href="$DWARFContext_8cpp.html" title=" " alt="" coords="730,610,872,635"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="670,565,772,607,770,612,668,570"/>
+<area shape="rect" id="Node000013" href="$DWARFDebugAranges_8cpp.html" title=" " alt="" coords="344,610,525,635"/>
+<area shape="poly" id="edge13_Node000011_Node000013" title=" " alt="" coords="580,570,468,612,466,607,578,565"/>
+<area shape="rect" id="Node000014" href="$DWARFDebugInfoEntry_8cpp.html" title=" " alt="" coords="136,610,320,635"/>
+<area shape="poly" id="edge14_Node000011_Node000014" title=" " alt="" coords="546,567,296,612,295,606,545,562"/>
+<area shape="rect" id="Node000015" href="$DWARFFormValue_8cpp.html" title=" " alt="" coords="549,610,706,635"/>
+<area shape="poly" id="edge15_Node000011_Node000015" title=" " alt="" coords="629,577,630,609,625,609,624,577"/>
+<area shape="rect" id="Node000016" href="$DWARFUnit_8cpp.html" title=" " alt="" coords="896,610,1016,635"/>
+<area shape="poly" id="edge16_Node000011_Node000016" title=" " alt="" coords="697,563,900,606,899,612,696,568"/>
+<area shape="poly" id="edge18_Node000017_Node000014" title=" " alt="" coords="504,347,445,363,382,387,320,421,291,441,266,464,253,481,243,500,232,541,229,580,229,609,224,609,223,580,227,540,238,498,248,478,262,461,288,437,317,416,379,383,444,358,503,342"/>
+<area shape="rect" id="Node000018" href="$DWARFUnit_8h.html" title=" " alt="" coords="526,389,631,414"/>
+<area shape="poly" id="edge19_Node000017_Node000018" title=" " alt="" coords="589,356,583,389,578,388,583,355"/>
+<area shape="poly" id="edge29_Node000018_Node000016" title=" " alt="" coords="647,409,764,430,817,444,853,460,891,496,921,538,942,578,954,608,949,610,937,580,916,540,887,499,850,465,815,449,762,435,646,414"/>
+<area shape="rect" id="Node000019" href="$DWARFCompileUnit_8h.html" title=" " alt="" coords="276,462,430,488"/>
+<area shape="poly" id="edge20_Node000018_Node000019" title=" " alt="" coords="527,422,392,464,391,459,525,417"/>
+<area shape="rect" id="Node000021" href="$DWARFTypeUnit_8h.html" title=" " alt="" coords="706,462,840,488"/>
+<area shape="poly" id="edge26_Node000018_Node000021" title=" " alt="" coords="627,418,741,459,739,464,625,423"/>
+<area shape="poly" id="edge22_Node000019_Node000011" title=" " alt="" coords="415,490,579,533,578,538,413,495"/>
+<area shape="poly" id="edge23_Node000019_Node000013" title=" " alt="" coords="403,493,430,510,450,535,456,555,455,576,443,610,438,608,450,575,451,555,445,537,426,514,400,497"/>
+<area shape="poly" id="edge24_Node000019_Node000014" title=" " alt="" coords="310,497,282,515,258,538,247,556,239,575,232,610,226,609,234,574,242,553,254,534,279,511,307,493"/>
+<area shape="poly" id="edge25_Node000019_Node000015" title=" " alt="" coords="391,493,470,534,607,607,605,612,468,538,389,498"/>
+<area shape="rect" id="Node000020" href="$DWARFCompileUnit_8cpp.html" title=" " alt="" coords="268,536,436,562"/>
+<area shape="poly" id="edge21_Node000019_Node000020" title=" " alt="" coords="355,504,355,536,349,535,350,503"/>
+<area shape="poly" id="edge27_Node000021_Node000011" title=" " alt="" coords="735,498,652,538,649,533,733,493"/>
+<area shape="rect" id="Node000022" href="$DWARFTypeUnit_8cpp.html" title=" " alt="" coords="713,536,860,562"/>
+<area shape="poly" id="edge28_Node000021_Node000022" title=" " alt="" coords="781,503,787,535,782,536,776,504"/>
+<area shape="poly" id="edge31_Node000023_Node000011" title=" " alt="" coords="740,352,717,369,697,390,672,429,653,471,631,537,626,535,648,469,667,427,692,387,714,365,737,347"/>
+<area shape="rect" id="Node000024" href="$DWARFDebugLine_8cpp.html" title=" " alt="" coords="706,389,864,414"/>
+<area shape="poly" id="edge32_Node000023_Node000024" title=" " alt="" coords="779,355,786,388,780,389,774,356"/>
+<area shape="rect" id="Node000028" href="$COFFYAML_8cpp.html" title=" " alt="" coords="795,160,911,186"/>
+<area shape="poly" id="edge37_Node000027_Node000028" title=" " alt="" coords="1611,108,1506,118,1417,124,1265,127,1115,132,1027,140,924,155,893,162,892,157,923,150,1026,135,1114,127,1265,121,1417,118,1506,113,1610,102"/>
+<area shape="poly" id="edge39_Node000029_Node000026" title=" " alt="" coords="1787,107,1784,107,1590,122,1439,127,1288,134,1095,155,1058,162,1057,157,1094,150,1287,128,1438,121,1590,117,1784,102,1787,102"/>
+<area shape="rect" id="Node000030" href="$MCAsmStreamer_8cpp.html" title=" " alt="" coords="1975,160,2121,186"/>
+<area shape="poly" id="edge40_Node000029_Node000030" title=" " alt="" coords="1910,109,2021,157,2019,162,1908,114"/>
+<area shape="rect" id="Node000031" href="$MCContext_8cpp.html" title=" " alt="" coords="2144,160,2258,186"/>
+<area shape="poly" id="edge41_Node000029_Node000031" title=" " alt="" coords="1941,106,2134,150,2160,157,2158,162,2133,155,1940,111"/>
+<area shape="rect" id="Node000032" href="$MCObjectFileInfo_8cpp.html" title=" " alt="" coords="2282,160,2430,186"/>
+<area shape="poly" id="edge42_Node000029_Node000032" title=" " alt="" coords="1949,102,2271,150,2305,157,2304,162,2270,155,1948,107"/>
+<area shape="rect" id="Node000033" href="$MCSectionCOFF_8cpp.html" title=" " alt="" coords="1106,160,1251,186"/>
+<area shape="poly" id="edge43_Node000029_Node000033" title=" " alt="" coords="1787,107,1784,107,1638,121,1524,128,1410,136,1264,155,1228,162,1227,157,1263,150,1409,131,1523,122,1637,116,1784,102,1787,102"/>
+<area shape="rect" id="Node000034" href="$MCWin64EH_8cpp.html" title=" " alt="" coords="1276,160,1399,186"/>
+<area shape="poly" id="edge44_Node000029_Node000034" title=" " alt="" coords="1787,107,1784,107,1597,128,1515,138,1411,155,1381,162,1380,157,1410,150,1514,132,1596,122,1784,102,1787,102"/>
+<area shape="poly" id="edge45_Node000029_Node000035" title=" " alt="" coords="1949,102,1952,102,2090,115,2198,120,2306,129,2443,150,2472,157,2470,162,2442,155,2305,134,2198,126,2090,120,1952,107,1948,107"/>
+<area shape="rect" id="Node000036" href="$TargetLoweringObjectFileImpl_8cpp.html" title=" " alt="" coords="1422,153,1591,193"/>
+<area shape="poly" id="edge46_Node000029_Node000036" title=" " alt="" coords="1798,111,1592,156,1591,151,1797,106"/>
+<area shape="poly" id="edge47_Node000029_Node000037" title=" " alt="" coords="1949,97,2003,102,2290,121,2415,131,2576,150,2618,157,2617,162,2575,155,2415,136,2290,126,2002,107,1949,103"/>
+<area shape="poly" id="edge48_Node000029_Node000038" title=" " alt="" coords="1949,96,2776,150,2815,157,2814,162,2776,155,1949,101"/>
+<area shape="rect" id="Node000039" href="$X86AsmBackend_8cpp.html" title=" " alt="" coords="1614,160,1762,186"/>
+<area shape="poly" id="edge49_Node000029_Node000039" title=" " alt="" coords="1827,114,1716,162,1714,157,1825,109"/>
+<area shape="poly" id="edge50_Node000029_Node000040" title=" " alt="" coords="1949,95,2526,124,2958,150,2993,157,2991,162,2957,155,2526,129,1949,100"/>
+<area shape="rect" id="Node000041" href="$X86TargetObjectFile_8cpp.html" title=" " alt="" coords="1786,160,1950,186"/>
+<area shape="poly" id="edge51_Node000029_Node000041" title=" " alt="" coords="1870,120,1870,160,1865,160,1865,120"/>
+</map>

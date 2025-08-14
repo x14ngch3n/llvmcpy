@@ -1,0 +1,24 @@
+<map id="MachineScheduler.h" name="MachineScheduler.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="420,5,558,31"/>
+<area shape="rect" id="Node000002" href="$AArch64Subtarget_8cpp.html" title=" " alt="" coords="29,79,181,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="409,37,171,81,170,76,408,32"/>
+<area shape="rect" id="Node000003" href="$AMDGPUSubtarget_8cpp.html" title="Implements the AMDGPU specific subclass of TargetSubtarget." alt="" coords="536,153,698,178"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="472,44,457,74,455,89,460,103,475,120,494,133,537,151,535,156,491,138,472,124,456,106,450,90,452,73,467,42"/>
+<area shape="rect" id="Node000004" href="$HexagonMachineScheduler_8h.html" title=" " alt="" coords="206,79,396,105"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="444,39,334,81,332,76,442,34"/>
+<area shape="rect" id="Node000007" href="$MachineScheduler_8cpp.html" title=" " alt="" coords="470,79,622,105"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="510,41,539,77,534,80,506,45"/>
+<area shape="rect" id="Node000008" href="$PPCSubtarget_8cpp.html" title=" " alt="" coords="646,79,777,105"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="542,34,674,76,673,81,540,39"/>
+<area shape="rect" id="Node000009" href="$R600MachineScheduler_8h.html" title="R600 Machine Scheduler interface." alt="" coords="800,79,970,105"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="572,32,818,76,817,81,571,37"/>
+<area shape="rect" id="Node000005" href="$HexagonMachineScheduler_8cpp.html" title=" " alt="" coords="5,153,210,178"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="255,113,141,155,140,150,253,108"/>
+<area shape="rect" id="Node000006" href="$HexagonTargetMachine_8cpp.html" title=" " alt="" coords="233,153,416,178"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="312,119,323,151,318,153,307,120"/>
+<area shape="poly" id="edge9_Node000009_Node000003" title=" " alt="" coords="825,112,663,155,662,149,824,106"/>
+<area shape="rect" id="Node000010" href="$AMDGPUTargetMachine_8cpp.html" title="The AMDGPU target machine contains all of the hardware specific information needed to emit code for R..." alt="" coords="976,153,1167,178"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="932,108,1041,150,1039,155,930,113"/>
+<area shape="rect" id="Node000011" href="$R600MachineScheduler_8cpp.html" title="R600 Machine Scheduler interface." alt="" coords="769,153,952,178"/>
+<area shape="poly" id="edge11_Node000009_Node000011" title=" " alt="" coords="878,120,867,153,862,151,873,119"/>
+</map>

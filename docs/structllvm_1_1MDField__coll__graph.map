@@ -1,0 +1,17 @@
+<map id="llvm::MDField" name="llvm::MDField">
+<area shape="rect" id="Node000001" title=" " alt="" coords="267,324,369,350"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1MDFieldImpl.html" title=" " alt="" coords="250,234,386,275"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="321,290,321,324,315,324,315,290"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1Metadata.html" title="Root of the metadata hierarchy." alt="" coords="123,130,230,156"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="206,163,294,231,291,236,203,167"/>
+<area shape="rect" id="Node000004" href="$classbool.html" title=" " alt="" coords="295,5,341,31"/>
+<area shape="poly" id="edge5_Node000002_Node000004" title=" " alt="" coords="321,46,321,234,315,234,315,46"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="280,27,221,38,195,47,180,57,172,74,170,93,175,129,170,130,165,93,167,72,176,53,193,42,219,33,279,21"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1MDFieldImpl.html" title="Structure to represent an optional metadata field." alt="" coords="380,122,515,163"/>
+<area shape="poly" id="edge8_Node000006_Node000004" title=" " alt="" coords="344,40,429,120,425,124,340,44"/>
+<area shape="rect" id="Node000005" href="$classunsigned.html" title=" " alt="" coords="5,5,79,31"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="38,46,37,73,46,97,61,112,80,123,123,136,122,141,78,128,58,116,41,100,32,73,32,46"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="415,175,343,236,339,232,411,171"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="416,5,479,31"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="450,47,450,122,445,122,445,47"/>
+</map>

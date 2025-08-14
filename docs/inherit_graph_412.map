@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classllvm_1_1DominatorBase.html" title="Base class that other, more interesting dominator analyses inherit from." alt="" coords="5,104,149,145"/>
+<area shape="rect" id="Node000001" href="$classllvm_1_1DominatorTreeBase.html" title=" " alt="" coords="197,5,366,46"/>
+<area shape="poly" id="edge842_Node000000_Node000001" title=" " alt="" coords="125,93,196,57,224,44,226,49,198,61,128,98"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1DominatorTreeBase.html" title=" " alt="" coords="197,71,366,111"/>
+<area shape="poly" id="edge843_Node000000_Node000002" title=" " alt="" coords="163,108,196,102,197,107,164,113"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1DominatorTreeBase.html" title=" " alt="" coords="197,136,366,177"/>
+<area shape="poly" id="edge845_Node000000_Node000004" title=" " alt="" coords="164,135,197,140,196,146,163,141"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1DominatorTreeBase.html" title="Core dominator tree base class." alt="" coords="197,201,366,242"/>
+<area shape="poly" id="edge846_Node000000_Node000005" title=" " alt="" coords="129,150,198,186,226,198,224,203,196,191,126,155"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1DominatorTree.html" title="Concrete subclass of DominatorTreeBase that is used to compute a normal dominator tree." alt="" coords="414,78,553,104"/>
+<area shape="poly" id="edge844_Node000002_Node000003" title=" " alt="" coords="382,88,414,88,414,94,382,94"/>
+</map>

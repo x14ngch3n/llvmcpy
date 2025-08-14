@@ -1,0 +1,21 @@
+<map id="StringMatcher.h" name="StringMatcher.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="362,5,474,31"/>
+<area shape="rect" id="Node000002" href="$StringRef_8h.html" title=" " alt="" coords="209,79,355,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="396,34,320,74,317,69,394,29"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="353,153,406,178"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="418,32,389,138,384,137,412,31"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="431,153,483,178"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="424,31,452,137,447,138,419,32"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="482,79,539,105"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="435,29,485,67,481,72,432,34"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="166,153,241,178"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="271,107,230,144,226,140,267,103"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="265,153,329,178"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="287,104,294,137,289,138,282,105"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="5,153,66,178"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="241,108,81,154,80,149,240,103"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="89,153,142,178"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="255,108,157,149,155,144,253,103"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="300,103,353,141,350,146,297,107"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="313,103,417,145,415,150,311,108"/>
+</map>

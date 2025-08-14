@@ -1,0 +1,9 @@
+<map id="llvm::MDLocation" name="llvm::MDLocation">
+<area shape="rect" id="Node000001" title="Debug location." alt="" coords="25,226,149,252"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1UniquableMDNode.html" title="Uniquable metadata node." alt="" coords="5,153,169,178"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="90,194,90,226,84,226,84,194"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1MDNode.html" title="Tuple of metadata." alt="" coords="34,79,140,105"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="90,120,90,152,84,152,84,120"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1Metadata.html" title="Root of the metadata hierarchy." alt="" coords="33,5,141,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="90,46,90,79,84,79,84,46"/>
+</map>

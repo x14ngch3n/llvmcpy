@@ -1,0 +1,9 @@
+<map id="llvm::OperandTraits&lt; InsertElementConstantExpr &gt;" name="llvm::OperandTraits&lt; InsertElementConstantExpr &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="917,52,1123,93"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1FixedNumOperandTraits.html" title=" " alt="" coords="456,8,676,49"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="692,37,893,56,917,59,916,64,893,62,691,42"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1FixedNumOperandTraits.html" title=" " alt="" coords="5,8,201,49"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="216,26,455,26,455,31,216,31"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1OperandTraits.html" title="Compile&#45;time customization of User operands." alt="" coords="498,73,634,114"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="649,89,893,79,916,78,917,83,893,85,649,94"/>
+</map>

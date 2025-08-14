@@ -1,0 +1,11 @@
+<map id="llvm::MipsTargetLowering" name="llvm::MipsTargetLowering">
+<area shape="rect" id="Node000001" title=" " alt="" coords="116,153,286,178"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1Mips16TargetLowering.html" title=" " alt="" coords="5,226,189,252"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="173,189,116,228,113,224,170,185"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1MipsSETargetLowering.html" title=" " alt="" coords="213,226,400,252"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="233,185,290,224,287,228,230,190"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1TargetLowering.html" title=" " alt="" coords="130,79,272,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,120,204,152,198,152,198,120"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1TargetLoweringBase.html" title=" " alt="" coords="115,5,287,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="204,46,204,79,198,79,198,46"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="llvm::COFF::AuxiliaryWeakExternal" name="llvm::COFF::AuxiliaryWeakExternal">
+<area shape="rect" id="Node000001" title=" " alt="" coords="12,122,192,163"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,73,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="36,46,36,72,43,97,52,109,64,120,60,124,48,113,38,99,30,73,31,46"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="136,5,196,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="161,47,139,100,122,123,117,120,134,97,156,45"/>
+</map>

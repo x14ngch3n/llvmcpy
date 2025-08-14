@@ -1,0 +1,9 @@
+<map id="llvm::SpillPlacement::BlockConstraint" name="llvm::SpillPlacement::BlockConstraint">
+<area shape="rect" id="Node000001" title="BlockConstraint &#45; Entry and exit constraints for a basic block." alt="" coords="92,122,232,163"/>
+<area shape="rect" id="Node000002" href="$classunsigned.html" title=" " alt="" coords="5,5,79,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="60,42,80,69,105,96,133,120,130,124,101,100,76,73,56,45"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="102,5,222,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="165,47,165,122,159,122,159,47"/>
+<area shape="rect" id="Node000004" href="$classbool.html" title=" " alt="" coords="246,5,291,31"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="253,45,208,100,185,124,181,120,204,97,249,42"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="llvm::LineEditor::CompletionAction" name="llvm::LineEditor::CompletionAction">
+<area shape="rect" id="Node000001" title="The action to perform upon a completion request." alt="" coords="48,102,234,143"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,90,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="71,41,125,100,121,103,67,44"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="114,5,168,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="144,46,144,102,138,102,138,46"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="191,5,330,31"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="237,43,165,104,162,100,234,39"/>
+</map>

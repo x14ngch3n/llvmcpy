@@ -1,0 +1,19 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classllvm_1_1Type.html" title=" " alt="" coords="5,128,87,154"/>
+<area shape="rect" id="Node000001" href="$classllvm_1_1CompositeType.html" title=" " alt="" coords="135,79,279,104"/>
+<area shape="poly" id="edge2586_Node000000_Node000001" title=" " alt="" coords="101,121,161,102,163,108,103,126"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1FunctionType.html" title=" " alt="" coords="141,128,272,154"/>
+<area shape="poly" id="edge2592_Node000000_Node000007" title=" " alt="" coords="102,138,141,138,141,144,102,144"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1IntegerType.html" title="Integer representation type." alt="" coords="146,177,268,203"/>
+<area shape="poly" id="edge2593_Node000000_Node000008" title=" " alt="" coords="103,155,163,174,161,179,101,160"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1SequentialType.html" title=" " alt="" coords="327,55,469,80"/>
+<area shape="poly" id="edge2587_Node000001_Node000002" title=" " alt="" coords="294,78,326,74,327,79,295,83"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1StructType.html" title=" " alt="" coords="340,104,456,130"/>
+<area shape="poly" id="edge2591_Node000001_Node000006" title=" " alt="" coords="295,100,340,106,339,112,294,106"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1ArrayType.html" title=" " alt="" coords="522,5,635,31"/>
+<area shape="poly" id="edge2588_Node000002_Node000003" title=" " alt="" coords="462,47,528,29,529,34,463,53"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1PointerType.html" title=" " alt="" coords="517,55,640,80"/>
+<area shape="poly" id="edge2589_Node000002_Node000004" title=" " alt="" coords="485,65,517,65,517,70,485,70"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1VectorType.html" title=" " alt="" coords="519,104,638,130"/>
+<area shape="poly" id="edge2590_Node000002_Node000005" title=" " alt="" coords="463,82,529,101,528,106,462,88"/>
+</map>

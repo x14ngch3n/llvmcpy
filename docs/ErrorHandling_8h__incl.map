@@ -1,0 +1,22 @@
+<map id="ErrorHandling.h" name="ErrorHandling.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="400,5,512,31"/>
+<area shape="rect" id="Node000002" href="$StringRef_8h.html" title=" " alt="" coords="229,79,376,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="431,34,343,75,341,70,429,29"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="429,153,482,178"/>
+<area shape="poly" id="edge10_Node000001_Node000007" title=" " alt="" coords="458,31,458,137,453,137,453,31"/>
+<area shape="rect" id="Node000009" href="$Compiler_8h.html" title=" " alt="" coords="501,79,661,105"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="478,29,548,69,546,73,476,34"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,153,80,178"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="259,108,96,152,94,147,258,103"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="104,153,168,178"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="275,108,179,149,177,144,273,103"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="192,153,253,178"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="291,107,249,144,245,140,287,103"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="276,153,329,178"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="305,105,305,137,300,137,300,105"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="330,103,417,143,415,148,327,108"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="352,153,405,178"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="317,103,357,140,353,144,314,107"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="506,153,672,178"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="585,105,589,137,583,138,580,105"/>
+</map>

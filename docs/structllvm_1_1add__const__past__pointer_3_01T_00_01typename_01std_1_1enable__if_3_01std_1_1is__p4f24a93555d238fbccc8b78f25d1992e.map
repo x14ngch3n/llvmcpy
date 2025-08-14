@@ -1,0 +1,5 @@
+<map id="llvm::add_const_past_pointer&lt; T, typename std::enable_if&lt; std::is_pointer&lt; T &gt;::value &gt;::type &gt;" name="llvm::add_const_past_pointer&lt; T, typename std::enable_if&lt; std::is_pointer&lt; T &gt;::value &gt;::type &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,158,156,243"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1add__const__past__pointer.html" title="If T is a pointer to X, return a pointer to const X. If it is not, return const T." alt="" coords="8,5,153,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="83,62,83,157,78,157,78,62"/>
+</map>

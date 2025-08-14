@@ -1,0 +1,15 @@
+<map id="llvm::yaml::ScalarBitSetTraits&lt; T &gt;" name="llvm::yaml::ScalarBitSetTraits&lt; T &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,175,168,215"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1yaml_1_1ScalarBitSetTraits_3_01COFF_1_1Characteristics_01_4.html" title=" " alt="" coords="446,11,656,51"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,160,141,115,164,94,190,77,253,51,319,35,385,27,445,24,445,29,385,32,320,40,255,56,193,81,168,98,145,119,110,163"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1yaml_1_1ScalarBitSetTraits_3_01COFF_1_1DLLCharacteristics_01_4.html" title=" " alt="" coords="434,76,668,117"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="137,165,191,143,252,128,315,116,433,101,434,106,316,121,253,133,192,148,139,170"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1yaml_1_1ScalarBitSetTraits_3_01COFF_1_1SectionCharacteristics_01_4.html" title=" " alt="" coords="424,141,678,182"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="183,186,423,168,423,174,184,191"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1yaml_1_1ScalarBitSetTraits_3_01ELFYAML_1_1ELF__EF_01_4.html" title=" " alt="" coords="455,207,647,247"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="184,210,192,211,329,221,454,225,454,230,329,227,191,217,183,216"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1yaml_1_1ScalarBitSetTraits_3_01ELFYAML_1_1ELF__SHF_01_4.html" title=" " alt="" coords="450,272,652,313"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="131,222,160,238,193,252,258,269,325,280,449,290,449,295,324,285,257,274,191,257,158,243,128,226"/>
+<area shape="rect" id="Node000007" href="$structllvm_1_1yaml_1_1ScalarBitSetTraits_3_01ELFYAML_1_1ELF__STO_01_4.html" title=" " alt="" coords="450,337,652,378"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="109,227,144,275,167,298,193,316,256,341,322,356,389,363,449,363,449,369,388,368,322,361,254,346,190,320,163,302,140,279,104,231"/>
+</map>

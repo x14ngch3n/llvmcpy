@@ -1,0 +1,43 @@
+<map id="llvm::VariadicOperandTraits&lt; SubClass, MINARITY &gt;" name="llvm::VariadicOperandTraits&lt; SubClass, MINARITY &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,320,187,361"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1VariadicOperandTraits.html" title=" " alt="" coords="469,23,650,63"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,304,110,253,130,191,162,131,184,104,209,81,239,63,271,48,338,31,406,26,468,28,468,33,406,31,339,37,272,54,241,67,212,85,187,107,167,134,135,193,115,254,104,305"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1VariadicOperandTraits.html" title=" " alt="" coords="469,88,650,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="105,304,119,266,141,222,171,179,209,145,229,135,255,128,321,117,468,107,468,112,322,122,256,133,231,140,212,149,175,183,145,225,124,268,110,306"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1VariadicOperandTraits.html" title=" " alt="" coords="469,153,650,194"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="117,306,156,259,181,236,209,218,274,193,342,177,408,169,468,167,468,172,409,175,343,182,275,198,212,223,184,241,160,263,121,309"/>
+<area shape="rect" id="Node000008" href="$structllvm_1_1VariadicOperandTraits.html" title=" " alt="" coords="469,219,650,259"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="147,310,210,285,276,268,344,256,468,241,469,247,345,261,277,273,211,290,149,315"/>
+<area shape="rect" id="Node000010" href="$structllvm_1_1VariadicOperandTraits.html" title=" " alt="" coords="469,284,650,325"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="202,330,468,309,469,314,203,335"/>
+<area shape="rect" id="Node000012" href="$structllvm_1_1VariadicOperandTraits.html" title=" " alt="" coords="469,349,650,390"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="202,357,211,358,346,367,468,368,468,374,346,372,210,363,202,362"/>
+<area shape="rect" id="Node000014" href="$structllvm_1_1VariadicOperandTraits.html" title=" " alt="" coords="447,415,672,455"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="144,366,176,383,211,397,271,411,331,422,446,432,446,437,331,427,269,417,210,402,174,388,141,371"/>
+<area shape="rect" id="Node000016" href="$structllvm_1_1VariadicOperandTraits.html" title=" " alt="" coords="469,480,650,521"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="121,372,159,419,184,441,212,458,275,483,343,497,409,503,468,504,468,509,408,508,342,502,274,488,209,463,181,445,156,422,117,375"/>
+<area shape="rect" id="Node000018" href="$structllvm_1_1VariadicOperandTraits.html" title=" " alt="" coords="469,545,650,586"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="110,375,124,413,145,457,174,499,212,532,242,548,273,560,340,574,407,579,468,576,468,582,407,584,340,580,272,565,240,553,209,536,170,502,140,460,119,415,105,377"/>
+<area shape="rect" id="Node000020" href="$structllvm_1_1VariadicOperandTraits.html" title=" " alt="" coords="469,611,650,651"/>
+<area shape="poly" id="edge19_Node000001_Node000020" title=" " alt="" coords="103,376,113,430,132,494,146,526,164,557,186,585,212,608,241,625,272,637,339,651,406,653,468,647,468,653,407,658,339,656,271,643,239,630,209,612,182,588,160,560,141,529,127,496,108,431,98,377"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1OperandTraits_3_01BranchInst_01_4.html" title=" " alt="" coords="759,23,895,63"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="666,40,759,40,759,46,666,46"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1OperandTraits_3_01CallInst_01_4.html" title=" " alt="" coords="759,88,895,129"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="666,106,759,106,759,111,666,111"/>
+<area shape="rect" id="Node000007" href="$structllvm_1_1OperandTraits_3_01ConstantArray_01_4.html" title=" " alt="" coords="759,153,895,194"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="666,171,759,171,759,176,666,176"/>
+<area shape="rect" id="Node000009" href="$structllvm_1_1OperandTraits_3_01ConstantExpr_01_4.html" title=" " alt="" coords="759,219,895,259"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="666,236,759,236,759,242,666,242"/>
+<area shape="rect" id="Node000011" href="$structllvm_1_1OperandTraits_3_01ConstantStruct_01_4.html" title=" " alt="" coords="759,284,895,325"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="666,302,759,302,759,307,666,307"/>
+<area shape="rect" id="Node000013" href="$structllvm_1_1OperandTraits_3_01ConstantVector_01_4.html" title=" " alt="" coords="759,349,895,390"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="666,367,758,367,758,372,666,372"/>
+<area shape="rect" id="Node000015" href="$structllvm_1_1OperandTraits_3_01GetElementPtrConstantExpr_01_4.html" title=" " alt="" coords="721,415,933,455"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="688,432,721,432,721,438,688,438"/>
+<area shape="rect" id="Node000017" href="$structllvm_1_1OperandTraits_3_01GetElementPtrInst_01_4.html" title=" " alt="" coords="750,480,904,521"/>
+<area shape="poly" id="edge16_Node000016_Node000017" title=" " alt="" coords="665,498,750,498,750,503,665,503"/>
+<area shape="rect" id="Node000019" href="$structllvm_1_1OperandTraits_3_01InvokeInst_01_4.html" title=" " alt="" coords="759,545,895,586"/>
+<area shape="poly" id="edge18_Node000018_Node000019" title=" " alt="" coords="666,563,759,563,759,568,666,568"/>
+<area shape="rect" id="Node000021" href="$structllvm_1_1OperandTraits_3_01ReturnInst_01_4.html" title=" " alt="" coords="759,611,895,651"/>
+<area shape="poly" id="edge20_Node000020_Node000021" title=" " alt="" coords="666,628,759,628,759,634,666,634"/>
+</map>

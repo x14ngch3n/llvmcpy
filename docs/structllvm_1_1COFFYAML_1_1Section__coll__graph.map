@@ -1,0 +1,21 @@
+<map id="llvm::COFFYAML::Section" name="llvm::COFFYAML::Section">
+<area shape="rect" id="Node000001" title=" " alt="" coords="565,301,740,327"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1COFF_1_1section.html" title=" " alt="" coords="282,195,421,220"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="437,217,489,229,542,246,593,272,635,299,632,303,591,277,540,251,488,234,436,222"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="16,19,62,44"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="78,26,114,26,157,30,201,40,243,58,281,89,311,127,333,164,347,193,342,195,328,167,306,130,277,93,240,63,200,45,156,35,114,31,78,31"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,195,73,220"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="88,205,281,205,281,210,88,210"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="5,269,73,295"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="88,281,162,275,202,267,240,254,252,244,264,233,298,218,300,223,267,238,256,248,243,258,204,272,163,280,89,286"/>
+<area shape="rect" id="Node000006" href="$classunsigned.html" title=" " alt="" coords="315,248,388,274"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="404,265,541,287,593,298,592,303,541,293,403,270"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1yaml_1_1BinaryRef.html" title="Specialized YAMLIO scalar type for representing a binary blob." alt="" coords="278,299,425,324"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="441,310,461,310,565,311,565,316,461,316,441,316"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="266,348,437,389"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="452,354,540,340,603,325,604,330,542,345,453,360"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1StringRef.html" title=" " alt="" coords="297,413,406,439"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="421,414,480,401,540,381,592,354,633,325,636,330,595,358,542,386,481,406,422,419"/>
+<area shape="rect" id="Node000010" href="$classsize__t.html" title=" " alt="" coords="11,413,67,439"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="83,423,297,423,297,429,83,429"/>
+</map>

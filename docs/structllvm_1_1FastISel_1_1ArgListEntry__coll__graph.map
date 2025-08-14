@@ -1,0 +1,15 @@
+<map id="llvm::FastISel::ArgListEntry" name="llvm::FastISel::ArgListEntry">
+<area shape="rect" id="Node000001" title=" " alt="" coords="220,382,402,407"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1Value.html" title="LLVM Value Representation." alt="" coords="5,143,91,168"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="58,182,72,221,94,268,125,316,165,356,191,371,220,381,218,386,189,375,162,360,121,319,90,271,67,223,53,184"/>
+<area shape="rect" id="Node000003" href="$classunsigned.html" title=" " alt="" coords="65,5,138,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="51,33,35,43,22,57,14,72,13,85,22,118,37,141,33,144,17,120,7,86,9,70,17,53,31,39,49,29"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1Type.html" title=" " alt="" coords="130,143,211,168"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="145,38,160,54,170,76,175,101,175,142,169,142,169,102,165,78,155,56,141,42"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="188,181,306,380,301,383,183,183"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="228,143,235,148,238,156,230,167,212,171,211,166,227,163,233,155,231,151,225,147"/>
+<area shape="rect" id="Node000005" href="$classbool.html" title=" " alt="" coords="348,143,393,168"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="365,184,363,193,316,382,311,381,357,192,360,182"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="428,143,495,168"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="468,183,471,222,470,268,459,317,448,339,434,359,418,374,399,383,396,379,415,369,430,356,444,337,453,315,464,268,466,222,463,184"/>
+</map>

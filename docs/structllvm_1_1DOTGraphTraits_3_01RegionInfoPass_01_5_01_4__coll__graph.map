@@ -1,0 +1,13 @@
+<map id="llvm::DOTGraphTraits&lt; RegionInfoPass * &gt;" name="llvm::DOTGraphTraits&lt; RegionInfoPass * &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="755,37,904,78"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1DefaultDOTGraphTraits.html" title=" " alt="" coords="5,45,197,70"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,37,220,24,356,8,463,3,570,8,706,23,761,34,760,39,705,28,570,13,463,8,357,14,221,29,158,43"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1DOTGraphTraits_3_01RegionNode_01_5_01_4.html" title=" " alt="" coords="556,37,706,78"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="212,62,389,64,556,61,556,67,389,69,212,68"/>
+<area shape="poly" id="edge4_Node000003_Node000002" title=" " alt="" coords="212,47,389,46,556,48,556,54,389,51,212,53"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1DOTGraphTraits.html" title=" " alt="" coords="246,106,395,147"/>
+<area shape="poly" id="edge6_Node000004_Node000002" title=" " alt="" coords="160,73,255,103,253,108,158,78"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="721,55,754,55,754,60,721,60"/>
+<area shape="poly" id="edge7_Node000001_Node000004" title=" " alt="" coords="411,132,476,135,551,133,629,126,705,110,749,94,789,76,791,81,751,99,706,115,630,131,551,138,476,140,411,138"/>
+<area shape="poly" id="edge5_Node000003_Node000004" title=" " alt="" coords="411,126,471,121,532,109,567,94,599,76,601,81,569,99,533,114,472,126,411,131"/>
+</map>

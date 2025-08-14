@@ -1,0 +1,9 @@
+<map id="llvm::detail::AnalysisResultModel&lt; IRUnitT, PassT, ResultT, PreservedAnalysesT, HasInvalidateHandler &gt;" name="llvm::detail::AnalysisResultModel&lt; IRUnitT, PassT, ResultT, PreservedAnalysesT, HasInvalidateHandler &gt;">
+<area shape="rect" id="Node000001" title="Wrapper to model the analysis result concept." alt="" coords="5,110,295,166"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1detail_1_1AnalysisResultModel.html" title=" " alt="" coords="516,16,737,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="225,101,270,84,318,70,419,53,515,44,516,49,419,58,319,75,272,89,227,106"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1detail_1_1AnalysisResultModel_3_01IRUnitT_00_01PassT_00_01ResultT_00_01PreservedAnalysesT_00_01false_01_4.html" title="Specialization of AnalysisResultModel which provides the default invalidate functionality." alt="" coords="520,110,732,166"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="310,135,520,135,520,141,310,141"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1detail_1_1AnalysisResultModel_3_01IRUnitT_00_01PassT_00_01ResultT_00_01PreservedAnalysesT_00_01true_01_4.html" title="Specialization of AnalysisResultModel which delegates invalidate handling to ResultT." alt="" coords="520,205,732,261"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="223,170,270,189,319,204,422,222,520,229,519,234,421,227,318,210,268,194,221,175"/>
+</map>

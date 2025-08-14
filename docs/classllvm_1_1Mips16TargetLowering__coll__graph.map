@@ -1,0 +1,17 @@
+<map id="llvm::Mips16TargetLowering" name="llvm::Mips16TargetLowering">
+<area shape="rect" id="Node000001" title=" " alt="" coords="160,450,343,476"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1MipsTargetLowering.html" title=" " alt="" coords="167,375,336,401"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="254,416,254,450,249,450,249,416"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1TargetLowering.html" title=" " alt="" coords="99,279,241,304"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="192,315,243,373,239,376,188,318"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1TargetLoweringBase.html" title=" " alt="" coords="71,204,242,229"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="164,244,170,278,165,279,159,245"/>
+<area shape="rect" id="Node000005" href="$classunsigned.html" title=" " alt="" coords="5,5,79,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="36,47,30,76,27,111,31,146,45,178,59,191,75,201,73,205,55,196,41,181,25,148,21,111,24,76,31,45"/>
+<area shape="rect" id="Node000006" href="$classbool.html" title=" " alt="" coords="249,5,294,31"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="276,47,276,77,273,112,263,149,244,181,228,196,210,205,207,201,225,191,240,178,258,147,267,111,271,77,271,47"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1MipsSubtarget.html" title=" " alt="" coords="271,279,408,304"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="320,318,265,377,261,373,316,314"/>
+<area shape="rect" id="Node000008" href="$classMipsGenSubtargetInfo.html" title=" " alt="" coords="266,204,418,229"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="344,245,342,279,337,278,338,245"/>
+</map>

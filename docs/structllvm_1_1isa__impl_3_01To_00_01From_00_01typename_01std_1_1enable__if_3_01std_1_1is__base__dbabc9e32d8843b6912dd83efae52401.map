@@ -1,0 +1,5 @@
+<map id="llvm::isa_impl&lt; To, From, typename std::enable_if&lt; std::is_base_of&lt; To, From &gt;::value &gt;::type &gt;" name="llvm::isa_impl&lt; To, From, typename std::enable_if&lt; std::is_base_of&lt; To, From &gt;::value &gt;::type &gt;">
+<area shape="rect" id="Node000001" title="Always allow upcasts, and perform no dynamic check for them." alt="" coords="5,178,164,264"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1isa__impl.html" title=" " alt="" coords="19,5,150,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,61,87,178,82,178,82,61"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="llvm::DenseMapInfo&lt; coverage::CounterExpression &gt;" name="llvm::DenseMapInfo&lt; coverage::CounterExpression &gt;">
+<area shape="rect" id="Node000001" title="Provide DenseMapInfo for CounterExpression." alt="" coords="5,102,223,143"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1DenseMapInfo.html" title=" " alt="" coords="29,5,199,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,46,117,102,111,102,111,46"/>
+</map>

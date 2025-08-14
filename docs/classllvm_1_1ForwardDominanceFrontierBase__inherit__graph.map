@@ -1,0 +1,9 @@
+<map id="llvm::ForwardDominanceFrontierBase&lt; BlockT &gt;" name="llvm::ForwardDominanceFrontierBase&lt; BlockT &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="248,39,458,79"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1ForwardDominanceFrontierBase.html" title=" " alt="" coords="691,5,902,46"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="474,47,691,31,691,36,474,53"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1ForwardDominanceFrontierBase.html" title=" " alt="" coords="685,71,908,111"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="474,74,483,75,685,87,685,92,482,81,473,80"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1DominanceFrontierBase.html" title=" " alt="" coords="5,39,199,79"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="214,56,247,56,247,62,214,62"/>
+</map>

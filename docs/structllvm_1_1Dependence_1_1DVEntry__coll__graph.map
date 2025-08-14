@@ -1,0 +1,12 @@
+<map id="llvm::Dependence::DVEntry" name="llvm::Dependence::DVEntry">
+<area shape="rect" id="Node000001" title=" " alt="" coords="60,260,245,285"/>
+<area shape="rect" id="Node000002" href="$classunsigned.html" title=" " alt="" coords="5,5,79,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="37,46,32,85,33,106,38,127,59,168,86,205,140,257,136,261,82,209,54,171,33,129,28,107,27,85,32,45"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1SCEV.html" title=" " alt="" coords="108,102,198,128"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="51,45,58,62,69,76,87,90,108,100,106,105,84,95,65,80,53,64,46,47"/>
+<area shape="rect" id="Node000003" href="$classbool.html" title=" " alt="" coords="222,102,267,128"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="247,144,239,190,231,215,217,237,203,251,186,261,184,257,200,247,213,234,226,212,234,188,241,143"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="155,143,155,259,150,259,150,143"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1FoldingSetImpl_1_1Node.html" title=" " alt="" coords="121,5,235,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="174,46,159,102,153,101,168,45"/>
+</map>

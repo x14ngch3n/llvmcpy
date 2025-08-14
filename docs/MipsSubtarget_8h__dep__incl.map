@@ -1,0 +1,96 @@
+<map id="MipsSubtarget.h" name="MipsSubtarget.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1030,5,1146,31"/>
+<area shape="rect" id="Node000002" href="$Mips16FrameLowering_8cpp.html" title=" " alt="" coords="62,79,239,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1014,26,684,47,251,82,240,83,239,77,250,76,683,42,1014,21"/>
+<area shape="rect" id="Node000003" href="$Mips16RegisterInfo_8cpp.html" title=" " alt="" coords="263,79,422,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1014,28,757,50,433,82,423,83,422,78,433,76,757,45,1014,23"/>
+<area shape="rect" id="Node000004" href="$MipsAsmPrinter_8h.html" title=" " alt="" coords="446,79,570,105"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1014,30,583,82,571,83,570,78,582,76,1014,25"/>
+<area shape="rect" id="Node000007" href="$MipsCCState_8cpp.html" title=" " alt="" coords="594,79,720,105"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1015,34,721,83,720,77,1014,29"/>
+<area shape="rect" id="Node000008" href="$MipsDisassembler_8cpp.html" title=" " alt="" coords="744,79,898,105"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="1029,38,867,81,866,76,1027,33"/>
+<area shape="rect" id="Node000009" href="$MipsFastISel_8cpp.html" title=" " alt="" coords="344,153,467,178"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="1045,40,956,81,934,95,911,107,848,126,793,137,698,145,602,146,480,155,468,157,467,152,480,150,602,140,698,139,793,131,847,120,910,102,932,91,953,77,1043,35"/>
+<area shape="rect" id="Node000010" href="$MipsISelDAGToDAG_8h.html" title=" " alt="" coords="492,153,647,178"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="1060,42,1004,80,955,107,830,131,648,157,647,151,829,125,954,102,1001,75,1057,38"/>
+<area shape="rect" id="Node000018" href="$MipsISelLowering_8cpp.html" title=" " alt="" coords="670,153,820,178"/>
+<area shape="poly" id="edge20_Node000001_Node000018" title=" " alt="" coords="1073,45,1044,78,1006,107,973,120,926,133,820,155,819,149,924,128,971,115,1004,102,1041,74,1069,42"/>
+<area shape="rect" id="Node000019" href="$MipsInstrInfo_8cpp.html" title=" " alt="" coords="1388,79,1510,105"/>
+<area shape="poly" id="edge21_Node000001_Node000019" title=" " alt="" coords="1162,31,1388,76,1387,81,1161,37"/>
+<area shape="rect" id="Node000020" href="$MipsMachineFunction_8cpp.html" title=" " alt="" coords="1534,79,1708,105"/>
+<area shape="poly" id="edge22_Node000001_Node000020" title=" " alt="" coords="1162,27,1535,76,1534,82,1161,32"/>
+<area shape="rect" id="Node000021" href="$MipsModuleISelDAGToDAG_8h.html" title=" " alt="" coords="998,153,1196,178"/>
+<area shape="poly" id="edge23_Node000001_Node000021" title=" " alt="" coords="1101,45,1109,79,1109,120,1103,153,1098,152,1104,119,1104,79,1095,47"/>
+<area shape="rect" id="Node000022" href="$MipsRegisterInfo_8cpp.html" title=" " alt="" coords="1732,79,1878,105"/>
+<area shape="poly" id="edge26_Node000001_Node000022" title=" " alt="" coords="1162,23,1409,45,1720,76,1732,78,1732,83,1720,82,1409,50,1161,28"/>
+<area shape="rect" id="Node000023" href="$MipsSEFrameLowering_8cpp.html" title=" " alt="" coords="1902,79,2084,105"/>
+<area shape="poly" id="edge27_Node000001_Node000023" title=" " alt="" coords="1162,21,1479,43,1891,76,1902,77,1902,83,1890,82,1478,48,1161,27"/>
+<area shape="rect" id="Node000024" href="$MipsSERegisterInfo_8cpp.html" title=" " alt="" coords="2108,79,2271,105"/>
+<area shape="poly" id="edge28_Node000001_Node000024" title=" " alt="" coords="1161,20,1560,38,1826,55,2096,76,2108,77,2107,83,2096,82,1826,60,1560,44,1161,25"/>
+<area shape="rect" id="Node000025" href="$MipsSubtarget_8cpp.html" title=" " alt="" coords="844,153,974,178"/>
+<area shape="poly" id="edge29_Node000001_Node000025" title=" " alt="" coords="1086,47,1076,78,1058,106,1038,123,1016,136,969,155,967,150,1013,132,1035,119,1054,103,1071,76,1081,46"/>
+<area shape="rect" id="Node000026" href="$MipsTargetMachine_8h.html" title=" " alt="" coords="1219,79,1364,105"/>
+<area shape="poly" id="edge30_Node000001_Node000026" title=" " alt="" coords="1137,34,1258,76,1256,81,1136,39"/>
+<area shape="rect" id="Node000041" href="$MipsTargetObjectFile_8cpp.html" title=" " alt="" coords="2295,79,2464,105"/>
+<area shape="poly" id="edge53_Node000001_Node000041" title=" " alt="" coords="1161,19,1633,36,1955,53,2283,76,2295,77,2295,83,2282,82,1955,58,1633,42,1161,24"/>
+<area shape="rect" id="Node000005" href="$MipsAsmPrinter_8cpp.html" title=" " alt="" coords="5,153,144,178"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="431,109,145,155,144,150,430,103"/>
+<area shape="rect" id="Node000006" href="$MipsMCInstLower_8cpp.html" title=" " alt="" coords="168,153,320,178"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="449,112,290,155,288,149,448,106"/>
+<area shape="rect" id="Node000011" href="$Mips16ISelDAGToDAG_8h.html" title=" " alt="" coords="764,226,934,252"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="632,180,802,223,801,228,631,185"/>
+<area shape="rect" id="Node000013" href="$MipsISelDAGToDAG_8cpp.html" title=" " alt="" coords="608,300,778,326"/>
+<area shape="poly" id="edge14_Node000010_Node000013" title=" " alt="" coords="617,183,645,201,670,225,681,244,688,264,695,299,690,300,683,265,676,246,666,228,642,205,614,188"/>
+<area shape="rect" id="Node000015" href="$MipsModuleISelDAGToDAG_8cpp.html" title=" " alt="" coords="974,226,1186,252"/>
+<area shape="poly" id="edge15_Node000010_Node000015" title=" " alt="" coords="662,177,993,223,992,228,662,182"/>
+<area shape="rect" id="Node000016" href="$MipsSEISelDAGToDAG_8h.html" title=" " alt="" coords="482,226,656,252"/>
+<area shape="poly" id="edge16_Node000010_Node000016" title=" " alt="" coords="572,194,572,226,566,226,566,194"/>
+<area shape="rect" id="Node000012" href="$Mips16ISelDAGToDAG_8cpp.html" title=" " alt="" coords="802,300,985,326"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="867,264,888,298,883,301,862,267"/>
+<area shape="poly" id="edge12_Node000011_Node000013" title=" " alt="" coords="810,261,721,302,719,297,808,256"/>
+<area shape="rect" id="Node000014" href="$MipsTargetMachine_8cpp.html" title=" " alt="" coords="1826,300,1985,326"/>
+<area shape="poly" id="edge13_Node000011_Node000014" title=" " alt="" coords="949,248,963,249,1453,284,1825,305,1825,310,1452,289,962,255,949,253"/>
+<area shape="poly" id="edge17_Node000016_Node000013" title=" " alt="" coords="604,258,673,297,671,302,602,262"/>
+<area shape="poly" id="edge19_Node000016_Node000014" title=" " alt="" coords="671,244,753,249,1825,305,1825,310,753,255,671,250"/>
+<area shape="rect" id="Node000017" href="$MipsSEISelDAGToDAG_8cpp.html" title=" " alt="" coords="397,300,584,326"/>
+<area shape="poly" id="edge18_Node000016_Node000017" title=" " alt="" coords="547,264,505,302,502,298,543,261"/>
+<area shape="poly" id="edge25_Node000021_Node000014" title=" " alt="" coords="1180,179,1838,297,1837,302,1179,184"/>
+<area shape="poly" id="edge24_Node000021_Node000015" title=" " alt="" coords="1093,194,1085,226,1080,225,1088,193"/>
+<area shape="poly" id="edge38_Node000026_Node000009" title=" " alt="" coords="1204,100,884,119,683,135,480,155,468,157,467,152,480,150,682,130,884,114,1203,95"/>
+<area shape="poly" id="edge40_Node000026_Node000010" title=" " alt="" coords="1204,103,958,125,659,155,647,157,647,151,658,150,958,120,1203,98"/>
+<area shape="poly" id="edge52_Node000026_Node000014" title=" " alt="" coords="1380,102,1868,115,2148,129,2242,138,2272,144,2287,151,2301,169,2307,187,2307,203,2299,218,2287,231,2269,243,2223,263,2166,279,2104,292,1986,308,1985,302,2103,287,2165,274,2221,258,2266,238,2283,227,2295,215,2301,202,2302,187,2296,172,2284,155,2270,149,2242,143,2148,134,1868,120,1380,107"/>
+<area shape="poly" id="edge41_Node000026_Node000018" title=" " alt="" coords="1204,107,832,155,821,157,820,152,831,150,1203,102"/>
+<area shape="poly" id="edge43_Node000026_Node000021" title=" " alt="" coords="1245,113,1131,155,1129,150,1244,108"/>
+<area shape="poly" id="edge51_Node000026_Node000025" title=" " alt="" coords="1212,111,975,155,974,149,1211,105"/>
+<area shape="rect" id="Node000027" href="$Mips16HardFloat_8h.html" title=" " alt="" coords="2142,153,2274,178"/>
+<area shape="poly" id="edge31_Node000026_Node000027" title=" " alt="" coords="1380,102,1591,119,1756,125,1920,133,2129,150,2142,151,2141,157,2129,155,1920,138,1756,131,1591,124,1380,108"/>
+<area shape="rect" id="Node000029" href="$Mips16ISelLowering_8cpp.html" title=" " alt="" coords="2464,153,2627,178"/>
+<area shape="poly" id="edge34_Node000026_Node000029" title=" " alt="" coords="1381,102,1543,115,1681,122,1917,127,2151,132,2289,138,2451,150,2463,151,2463,156,2450,155,2288,144,2151,137,1916,133,1681,127,1543,120,1380,108"/>
+<area shape="rect" id="Node000030" href="$Mips16InstrInfo_8cpp.html" title=" " alt="" coords="2650,153,2787,178"/>
+<area shape="poly" id="edge35_Node000026_Node000030" title=" " alt="" coords="1380,102,1572,116,1734,123,2011,125,2287,128,2448,135,2639,150,2650,151,2650,156,2638,155,2448,141,2286,133,2011,130,1734,128,1571,121,1380,108"/>
+<area shape="rect" id="Node000031" href="$MipsConstantIslandPass_8cpp.html" title=" " alt="" coords="2810,153,3003,178"/>
+<area shape="poly" id="edge36_Node000026_Node000031" title=" " alt="" coords="1380,102,1596,118,1779,126,2090,129,2401,131,2584,138,2799,150,2810,151,2810,156,2798,155,2583,143,2401,137,2090,135,1779,131,1596,123,1380,108"/>
+<area shape="rect" id="Node000032" href="$MipsDelaySlotFiller_8cpp.html" title=" " alt="" coords="3027,153,3186,178"/>
+<area shape="poly" id="edge37_Node000026_Node000032" title=" " alt="" coords="1380,102,1629,119,1840,127,2025,129,2198,127,2557,127,2767,134,3015,150,3027,151,3027,156,3014,155,2767,140,2557,133,2198,133,2025,134,1840,132,1629,124,1380,108"/>
+<area shape="rect" id="Node000033" href="$MipsFrameLowering_8cpp.html" title=" " alt="" coords="3210,153,3374,178"/>
+<area shape="poly" id="edge39_Node000026_Node000033" title=" " alt="" coords="1380,102,1657,120,1891,129,2097,130,2290,128,2482,126,2688,127,2922,134,3197,150,3210,151,3210,156,3197,155,2922,139,2688,132,2482,131,2290,133,2097,135,1891,134,1656,126,1380,108"/>
+<area shape="rect" id="Node000034" href="$MipsLongBranch_8cpp.html" title=" " alt="" coords="1220,153,1364,178"/>
+<area shape="poly" id="edge42_Node000026_Node000034" title=" " alt="" coords="1294,120,1294,152,1289,152,1289,120"/>
+<area shape="rect" id="Node000035" href="$MipsOptimizePICCall_8cpp.html" title=" " alt="" coords="1387,153,1559,178"/>
+<area shape="poly" id="edge44_Node000026_Node000035" title=" " alt="" coords="1338,108,1443,150,1441,155,1336,113"/>
+<area shape="rect" id="Node000036" href="$MipsOs16_8h.html" title=" " alt="" coords="2348,153,2439,178"/>
+<area shape="poly" id="edge45_Node000026_Node000036" title=" " alt="" coords="1380,102,1525,113,1647,119,1856,123,2064,128,2186,136,2329,150,2347,153,2347,158,2329,155,2186,141,2064,133,1856,128,1647,125,1524,119,1380,108"/>
+<area shape="rect" id="Node000038" href="$MipsSEISelLowering_8cpp.html" title=" " alt="" coords="1583,153,1750,178"/>
+<area shape="poly" id="edge48_Node000026_Node000038" title=" " alt="" coords="1371,105,1603,149,1602,155,1370,111"/>
+<area shape="rect" id="Node000039" href="$MipsSEInstrInfo_8cpp.html" title=" " alt="" coords="1774,153,1914,178"/>
+<area shape="poly" id="edge49_Node000026_Node000039" title=" " alt="" coords="1381,103,1763,150,1774,151,1773,157,1762,155,1380,108"/>
+<area shape="rect" id="Node000040" href="$MipsSelectionDAGInfo_8cpp.html" title=" " alt="" coords="1938,153,2118,178"/>
+<area shape="poly" id="edge50_Node000026_Node000040" title=" " alt="" coords="1380,102,1655,127,1927,150,1938,151,1938,156,1926,155,1654,133,1380,108"/>
+<area shape="poly" id="edge33_Node000027_Node000014" title=" " alt="" coords="2209,194,2202,225,2195,241,2184,254,2151,272,2101,287,1986,306,1985,301,2100,282,2149,267,2181,250,2191,238,2197,223,2204,193"/>
+<area shape="rect" id="Node000028" href="$Mips16HardFloat_8cpp.html" title=" " alt="" coords="2024,226,2170,252"/>
+<area shape="poly" id="edge32_Node000027_Node000028" title=" " alt="" coords="2178,189,2117,228,2115,223,2175,185"/>
+<area shape="poly" id="edge47_Node000036_Node000014" title=" " alt="" coords="2430,185,2449,200,2465,217,2472,235,2464,254,2440,267,2396,277,2267,294,2117,305,1985,311,1985,306,2117,300,2267,289,2395,272,2438,262,2461,250,2466,235,2460,219,2445,204,2426,189"/>
+<area shape="rect" id="Node000037" href="$MipsOs16_8cpp.html" title=" " alt="" coords="2344,226,2450,252"/>
+<area shape="poly" id="edge46_Node000036_Node000037" title=" " alt="" coords="2397,194,2399,226,2394,226,2392,194"/>
+</map>

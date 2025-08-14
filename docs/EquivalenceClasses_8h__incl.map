@@ -1,0 +1,9 @@
+<map id="EquivalenceClasses.h" name="EquivalenceClasses.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="158,5,310,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,79,178,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,34,131,74,128,69,209,29"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="202,79,266,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="237,31,237,63,232,63,232,31"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="290,79,330,105"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="249,30,288,66,285,70,245,33"/>
+</map>

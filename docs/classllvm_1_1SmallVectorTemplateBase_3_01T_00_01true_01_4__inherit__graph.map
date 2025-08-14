@@ -1,0 +1,11 @@
+<map id="llvm::SmallVectorTemplateBase&lt; T, true &gt;" name="llvm::SmallVectorTemplateBase&lt; T, true &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="729,5,906,46"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1SmallVectorTemplateCommon.html" title=" " alt="" coords="209,5,386,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="402,30,729,30,729,35,402,36"/>
+<area shape="poly" id="edge3_Node000001_Node000002" title=" " alt="" coords="402,16,729,16,729,21,402,21"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1SmallVectorTemplateBase.html" title=" " alt="" coords="436,75,613,115"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="382,49,456,72,455,77,381,54"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1SmallVectorBase.html" title="This is all the non&#45;templated stuff common to all SmallVectors." alt="" coords="5,13,160,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="175,23,208,23,208,28,175,28"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="628,90,704,77,744,62,780,44,783,49,746,67,706,82,629,95"/>
+</map>

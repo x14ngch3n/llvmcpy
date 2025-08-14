@@ -1,0 +1,11 @@
+<map id="CommonHandleTraits" name="CommonHandleTraits">
+<area shape="rect" id="Node000001" title=" " alt="" coords="216,5,364,31"/>
+<area shape="rect" id="Node000002" href="$structCryptContextTraits.html" title=" " alt="" coords="5,79,138,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="239,39,110,81,108,76,238,34"/>
+<area shape="rect" id="Node000003" href="$structFileHandleTraits.html" title=" " alt="" coords="161,79,278,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="270,44,233,80,230,77,266,40"/>
+<area shape="rect" id="Node000004" href="$structFindHandleTraits.html" title=" " alt="" coords="302,79,422,105"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="315,40,352,77,348,80,311,44"/>
+<area shape="rect" id="Node000005" href="$structJobHandleTraits.html" title=" " alt="" coords="447,79,563,105"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="342,34,469,76,467,81,340,39"/>
+</map>

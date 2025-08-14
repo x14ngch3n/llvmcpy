@@ -1,0 +1,13 @@
+<map id="llvm::MachO::x86_thread_state_t" name="llvm::MachO::x86_thread_state_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="190,417,357,458"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1MachO_1_1x86__state__hdr__t.html" title=" " alt="" coords="5,305,166,346"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,352,242,414,239,419,131,356"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="52,5,119,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="88,47,88,305,83,305,83,47"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1MachO_1_1x86__thread__state64__t.html" title=" " alt="" coords="190,305,357,346"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="276,361,276,417,271,417,271,361"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="240,5,307,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="276,47,276,305,271,305,271,47"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="381,313,491,338"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="407,350,304,419,301,414,404,345"/>
+</map>

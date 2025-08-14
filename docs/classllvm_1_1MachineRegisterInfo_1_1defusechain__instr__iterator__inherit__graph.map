@@ -1,0 +1,25 @@
+<map id="llvm::MachineRegisterInfo::defusechain_instr_iterator&lt; ReturnUses, ReturnDefs, SkipDebug, ByOperand, ByInstr, ByBundle &gt;" name="llvm::MachineRegisterInfo::defusechain_instr_iterator&lt; ReturnUses, ReturnDefs, SkipDebug, ByOperand, ByInstr, ByBundle &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="218,434,472,505"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1MachineRegisterInfo_1_1defusechain__instr__iterator.html" title=" " alt="" coords="646,7,825,78"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="350,418,364,347,390,260,409,216,433,173,461,134,495,99,529,76,567,59,607,49,646,43,647,48,608,54,569,65,531,81,498,103,465,137,437,176,414,218,395,262,369,348,355,419"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1MachineRegisterInfo_1_1defusechain__instr__iterator.html" title=" " alt="" coords="646,102,825,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="359,418,379,367,407,308,446,250,469,224,495,200,530,178,568,162,645,142,647,147,570,167,532,183,498,205,473,227,450,253,412,310,384,369,364,420"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1MachineRegisterInfo_1_1defusechain__instr__iterator.html" title=" " alt="" coords="646,197,825,267"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="376,419,427,357,459,326,495,299,531,279,570,264,646,243,647,248,571,269,533,284,498,303,463,330,431,360,380,423"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1MachineRegisterInfo_1_1defusechain__instr__iterator.html" title=" " alt="" coords="646,291,825,362"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="416,423,495,384,571,359,645,341,647,346,573,364,497,389,418,428"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1MachineRegisterInfo_1_1defusechain__instr__iterator.html" title=" " alt="" coords="646,386,825,457"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="488,449,496,448,646,429,646,435,497,453,488,454"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1MachineRegisterInfo_1_1defusechain__instr__iterator.html" title=" " alt="" coords="646,481,825,551"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="488,490,497,491,646,507,646,512,496,497,487,495"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1MachineRegisterInfo_1_1defusechain__instr__iterator.html" title=" " alt="" coords="646,575,825,646"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="414,511,455,533,497,553,573,577,646,594,645,599,571,582,495,558,452,538,412,515"/>
+<area shape="rect" id="Node000010" href="$classllvm_1_1MachineRegisterInfo_1_1defusechain__instr__iterator.html" title=" " alt="" coords="646,670,825,741"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="379,516,430,579,462,610,498,637,533,656,571,671,647,691,645,696,570,676,531,661,495,641,459,615,426,583,375,519"/>
+<area shape="rect" id="Node000011" href="$classllvm_1_1MachineRegisterInfo_1_1defusechain__instr__iterator.html" title=" " alt="" coords="646,765,825,835"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="364,519,383,570,412,629,450,686,473,712,498,734,532,756,570,772,647,791,645,796,568,777,530,761,495,739,469,716,446,689,407,631,378,572,359,521"/>
+<area shape="rect" id="Node000012" href="$classllvm_1_1MachineRegisterInfo_1_1defusechain__instr__iterator.html" title=" " alt="" coords="646,859,825,930"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="355,520,369,591,396,676,414,720,437,762,465,801,498,834,531,857,569,873,608,883,647,890,646,895,607,889,567,878,529,862,495,839,461,804,433,765,409,722,391,678,364,592,350,521"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,441,169,497"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="184,467,218,467,218,472,184,472"/>
+</map>

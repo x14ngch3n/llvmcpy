@@ -1,0 +1,7 @@
+<map id="llvm::LiveVariables::VarInfo" name="llvm::LiveVariables::VarInfo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="113,117,243,158"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1SparseBitVector.html" title=" " alt="" coords="5,5,154,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,56,163,115,159,118,105,59"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="178,13,376,38"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="259,52,221,95,199,118,195,115,218,91,255,49"/>
+</map>

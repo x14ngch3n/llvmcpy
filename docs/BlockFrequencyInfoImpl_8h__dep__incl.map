@@ -1,0 +1,9 @@
+<map id="BlockFrequencyInfoImpl.h" name="BlockFrequencyInfoImpl.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="198,5,372,31"/>
+<area shape="rect" id="Node000002" href="$BlockFrequencyInfo_8cpp.html" title=" " alt="" coords="5,79,168,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="238,39,121,81,119,76,236,34"/>
+<area shape="rect" id="Node000003" href="$BlockFrequencyInfoImpl_8cpp.html" title=" " alt="" coords="192,79,379,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="288,46,288,79,282,79,282,46"/>
+<area shape="rect" id="Node000004" href="$MachineBlockFrequencyInfo_8cpp.html" title=" " alt="" coords="404,79,615,105"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="338,34,472,76,470,81,337,39"/>
+</map>

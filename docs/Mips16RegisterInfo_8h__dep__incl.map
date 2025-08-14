@@ -1,0 +1,16 @@
+<map id="Mips16RegisterInfo.h" name="Mips16RegisterInfo.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="540,5,685,31"/>
+<area shape="rect" id="Node000002" href="$Mips16InstrInfo_8h.html" title=" " alt="" coords="502,79,624,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="598,45,574,80,569,77,594,42"/>
+<area shape="rect" id="Node000005" href="$Mips16RegisterInfo_8cpp.html" title=" " alt="" coords="768,153,927,178"/>
+<area shape="poly" id="edge7_Node000001_Node000005" title=" " alt="" coords="646,37,829,150,827,154,644,42"/>
+<area shape="rect" id="Node000003" href="$Mips16FrameLowering_8cpp.html" title=" " alt="" coords="5,153,183,178"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="487,107,175,155,174,149,487,102"/>
+<area shape="rect" id="Node000004" href="$Mips16InstrInfo_8cpp.html" title=" " alt="" coords="207,153,344,178"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="500,111,325,155,324,149,499,106"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="627,106,800,149,798,155,626,111"/>
+<area shape="rect" id="Node000006" href="$MipsConstantIslandPass_8cpp.html" title=" " alt="" coords="367,153,560,178"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="536,116,482,154,479,150,532,112"/>
+<area shape="rect" id="Node000007" href="$MipsTargetMachine_8cpp.html" title=" " alt="" coords="584,153,743,178"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="594,112,648,150,645,154,591,116"/>
+</map>

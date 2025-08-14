@@ -1,0 +1,9 @@
+<map id="llvm::NVPTXSection" name="llvm::NVPTXSection">
+<area shape="rect" id="Node000001" title=" " alt="" coords="56,177,198,203"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1MCSection.html" title=" " alt="" coords="68,102,186,128"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,143,130,177,125,177,125,143"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,5,111,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="78,42,121,100,116,103,74,45"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1SectionKind.html" title=" " alt="" coords="135,5,258,31"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="181,45,156,80,138,103,134,100,152,76,177,42"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="llvm::GraphTraits&lt; RegionInfoPass * &gt;" name="llvm::GraphTraits&lt; RegionInfoPass * &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,339,145,380"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1GraphTraits_3_01RegionInfo_01_5_01_4.html" title=" " alt="" coords="118,249,248,290"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="149,301,101,340,98,336,146,297"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1GraphTraits.html" title=" " alt="" coords="312,137,484,178"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="347,188,223,251,220,246,345,183"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1GraphTraits.html" title=" " alt="" coords="118,5,248,46"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="151,58,93,121,66,160,46,203,41,239,45,277,55,311,67,338,62,340,50,312,40,278,35,239,41,201,62,157,89,117,147,55"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="186,62,186,249,180,249,180,62"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="230,52,366,134,364,139,227,57"/>
+</map>

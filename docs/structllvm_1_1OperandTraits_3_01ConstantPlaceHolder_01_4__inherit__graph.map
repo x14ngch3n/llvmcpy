@@ -1,0 +1,9 @@
+<map id="llvm::OperandTraits&lt; ConstantPlaceHolder &gt;" name="llvm::OperandTraits&lt; ConstantPlaceHolder &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="818,52,987,93"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1FixedNumOperandTraits.html" title=" " alt="" coords="419,8,614,49"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="629,38,794,56,818,59,817,64,794,62,629,43"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1FixedNumOperandTraits.html" title=" " alt="" coords="5,8,201,49"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="216,26,418,26,418,31,216,31"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1OperandTraits.html" title="Compile&#45;time customization of User operands." alt="" coords="449,73,584,114"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="599,89,794,79,817,78,818,83,794,85,599,94"/>
+</map>

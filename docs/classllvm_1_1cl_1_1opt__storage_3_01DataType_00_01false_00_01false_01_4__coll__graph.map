@@ -1,0 +1,9 @@
+<map id="llvm::cl::opt_storage&lt; DataType, false, false &gt;" name="llvm::cl::opt_storage&lt; DataType, false, false &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="364,51,537,92"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="64,5,141,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,21,340,45,364,49,363,55,339,50,156,26"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="17,59,188,84"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="204,69,363,69,363,74,204,74"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1cl_1_1opt__storage.html" title=" " alt="" coords="5,118,200,174"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="215,138,277,131,339,118,375,105,409,90,411,95,377,110,340,123,278,136,216,144"/>
+</map>

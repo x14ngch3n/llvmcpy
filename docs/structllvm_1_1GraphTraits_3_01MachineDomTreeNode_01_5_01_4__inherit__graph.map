@@ -1,0 +1,7 @@
+<map id="llvm::GraphTraits&lt; MachineDomTreeNode * &gt;" name="llvm::GraphTraits&lt; MachineDomTreeNode * &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="6,117,186,158"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1GraphTraits_3_01MachineDominatorTree_01_5_01_4.html" title=" " alt="" coords="5,207,187,248"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="99,173,99,207,93,207,93,173"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1GraphTraits.html" title=" " alt="" coords="31,5,161,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,61,99,117,93,117,93,61"/>
+</map>

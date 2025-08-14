@@ -1,0 +1,9 @@
+<map id="llvm::SpecificBumpPtrAllocator&lt; T &gt;" name="llvm::SpecificBumpPtrAllocator&lt; T &gt;">
+<area shape="rect" id="Node000001" title="A BumpPtrAllocator that allows only elements of a specific type to be allocated." alt="" coords="5,101,240,127"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1SpecificBumpPtrAllocator.html" title=" " alt="" coords="426,19,628,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,93,263,66,345,52,425,43,426,49,346,58,264,72,173,98"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1SpecificBumpPtrAllocator.html" title=" " alt="" coords="426,94,628,135"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="255,112,425,112,425,117,255,117"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1SpecificBumpPtrAllocator.html" title=" " alt="" coords="426,159,628,200"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="201,128,264,140,426,164,425,170,263,145,200,133"/>
+</map>

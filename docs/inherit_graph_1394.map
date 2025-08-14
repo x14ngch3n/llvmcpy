@@ -1,0 +1,15 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classllvm_1_1ScheduleDAG.html" title=" " alt="" coords="5,55,142,80"/>
+<area shape="rect" id="Node000001" href="$classllvm_1_1ScheduleDAGInstrs.html" title=" " alt="" coords="202,29,371,55"/>
+<area shape="poly" id="edge2358_Node000000_Node000001" title=" " alt="" coords="157,55,201,50,202,55,157,60"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1ScheduleDAGSDNodes.html" title=" " alt="" coords="190,79,383,104"/>
+<area shape="poly" id="edge2363_Node000000_Node000006" title=" " alt="" coords="157,74,189,78,189,83,157,80"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1DefaultVLIWScheduler.html" title=" " alt="" coords="431,5,617,31"/>
+<area shape="poly" id="edge2359_Node000001_Node000002" title=" " alt="" coords="386,29,430,25,431,30,387,35"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1ScheduleDAGMI.html" title=" " alt="" coords="448,55,600,80"/>
+<area shape="poly" id="edge2360_Node000001_Node000003" title=" " alt="" coords="386,50,448,57,448,62,386,55"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1ScheduleDAGMILive.html" title=" " alt="" coords="665,55,841,80"/>
+<area shape="poly" id="edge2361_Node000003_Node000004" title=" " alt="" coords="616,65,665,65,665,70,616,70"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1VLIWMachineScheduler.html" title=" " alt="" coords="889,55,1082,80"/>
+<area shape="poly" id="edge2362_Node000004_Node000005" title=" " alt="" coords="856,65,888,65,888,70,856,70"/>
+</map>

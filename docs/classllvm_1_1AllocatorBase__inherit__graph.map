@@ -1,0 +1,11 @@
+<map id="llvm::AllocatorBase&lt; DerivedT &gt;" name="llvm::AllocatorBase&lt; DerivedT &gt;">
+<area shape="rect" id="Node000001" title="CRTP base class providing obvious overloads for the core Allocate() methods of LLVM&#45;style allocators." alt="" coords="5,76,140,116"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1AllocatorBase.html" title=" " alt="" coords="344,21,505,91"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,84,343,63,344,68,156,89"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1AllocatorBase.html" title=" " alt="" coords="357,116,492,156"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="155,110,164,111,265,123,357,130,356,135,265,128,163,116,154,115"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1BumpPtrAllocatorImpl.html" title="Allocate memory in an ever growing pool, as if by bump&#45;pointer." alt="" coords="554,28,735,84"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="520,53,554,53,554,59,520,59"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1MallocAllocator.html" title=" " alt="" coords="573,123,716,149"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="507,133,573,133,573,139,507,139"/>
+</map>

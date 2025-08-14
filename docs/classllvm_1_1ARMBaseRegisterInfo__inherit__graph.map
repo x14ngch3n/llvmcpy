@@ -1,0 +1,11 @@
+<map id="llvm::ARMBaseRegisterInfo" name="llvm::ARMBaseRegisterInfo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="177,79,361,105"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1ARMRegisterInfo.html" title=" " alt="" coords="5,153,160,178"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="224,113,115,155,113,150,222,108"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1Thumb1RegisterInfo.html" title=" " alt="" coords="184,153,355,178"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="272,120,272,152,266,152,266,120"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1Thumb2RegisterInfo.html" title=" " alt="" coords="380,153,551,178"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="318,108,433,150,431,155,316,113"/>
+<area shape="rect" id="Node000002" href="$classARMGenRegisterInfo.html" title=" " alt="" coords="196,5,342,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="272,46,272,79,266,79,266,46"/>
+</map>

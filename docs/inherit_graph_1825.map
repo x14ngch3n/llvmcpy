@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,150,107,176"/>
+<area shape="rect" id="Node000001" href="$structstd_1_1is__error__code__enum_3_01llvm_1_1BitcodeError_01_4.html" title=" " alt="" coords="155,5,343,46"/>
+<area shape="poly" id="edge2756_Node000000_Node000001" title=" " alt="" coords="74,136,108,95,153,57,177,44,179,49,156,61,112,99,78,139"/>
+<area shape="rect" id="Node000002" href="$structstd_1_1is__error__code__enum_3_01llvm_1_1errc_01_4.html" title=" " alt="" coords="180,71,318,111"/>
+<area shape="poly" id="edge2757_Node000000_Node000002" title=" " alt="" coords="101,141,154,121,184,109,186,114,156,125,103,146"/>
+<area shape="rect" id="Node000003" href="$structstd_1_1is__error__code__enum_3_01llvm_1_1instrprof__error_01_4.html" title=" " alt="" coords="173,135,324,191"/>
+<area shape="poly" id="edge2758_Node000000_Node000003" title=" " alt="" coords="122,160,173,160,173,166,122,166"/>
+<area shape="rect" id="Node000004" href="$structstd_1_1is__error__code__enum_3_01llvm_1_1object_1_1object__error_01_4.html" title=" " alt="" coords="179,215,318,271"/>
+<area shape="poly" id="edge2759_Node000000_Node000004" title=" " alt="" coords="104,180,181,212,179,217,102,185"/>
+<area shape="rect" id="Node000005" href="$structstd_1_1is__error__code__enum_3_01llvm_1_1sampleprof__error_01_4.html" title=" " alt="" coords="165,295,333,351"/>
+<area shape="poly" id="edge2760_Node000000_Node000005" title=" " alt="" coords="75,188,109,235,132,259,156,281,174,292,171,297,153,285,128,263,105,238,71,191"/>
+</map>

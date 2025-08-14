@@ -1,0 +1,24 @@
+<map id="ScalarEvolutionNormalization.h" name="ScalarEvolutionNormalization.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="404,5,607,31"/>
+<area shape="rect" id="Node000002" href="$SmallPtrSet_8h.html" title=" " alt="" coords="425,79,586,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="508,31,508,63,503,63,503,31"/>
+<area shape="rect" id="Node000003" href="$Compiler_8h.html" title=" " alt="" coords="8,160,168,186"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="441,108,187,155,166,159,165,154,186,150,440,103"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="216,241,389,267"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="425,102,367,110,310,120,262,135,244,144,233,154,227,164,226,172,233,192,248,214,268,231,265,235,244,217,228,195,221,172,222,162,229,151,241,140,260,130,309,115,367,104,424,97"/>
+<area shape="rect" id="Node000006" href="$PointerLikeTypeTraits_8h.html" title=" " alt="" coords="242,153,406,193"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="478,108,384,148,382,144,476,103"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="429,160,494,186"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="501,106,478,148,473,145,496,104"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="517,160,582,186"/>
+<area shape="poly" id="edge8_Node000002_Node000008" title=" " alt="" coords="514,104,538,145,533,148,510,106"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="606,160,666,186"/>
+<area shape="poly" id="edge9_Node000002_Node000009" title=" " alt="" coords="527,103,604,150,602,154,524,107"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="691,160,752,186"/>
+<area shape="poly" id="edge10_Node000002_Node000010" title=" " alt="" coords="545,103,680,150,682,151,680,156,678,155,543,108"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="776,160,829,186"/>
+<area shape="poly" id="edge11_Node000002_Node000011" title=" " alt="" coords="579,103,668,122,765,150,767,151,766,156,763,155,667,127,577,108"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,241,171,267"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="91,186,91,225,85,225,85,186"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="321,194,312,227,307,225,316,193"/>
+</map>

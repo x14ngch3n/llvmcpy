@@ -1,0 +1,17 @@
+<map id="llvm::AArch64ExternalSymbolizer" name="llvm::AArch64ExternalSymbolizer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="213,289,430,314"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1MCExternalSymbolizer.html" title="Symbolize using user&#45;provided, C API, callbacks." alt="" coords="228,214,415,239"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="324,255,324,288,319,288,319,255"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1MCSymbolizer.html" title="Symbolize and annotate disassembled instructions." alt="" coords="89,117,228,143"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="194,148,302,211,299,215,191,153"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1MCContext.html" title=" " alt="" coords="5,13,126,38"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="89,48,150,115,146,118,85,52"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="149,5,358,46"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="227,59,172,118,168,115,223,56"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="253,117,291,143"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="271,158,271,174,276,188,286,201,299,211,295,215,282,205,271,191,266,175,265,158"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="348,117,394,143"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="361,158,344,191,331,215,326,212,339,188,356,155"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="472,117,526,143"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="488,158,474,176,456,192,430,206,402,216,400,211,428,201,453,187,470,172,483,155"/>
+</map>

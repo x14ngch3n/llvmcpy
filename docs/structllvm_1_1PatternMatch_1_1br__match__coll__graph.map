@@ -1,0 +1,19 @@
+<map id="llvm::PatternMatch::br_match" name="llvm::PatternMatch::br_match">
+<area shape="rect" id="Node000001" title=" " alt="" coords="64,441,195,482"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1BasicBlock.html" title="LLVM Basic Block Representation." alt="" coords="70,344,189,370"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,385,132,441,127,441,127,385"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1Value.html" title="LLVM Value Representation." alt="" coords="5,269,91,295"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="74,303,118,342,114,346,71,307"/>
+<area shape="rect" id="Node000004" href="$classunsigned.html" title=" " alt="" coords="11,124,85,150"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="51,166,51,269,45,269,45,166"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1ilist__node.html" title=" " alt="" coords="114,269,312,295"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="190,307,145,346,141,342,186,303"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1ilist__half__node.html" title=" " alt="" coords="124,117,260,158"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="200,172,214,269,209,269,194,173"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1ilist__half__node.html" title=" " alt="" coords="124,5,260,46"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="195,61,195,117,189,117,189,61"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1ilist__node.html" title=" " alt="" coords="285,124,462,150"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="350,163,229,271,225,267,347,159"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1ilist__half__node.html" title=" " alt="" coords="305,5,442,46"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="376,62,376,124,371,124,371,62"/>
+</map>

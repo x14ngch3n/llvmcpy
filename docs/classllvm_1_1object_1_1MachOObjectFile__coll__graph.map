@@ -1,0 +1,11 @@
+<map id="llvm::object::MachOObjectFile" name="llvm::object::MachOObjectFile">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,327,203,353"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1object_1_1ObjectFile.html" title=" " alt="" coords="26,252,182,278"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,293,107,327,101,327,101,293"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1object_1_1SymbolicFile.html" title=" " alt="" coords="18,177,190,203"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="107,218,107,252,101,252,101,218"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1object_1_1Binary.html" title=" " alt="" coords="37,102,171,128"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="107,143,107,177,101,177,101,143"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1MemoryBufferRef.html" title=" " alt="" coords="26,5,182,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="107,46,107,101,101,101,101,46"/>
+</map>

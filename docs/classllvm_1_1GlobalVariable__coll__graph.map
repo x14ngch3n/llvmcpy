@@ -1,0 +1,37 @@
+<map id="llvm::GlobalVariable" name="llvm::GlobalVariable">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1723,353,1860,379"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1GlobalObject.html" title=" " alt="" coords="1531,297,1660,323"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1658,325,1744,350,1743,355,1657,330"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1GlobalValue.html" title=" " alt="" coords="1204,249,1326,275"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1342,263,1415,270,1493,281,1550,294,1549,299,1492,286,1415,275,1342,269"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1Constant.html" title="LLVM Constant Representation." alt="" coords="892,249,998,275"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1014,259,1204,259,1204,265,1014,265"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1User.html" title=" " alt="" coords="516,270,598,296"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="613,278,891,262,892,268,613,283"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1Value.html" title="LLVM Value Representation." alt="" coords="265,270,350,296"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="365,281,516,281,516,286,365,286"/>
+<area shape="rect" id="Node000007" href="$classunsigned.html" title=" " alt="" coords="5,198,79,224"/>
+<area shape="poly" id="edge13_Node000002_Node000007" title=" " alt="" coords="63,185,103,144,160,98,194,78,229,61,267,50,306,46,1266,46,1296,48,1326,55,1381,78,1431,111,1477,151,1516,193,1548,234,1589,295,1584,298,1543,237,1511,197,1473,155,1428,115,1378,82,1324,60,1296,54,1266,51,306,51,268,55,231,66,196,83,164,103,107,148,66,188"/>
+<area shape="poly" id="edge9_Node000003_Node000007" title=" " alt="" coords="94,209,306,209,947,209,1019,212,1092,222,1212,246,1211,251,1091,227,1019,218,946,214,306,214,94,214"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="57,236,76,267,89,281,104,291,144,304,187,307,229,302,265,294,266,299,229,308,187,312,143,310,101,296,85,285,71,270,52,239"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1Use.html" title="A Use represents the edge between a Value definition and its users." alt="" coords="269,320,346,346"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="361,324,451,309,515,293,517,298,453,314,362,329"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="894,298,996,324"/>
+<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="1011,305,1079,298,1152,288,1217,273,1218,278,1153,293,1080,303,1011,310"/>
+<area shape="rect" id="Node000010" href="$classllvm_1_1Module.html" title="The main container class for the LLVM Intermediate Representation." alt="" coords="898,349,993,375"/>
+<area shape="poly" id="edge10_Node000003_Node000010" title=" " alt="" coords="1008,365,1043,364,1081,359,1118,349,1151,331,1159,321,1162,309,1165,297,1175,284,1202,269,1205,274,1178,288,1170,299,1167,311,1164,323,1154,335,1120,353,1082,364,1044,369,1008,370"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="1238,298,1292,324"/>
+<area shape="poly" id="edge11_Node000002_Node000011" title=" " alt="" coords="1307,309,1531,308,1531,313,1307,314"/>
+<area shape="rect" id="Node000012" href="$classllvm_1_1Comdat.html" title=" " alt="" coords="1215,350,1315,376"/>
+<area shape="poly" id="edge12_Node000002_Node000012" title=" " alt="" coords="1330,357,1408,350,1492,337,1554,321,1555,326,1493,342,1408,355,1330,362"/>
+<area shape="rect" id="Node000013" href="$classllvm_1_1ilist__node.html" title=" " alt="" coords="1517,400,1674,441"/>
+<area shape="poly" id="edge14_Node000001_Node000013" title=" " alt="" coords="1684,393,1742,377,1743,382,1686,398"/>
+<area shape="rect" id="Node000014" href="$classllvm_1_1ilist__half__node.html" title=" " alt="" coords="1197,400,1333,441"/>
+<area shape="poly" id="edge15_Node000013_Node000014" title=" " alt="" coords="1349,418,1516,418,1516,423,1349,423"/>
+<area shape="rect" id="Node000015" href="$classllvm_1_1ilist__half__node.html" title=" " alt="" coords="877,400,1013,441"/>
+<area shape="poly" id="edge16_Node000014_Node000015" title=" " alt="" coords="1029,418,1197,418,1197,423,1029,423"/>
+<area shape="rect" id="Node000016" href="$classllvm_1_1ilist__node.html" title=" " alt="" coords="1176,469,1354,495"/>
+<area shape="poly" id="edge17_Node000013_Node000016" title=" " alt="" coords="1369,467,1492,446,1523,439,1524,444,1493,452,1369,472"/>
+<area shape="rect" id="Node000017" href="$classllvm_1_1ilist__half__node.html" title=" " alt="" coords="877,466,1013,506"/>
+<area shape="poly" id="edge18_Node000016_Node000017" title=" " alt="" coords="1029,482,1176,480,1176,486,1029,488"/>
+</map>

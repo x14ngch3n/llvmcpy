@@ -1,0 +1,9 @@
+<map id="llvm::detail::AnalysisPassModel&lt; IRUnitT, PassT, false &gt;" name="llvm::detail::AnalysisPassModel&lt; IRUnitT, PassT, false &gt;">
+<area shape="rect" id="Node000001" title="Specialization of AnalysisPassModel which does not pass an AnalysisManager to PassT&#39;s run method." alt="" coords="394,55,566,111"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1detail_1_1AnalysisPassConcept.html" title="Abstract concept of an analysis pass." alt="" coords="11,5,184,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="199,30,283,39,370,52,394,57,393,62,369,58,282,45,199,36"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="68,70,127,96"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="142,80,393,80,393,86,142,86"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1detail_1_1AnalysisPassModel.html" title="Wrapper to model the analysis pass concept." alt="" coords="5,120,190,176"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="205,134,369,109,393,104,394,109,370,114,206,139"/>
+</map>

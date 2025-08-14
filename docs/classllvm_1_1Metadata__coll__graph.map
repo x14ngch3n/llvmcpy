@@ -1,0 +1,7 @@
+<map id="llvm::Metadata" name="llvm::Metadata">
+<area shape="rect" id="Node000001" title="Root of the metadata hierarchy." alt="" coords="50,122,158,148"/>
+<area shape="rect" id="Node000002" href="$classbool.html" title=" " alt="" coords="5,5,51,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="25,46,24,72,32,97,44,110,60,119,57,124,41,114,27,100,19,73,19,46"/>
+<area shape="rect" id="Node000003" href="$classunsigned.html" title=" " alt="" coords="143,5,217,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="177,46,168,73,153,100,127,124,123,120,149,97,163,71,172,45"/>
+</map>

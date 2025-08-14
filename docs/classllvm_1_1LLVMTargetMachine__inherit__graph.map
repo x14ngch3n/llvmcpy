@@ -1,0 +1,63 @@
+<map id="llvm::LLVMTargetMachine" name="llvm::LLVMTargetMachine">
+<area shape="rect" id="Node000001" title=" " alt="" coords="192,363,363,388"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1AArch64TargetMachine.html" title=" " alt="" coords="416,55,604,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="282,347,297,295,322,229,359,161,382,130,409,101,428,88,449,79,451,83,431,93,413,106,386,133,364,164,327,232,302,297,287,348"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1AMDGPUTargetMachine.html" title=" " alt="" coords="412,116,609,142"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="288,347,335,265,369,217,409,175,439,155,469,140,471,145,441,159,413,179,373,221,339,267,293,350"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1ARMBaseTargetMachine.html" title=" " alt="" coords="411,189,609,215"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="292,348,339,285,372,252,410,224,433,213,435,218,412,228,376,256,343,289,297,351"/>
+<area shape="rect" id="Node000015" href="$classllvm_1_1HexagonTargetMachine.html" title=" " alt="" coords="415,239,605,264"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="301,350,349,311,410,273,438,262,440,267,412,278,352,315,305,354"/>
+<area shape="rect" id="Node000016" href="$classllvm_1_1MSP430TargetMachine.html" title=" " alt="" coords="416,288,604,314"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="323,354,410,322,448,312,450,317,412,327,325,359"/>
+<area shape="rect" id="Node000017" href="$classllvm_1_1MipsTargetMachine.html" title=" " alt="" coords="427,337,593,363"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="378,362,426,357,427,362,379,367"/>
+<area shape="rect" id="Node000020" href="$classllvm_1_1NVPTXTargetMachine.html" title=" " alt="" coords="418,387,602,412"/>
+<area shape="poly" id="edge19_Node000001_Node000020" title=" " alt="" coords="379,383,418,387,418,393,378,389"/>
+<area shape="rect" id="Node000023" href="$classllvm_1_1PPCTargetMachine.html" title=" " alt="" coords="427,436,593,462"/>
+<area shape="poly" id="edge22_Node000001_Node000023" title=" " alt="" coords="326,392,412,422,450,433,448,438,410,427,325,397"/>
+<area shape="rect" id="Node000026" href="$classllvm_1_1SparcTargetMachine.html" title=" " alt="" coords="424,485,596,511"/>
+<area shape="poly" id="edge25_Node000001_Node000026" title=" " alt="" coords="305,397,353,436,412,472,440,482,438,487,410,477,350,440,302,401"/>
+<area shape="rect" id="Node000029" href="$classllvm_1_1SystemZTargetMachine.html" title=" " alt="" coords="414,535,606,560"/>
+<area shape="poly" id="edge28_Node000001_Node000029" title=" " alt="" coords="297,400,344,462,376,494,412,521,435,532,433,537,410,526,372,498,340,465,293,403"/>
+<area shape="rect" id="Node000030" href="$classllvm_1_1X86TargetMachine.html" title=" " alt="" coords="430,584,591,610"/>
+<area shape="poly" id="edge29_Node000001_Node000030" title=" " alt="" coords="291,401,309,440,336,486,370,532,413,571,432,581,429,586,409,575,366,536,331,489,305,442,287,403"/>
+<area shape="rect" id="Node000031" href="$classllvm_1_1XCoreTargetMachine.html" title=" " alt="" coords="422,633,598,659"/>
+<area shape="poly" id="edge30_Node000001_Node000031" title=" " alt="" coords="288,403,303,450,328,510,364,570,387,597,413,620,430,630,427,635,409,624,383,600,360,573,324,512,298,452,283,404"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1TargetMachine.html" title=" " alt="" coords="5,363,144,388"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="159,373,191,373,191,378,159,378"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1AArch64beTargetMachine.html" title=" " alt="" coords="657,5,860,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="593,48,690,29,691,34,594,54"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1AArch64leTargetMachine.html" title=" " alt="" coords="659,55,858,80"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="620,65,659,65,659,70,620,70"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1GCNTargetMachine.html" title=" " alt="" coords="674,104,843,130"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="624,121,674,118,674,124,625,126"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1ARMTargetMachine.html" title=" " alt="" coords="674,153,843,179"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="618,184,674,176,674,181,619,189"/>
+<area shape="rect" id="Node000012" href="$classllvm_1_1ThumbTargetMachine.html" title=" " alt="" coords="669,203,848,228"/>
+<area shape="poly" id="edge11_Node000008_Node000012" title=" " alt="" coords="625,206,669,208,669,213,625,211"/>
+<area shape="rect" id="Node000010" href="$classllvm_1_1ARMBETargetMachine.html" title=" " alt="" coords="913,104,1099,130"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="841,147,937,128,938,133,842,152"/>
+<area shape="rect" id="Node000011" href="$classllvm_1_1ARMLETargetMachine.html" title=" " alt="" coords="914,153,1098,179"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="858,164,913,164,913,169,858,169"/>
+<area shape="rect" id="Node000013" href="$classllvm_1_1ThumbBETargetMachine.html" title=" " alt="" coords="908,203,1104,228"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="863,213,907,213,907,218,863,218"/>
+<area shape="rect" id="Node000014" href="$classllvm_1_1ThumbLETargetMachine.html" title=" " alt="" coords="909,252,1103,278"/>
+<area shape="poly" id="edge13_Node000012_Node000014" title=" " alt="" coords="842,229,938,249,937,254,841,235"/>
+<area shape="rect" id="Node000018" href="$classllvm_1_1MipsebTargetMachine.html" title=" " alt="" coords="668,252,849,278"/>
+<area shape="poly" id="edge17_Node000017_Node000018" title=" " alt="" coords="595,329,608,324,622,315,631,306,641,296,656,286,684,276,686,281,659,291,645,300,635,309,625,319,611,329,597,334"/>
+<area shape="rect" id="Node000019" href="$classllvm_1_1MipselTargetMachine.html" title=" " alt="" coords="670,301,847,327"/>
+<area shape="poly" id="edge18_Node000017_Node000019" title=" " alt="" coords="609,333,669,324,670,330,609,339"/>
+<area shape="rect" id="Node000021" href="$classllvm_1_1NVPTXTargetMachine32.html" title=" " alt="" coords="660,351,857,376"/>
+<area shape="poly" id="edge20_Node000020_Node000021" title=" " alt="" coords="617,381,665,374,666,380,618,387"/>
+<area shape="rect" id="Node000022" href="$classllvm_1_1NVPTXTargetMachine64.html" title=" " alt="" coords="660,400,857,426"/>
+<area shape="poly" id="edge21_Node000020_Node000022" title=" " alt="" coords="617,403,659,405,659,410,617,408"/>
+<area shape="rect" id="Node000024" href="$classllvm_1_1PPC32TargetMachine.html" title=" " alt="" coords="668,449,849,475"/>
+<area shape="poly" id="edge23_Node000023_Node000024" title=" " alt="" coords="609,451,668,455,668,460,609,457"/>
+<area shape="rect" id="Node000025" href="$classllvm_1_1PPC64TargetMachine.html" title=" " alt="" coords="668,499,849,524"/>
+<area shape="poly" id="edge24_Node000023_Node000025" title=" " alt="" coords="584,463,610,470,658,485,699,495,698,501,657,490,609,475,583,469"/>
+<area shape="rect" id="Node000027" href="$classllvm_1_1SparcV8TargetMachine.html" title=" " alt="" coords="664,548,853,574"/>
+<area shape="poly" id="edge26_Node000026_Node000027" title=" " alt="" coords="584,513,610,520,658,534,699,545,698,550,657,539,609,525,583,518"/>
+<area shape="rect" id="Node000028" href="$classllvm_1_1SparcV9TargetMachine.html" title=" " alt="" coords="664,597,853,623"/>
+<area shape="poly" id="edge27_Node000026_Node000028" title=" " alt="" coords="603,515,611,520,627,536,636,553,644,569,659,584,679,594,677,599,656,588,639,572,631,555,623,539,608,524,600,520"/>
+</map>

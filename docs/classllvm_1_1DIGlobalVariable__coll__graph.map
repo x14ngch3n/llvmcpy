@@ -1,0 +1,14 @@
+<map id="llvm::DIGlobalVariable" name="llvm::DIGlobalVariable">
+<area shape="rect" id="Node000001" title="This is a wrapper for a global variable." alt="" coords="166,369,316,395"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1DIDescriptor.html" title="A thin wraper around MDNode to access encoded debug info." alt="" coords="178,294,305,320"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="244,335,244,369,239,369,239,335"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1MDNode.html" title="Tuple of metadata." alt="" coords="189,197,294,223"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="244,238,244,293,239,293,239,238"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1Metadata.html" title="Root of the metadata hierarchy." alt="" coords="126,122,234,148"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="202,158,233,195,229,199,198,162"/>
+<area shape="rect" id="Node000005" href="$classbool.html" title=" " alt="" coords="5,5,51,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="30,46,35,73,49,97,66,110,85,119,127,129,126,135,83,124,63,114,45,100,30,75,25,47"/>
+<area shape="rect" id="Node000006" href="$classunsigned.html" title=" " alt="" coords="205,5,278,31"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="277,39,288,54,294,74,295,95,286,135,270,172,253,198,248,195,265,169,281,134,290,94,289,75,283,56,273,43"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="197,42,184,56,178,73,176,90,180,122,174,123,170,90,172,71,179,54,193,38"/>
+</map>

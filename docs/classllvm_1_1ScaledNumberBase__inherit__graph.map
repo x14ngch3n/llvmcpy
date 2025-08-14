@@ -1,0 +1,8 @@
+<map id="llvm::ScaledNumberBase" name="llvm::ScaledNumberBase">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,175,31"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1ScaledNumber.html" title=" " alt="" coords="7,192,146,233"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="88,47,83,81,79,192,74,191,78,80,83,46"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1ScaledNumber.html" title="Simple representation of a scaled number." alt="" coords="92,80,232,121"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="113,41,147,78,143,82,109,45"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="140,135,94,193,90,190,136,131"/>
+</map>

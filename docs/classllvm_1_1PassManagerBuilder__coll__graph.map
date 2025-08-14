@@ -1,0 +1,18 @@
+<map id="llvm::PassManagerBuilder" name="llvm::PassManagerBuilder">
+<area shape="rect" id="Node000001" title=" " alt="" coords="83,552,257,578"/>
+<area shape="rect" id="Node000002" href="$classunsigned.html" title=" " alt="" coords="5,252,79,278"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="35,293,23,342,15,403,15,436,20,468,30,499,46,526,63,542,84,552,82,557,60,546,42,530,25,501,15,469,10,436,10,403,18,340,30,292"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1TargetLibraryInfo.html" title=" " alt="" coords="171,252,321,278"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="242,294,176,552,170,551,237,292"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1ImmutablePass.html" title=" " alt="" coords="194,155,338,181"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="263,197,251,252,246,251,258,196"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1ModulePass.html" title=" " alt="" coords="183,80,309,106"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="256,120,265,154,260,156,251,122"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1Pass.html" title=" " alt="" coords="102,5,185,31"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="137,47,130,92,130,266,135,352,146,436,170,551,164,552,141,436,130,353,125,266,125,92,132,46"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="174,38,231,78,227,82,171,42"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="363,155,409,181"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="357,192,266,254,263,249,354,188"/>
+<area shape="rect" id="Node000008" href="$classbool.html" title=" " alt="" coords="345,252,390,278"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="373,293,374,343,368,407,361,440,350,472,334,503,313,530,288,549,258,560,256,555,285,544,309,526,330,500,345,470,356,438,363,406,369,343,367,293"/>
+</map>

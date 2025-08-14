@@ -1,0 +1,19 @@
+<map id="llvm::SplitAnalysis::BlockInfo" name="llvm::SplitAnalysis::BlockInfo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="280,456,409,497"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1MachineBasicBlock.html" title=" " alt="" coords="97,319,266,344"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="208,353,324,454,320,458,205,357"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1ilist__node.html" title=" " alt="" coords="97,229,266,269"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="184,285,184,318,179,318,179,285"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1ilist__half__node.html" title=" " alt="" coords="5,117,166,158"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="114,167,166,227,162,230,110,171"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1ilist__half__node.html" title=" " alt="" coords="17,5,154,46"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="88,61,88,117,83,117,83,61"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1ilist__node.html" title=" " alt="" coords="190,124,368,150"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="260,164,201,230,197,226,256,160"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1ilist__half__node.html" title=" " alt="" coords="211,5,347,46"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="282,62,282,124,276,124,276,62"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1SlotIndex.html" title="SlotIndex &#45; An opaque wrapper around machine indexes." alt="" coords="290,319,398,344"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="347,360,347,456,342,456,342,360"/>
+<area shape="rect" id="Node000009" href="$classbool.html" title=" " alt="" coords="423,319,468,344"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="443,360,432,397,412,434,385,457,381,453,407,430,427,395,438,359"/>
+</map>

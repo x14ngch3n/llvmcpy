@@ -1,0 +1,7 @@
+<map id="false::SingleLoopExtractor" name="false::SingleLoopExtractor">
+<area shape="rect" id="Node000001" title="SingleLoopExtractor &#45; For bugpoint." alt="" coords="11,102,185,128"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,98,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="66,43,95,100,90,103,62,46"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="122,5,168,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="135,46,107,103,102,100,130,43"/>
+</map>

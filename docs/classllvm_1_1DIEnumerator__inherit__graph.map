@@ -1,0 +1,5 @@
+<map id="llvm::DIEnumerator" name="llvm::DIEnumerator">
+<area shape="rect" id="Node000001" title="A wrapper for an enumerator (e.g. X and Y in &#39;enum {X,Y}&#39;)." alt="" coords="5,79,140,105"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1DIDescriptor.html" title="A thin wraper around MDNode to access encoded debug info." alt="" coords="9,5,136,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="75,46,75,79,70,79,70,46"/>
+</map>

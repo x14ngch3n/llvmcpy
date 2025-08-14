@@ -1,0 +1,19 @@
+<map id="llvm::MipsTargetObjectFile" name="llvm::MipsTargetObjectFile">
+<area shape="rect" id="Node000001" title=" " alt="" coords="180,642,356,668"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1TargetLoweringObjectFileELF.html" title=" " alt="" coords="178,552,358,593"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="271,608,271,642,265,642,265,608"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1TargetLoweringObjectFile.html" title=" " alt="" coords="168,477,368,503"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="271,518,271,552,265,552,265,518"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1MCObjectFileInfo.html" title=" " alt="" coords="190,402,346,428"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="271,443,271,477,265,477,265,443"/>
+<area shape="rect" id="Node000005" href="$classbool.html" title=" " alt="" coords="5,102,51,128"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="24,143,16,193,13,256,16,288,24,320,37,350,55,376,76,388,109,397,190,408,189,413,108,403,74,393,52,380,32,353,19,322,11,289,8,256,10,192,19,142"/>
+<area shape="rect" id="Node000006" href="$classunsigned.html" title=" " alt="" coords="231,102,305,128"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="271,143,271,402,265,402,265,143"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1MCSection.html" title=" " alt="" coords="436,102,554,128"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="504,143,511,193,513,256,509,289,501,322,487,353,467,380,448,392,418,401,347,411,346,406,417,396,446,387,464,376,482,350,495,320,503,289,507,256,506,193,498,143"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="373,5,478,31"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="445,42,488,100,484,103,441,45"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1SectionKind.html" title=" " alt="" coords="502,5,626,31"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="549,45,523,80,506,103,501,100,519,76,544,42"/>
+</map>

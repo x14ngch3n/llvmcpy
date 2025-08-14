@@ -1,0 +1,25 @@
+<map id="PassManagerInternal.h" name="PassManagerInternal.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="448,5,603,31"/>
+<area shape="rect" id="Node000002" href="$IR_2PassManager_8h.html" title=" " alt="" coords="470,79,581,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="528,46,528,79,522,79,522,46"/>
+<area shape="rect" id="Node000003" href="$BitcodeWriterPass_8cpp.html" title=" " alt="" coords="5,153,160,178"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="455,107,158,155,158,149,454,102"/>
+<area shape="rect" id="Node000004" href="$CGSCCPassManager_8h.html" title=" " alt="" coords="284,226,444,252"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="454,100,389,106,320,117,260,133,239,143,225,154,218,166,219,176,225,186,236,195,269,211,307,223,306,228,267,216,233,200,221,190,214,178,213,165,220,151,236,138,259,128,319,111,388,101,454,94"/>
+<area shape="rect" id="Node000006" href="$Dominators_8cpp.html" title=" " alt="" coords="235,153,348,178"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="472,112,332,155,331,150,470,107"/>
+<area shape="rect" id="Node000007" href="$IRPrintingPasses_8cpp.html" title=" " alt="" coords="372,153,521,178"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="503,117,461,154,458,150,499,113"/>
+<area shape="rect" id="Node000008" href="$LazyCallGraph_8cpp.html" title=" " alt="" coords="586,226,718,252"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="597,101,641,119,661,133,677,151,683,171,680,192,663,227,658,225,675,190,678,171,672,154,657,137,638,124,595,106"/>
+<area shape="rect" id="Node000009" href="$LazyCallGraph_8h.html" title=" " alt="" coords="545,153,663,178"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="551,113,592,150,589,154,548,117"/>
+<area shape="rect" id="Node000010" href="$PassManager_8cpp.html" title=" " alt="" coords="737,153,862,178"/>
+<area shape="poly" id="edge11_Node000002_Node000010" title=" " alt="" coords="587,106,754,149,752,155,585,111"/>
+<area shape="rect" id="Node000011" href="$Verifier_8cpp.html" title=" " alt="" coords="886,153,972,178"/>
+<area shape="poly" id="edge12_Node000002_Node000011" title=" " alt="" coords="596,102,875,150,886,152,885,157,874,155,595,107"/>
+<area shape="rect" id="Node000005" href="$CGSCCPassManager_8cpp.html" title=" " alt="" coords="277,300,451,326"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="366,267,366,300,361,300,361,267"/>
+<area shape="poly" id="edge9_Node000009_Node000004" title=" " alt="" coords="550,186,406,228,404,223,548,181"/>
+<area shape="poly" id="edge10_Node000009_Node000008" title=" " alt="" coords="622,190,646,224,642,227,618,193"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="llvm::MCFixupKindInfo" name="llvm::MCFixupKindInfo">
+<area shape="rect" id="Node000001" title="MCFixupKindInfo &#45; Target independent information on a fixup kind." alt="" coords="5,143,160,168"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="18,5,64,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="43,46,46,81,55,118,72,141,67,144,50,120,40,82,38,46"/>
+<area shape="rect" id="Node000003" href="$classunsigned.html" title=" " alt="" coords="88,5,162,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="120,47,98,120,90,143,85,141,93,118,115,45"/>
+</map>

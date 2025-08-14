@@ -1,0 +1,15 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,187,152,213"/>
+<area shape="rect" id="Node000001" href="$structllvm_1_1hashing_1_1detail_1_1is__hashable__data_3_01std_1_1pair_3_01T_00_01U_01_4_01_4.html" title=" " alt="" coords="222,5,382,61"/>
+<area shape="poly" id="edge2648_Node000000_Node000001" title=" " alt="" coords="96,173,139,122,167,95,198,71,220,58,223,63,201,75,171,99,143,126,100,176"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1hashing_1_1detail_1_1is__hashable__data.html" title="Trait to indicate whether a type&#39;s bits can be hashed directly." alt="" coords="221,85,383,126"/>
+<area shape="poly" id="edge2649_Node000000_Node000002" title=" " alt="" coords="115,177,199,136,232,123,234,128,201,141,118,182"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1yaml_1_1has__SequenceTraits.html" title=" " alt="" coords="214,150,390,191"/>
+<area shape="poly" id="edge2650_Node000000_Node000003" title=" " alt="" coords="167,186,214,179,214,185,168,191"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1yaml_1_1missingTraits.html" title=" " alt="" coords="202,215,402,241"/>
+<area shape="poly" id="edge2651_Node000000_Node000004" title=" " alt="" coords="168,208,202,213,201,218,167,214"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1yaml_1_1unvalidatedMappingTraits.html" title=" " alt="" coords="200,265,404,306"/>
+<area shape="poly" id="edge2652_Node000000_Node000005" title=" " alt="" coords="122,217,201,251,232,262,230,267,199,256,120,222"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1yaml_1_1validatedMappingTraits.html" title=" " alt="" coords="207,330,397,371"/>
+<area shape="poly" id="edge2653_Node000000_Node000006" title=" " alt="" coords="101,223,144,270,171,294,201,315,226,327,223,332,198,319,168,298,140,273,97,227"/>
+</map>

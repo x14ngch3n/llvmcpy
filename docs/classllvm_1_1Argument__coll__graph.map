@@ -1,0 +1,17 @@
+<map id="llvm::Argument" name="llvm::Argument">
+<area shape="rect" id="Node000001" title="LLVM Argument representation." alt="" coords="72,344,181,370"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1Value.html" title="LLVM Value Representation." alt="" coords="5,269,91,295"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="74,304,116,342,112,346,70,308"/>
+<area shape="rect" id="Node000003" href="$classunsigned.html" title=" " alt="" coords="11,124,85,150"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="51,166,51,269,45,269,45,166"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1ilist__node.html" title=" " alt="" coords="114,269,302,295"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="185,307,142,346,138,342,182,303"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1ilist__half__node.html" title=" " alt="" coords="124,117,260,158"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="198,172,209,269,204,269,193,173"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1ilist__half__node.html" title=" " alt="" coords="124,5,260,46"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="195,61,195,117,189,117,189,61"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1ilist__node.html" title=" " alt="" coords="285,124,462,150"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="350,162,224,271,220,267,346,158"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1ilist__half__node.html" title=" " alt="" coords="305,5,442,46"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="376,62,376,124,371,124,371,62"/>
+</map>

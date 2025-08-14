@@ -1,0 +1,17 @@
+<map id="llvm::DominatorTreeBase&lt; NodeT &gt;" name="llvm::DominatorTreeBase&lt; NodeT &gt;">
+<area shape="rect" id="Node000001" title="Core dominator tree base class." alt="" coords="198,136,367,177"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1DominatorTreeBase.html" title=" " alt="" coords="606,5,775,46"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="314,123,349,95,390,71,444,52,500,39,605,26,606,31,501,44,446,57,392,76,352,100,317,127"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1DominatorTreeBase.html" title=" " alt="" coords="606,71,775,111"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="373,129,391,126,502,108,605,96,606,101,503,113,392,131,374,135"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1DominatorTreeBase.html" title=" " alt="" coords="606,136,775,177"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="383,154,605,154,605,159,383,159"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1DominatorTreeBase.html" title=" " alt="" coords="594,201,787,242"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="373,178,392,182,496,199,594,210,593,216,495,204,391,187,372,183"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1DominatorTreeBase.html" title=" " alt="" coords="606,267,775,307"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="317,185,352,212,392,236,446,254,501,268,606,281,605,287,500,273,444,260,390,240,349,217,314,189"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1DominatorBase.html" title="Base class that other, more interesting dominator analyses inherit from." alt="" coords="5,136,149,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="165,154,197,154,197,159,165,159"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1DominatorTree.html" title="Concrete subclass of DominatorTreeBase that is used to compute a normal dominator tree." alt="" coords="836,78,975,104"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="791,88,836,88,836,94,791,94"/>
+</map>

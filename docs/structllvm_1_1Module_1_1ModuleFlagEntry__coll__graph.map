@@ -1,0 +1,14 @@
+<map id="llvm::Module::ModuleFlagEntry" name="llvm::Module::ModuleFlagEntry">
+<area shape="rect" id="Node000001" title=" " alt="" coords="91,294,261,335"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,197,128,223"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="79,236,100,268,132,291,129,296,96,272,74,239"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1MDString.html" title="A single uniqued string." alt="" coords="226,197,334,223"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="258,236,197,296,194,292,255,232"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1Metadata.html" title="Root of the metadata hierarchy." alt="" coords="138,122,246,148"/>
+<area shape="poly" id="edge6_Node000001_Node000004" title=" " alt="" coords="192,164,180,294,175,293,187,164"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="220,156,267,195,264,199,216,160"/>
+<area shape="rect" id="Node000005" href="$classbool.html" title=" " alt="" coords="93,5,138,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="112,46,112,72,120,97,132,110,148,119,145,124,129,114,115,100,106,73,107,46"/>
+<area shape="rect" id="Node000006" href="$classunsigned.html" title=" " alt="" coords="231,5,304,31"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="265,46,255,73,241,100,214,124,211,120,236,97,251,71,260,45"/>
+</map>

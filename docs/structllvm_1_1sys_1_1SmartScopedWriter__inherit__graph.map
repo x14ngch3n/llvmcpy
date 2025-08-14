@@ -1,0 +1,5 @@
+<map id="llvm::sys::SmartScopedWriter&lt; mt_only &gt;" name="llvm::sys::SmartScopedWriter&lt; mt_only &gt;">
+<area shape="rect" id="Node000001" title="ScopedWriter &#45; RAII acquisition of a writer lock." alt="" coords="5,5,201,46"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1sys_1_1SmartScopedWriter.html" title=" " alt="" coords="5,117,201,158"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,61,106,117,100,117,100,61"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="llvm::ErrorOr&lt; T &gt;" name="llvm::ErrorOr&lt; T &gt;">
+<area shape="rect" id="Node000001" title="Represents either an error or a value T." alt="" coords="997,176,1124,202"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1AlignedCharArrayUnion.html" title=" " alt="" coords="678,136,868,176"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="884,166,996,179,996,185,883,171"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="292,5,508,136"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="523,96,681,132,680,138,522,101"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1AlignedCharArrayUnion.html" title="This union template exposes a suitably aligned and sized character array member which can hold elemen..." alt="" coords="306,160,495,216"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="510,176,678,161,678,167,511,181"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1AlignedCharArrayUnion.html" title=" " alt="" coords="678,201,868,242"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="511,199,536,202,678,213,678,218,535,207,510,204"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="5,130,240,246"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="255,185,305,185,305,191,255,191"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="883,218,972,210,1015,200,1016,205,973,215,883,223"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="289,240,511,371"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="526,274,679,240,680,245,527,280"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="llvm::IRBuilderBase" name="llvm::IRBuilderBase">
+<area shape="rect" id="Node000001" title="Common base class shared among various IRBuilders." alt="" coords="5,73,143,98"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1IRBuilder.html" title=" " alt="" coords="625,5,770,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,66,191,51,288,31,385,20,467,18,549,20,625,21,624,27,549,26,467,23,386,26,288,37,193,56,135,71"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1IRBuilder.html" title=" " alt="" coords="573,123,822,163"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="134,101,193,115,288,133,385,142,467,144,549,142,573,142,573,147,549,147,467,149,385,147,288,138,191,120,133,106"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1IRBuilder.html" title="This provides a uniform API for creating instructions and inserting them into a basic block: either a..." alt="" coords="192,65,361,106"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="158,83,191,83,191,88,158,88"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="376,69,624,33,625,39,377,74"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="351,108,386,117,481,131,573,138,573,143,480,136,385,122,349,114"/>
+</map>

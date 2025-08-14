@@ -1,0 +1,7 @@
+<map id="llvm::PatternMatch::match_combine_or&lt; LTy, RTy &gt;" name="llvm::PatternMatch::match_combine_or&lt; LTy, RTy &gt;">
+<area shape="rect" id="Node000001" title="Matching combinators." alt="" coords="5,102,153,158"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="25,5,66,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="56,45,73,101,68,102,51,47"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="91,5,136,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="108,47,90,102,85,101,103,45"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="llvm::PatternMatch::match_combine_and&lt; LTy, RTy &gt;" name="llvm::PatternMatch::match_combine_and&lt; LTy, RTy &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,102,155,158"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="26,5,67,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="57,45,74,101,69,102,52,47"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="92,5,137,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="109,47,91,102,86,101,104,45"/>
+</map>

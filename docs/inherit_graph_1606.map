@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classllvm_1_1TypeBuilder.html" title=" " alt="" coords="5,71,135,111"/>
+<area shape="rect" id="Node000001" href="$classllvm_1_1TypeBuilder_3_01const_01T_00_01cross_01_4.html" title=" " alt="" coords="200,5,330,46"/>
+<area shape="poly" id="edge2594_Node000000_Node000001" title=" " alt="" coords="146,63,201,44,203,49,148,68"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1TypeBuilder_3_01const_01volatile_01T_00_01cross_01_4.html" title=" " alt="" coords="183,71,347,111"/>
+<area shape="poly" id="edge2595_Node000000_Node000002" title=" " alt="" coords="150,88,182,88,182,94,150,94"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1TypeBuilder_3_01volatile_01T_00_01cross_01_4.html" title=" " alt="" coords="200,136,330,177"/>
+<area shape="poly" id="edge2596_Node000000_Node000003" title=" " alt="" coords="148,114,203,133,201,138,146,119"/>
+</map>

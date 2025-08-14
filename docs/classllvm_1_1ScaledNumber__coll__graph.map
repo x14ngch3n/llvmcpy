@@ -1,0 +1,7 @@
+<map id="llvm::ScaledNumber&lt; DigitsT &gt;" name="llvm::ScaledNumber&lt; DigitsT &gt;">
+<area shape="rect" id="Node000001" title="Simple representation of a scaled number." alt="" coords="20,177,160,218"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1ScaledNumberBase.html" title=" " alt="" coords="5,102,175,128"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="93,143,93,177,87,177,87,143"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="71,5,109,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="93,46,93,101,87,101,87,46"/>
+</map>

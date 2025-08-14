@@ -1,0 +1,9 @@
+<map id="llvm::PointerUnionTypeSelectorReturn&lt; T &gt;" name="llvm::PointerUnionTypeSelectorReturn&lt; T &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,53,210,93"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1PointerUnionTypeSelectorReturn.html" title=" " alt="" coords="497,7,666,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="225,48,233,46,372,31,496,22,496,27,372,36,234,52,226,53"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1PointerUnionTypeSelectorReturn.html" title=" " alt="" coords="497,60,666,86"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="225,70,496,70,496,76,225,76"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1PointerUnionTypeSelectorReturn_3_01PointerUnionTypeSelector_3_01T1_00_01T2_00_01RET__EQ_00_01RET__NE_01_4_01_4.html" title=" " alt="" coords="470,120,693,176"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="168,97,234,119,294,130,355,138,469,145,469,150,355,143,293,136,233,124,166,102"/>
+</map>

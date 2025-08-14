@@ -1,0 +1,33 @@
+<map id="llvm::TargetFrameLowering" name="llvm::TargetFrameLowering">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,277,184,303"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1AArch64FrameLowering.html" title=" " alt="" coords="236,5,428,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,261,116,213,142,153,180,92,203,64,230,40,248,29,251,34,233,44,207,68,184,95,147,156,121,215,106,263"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1AMDGPUFrameLowering.html" title="Information about the stack frame layout on the AMDGPU targets." alt="" coords="232,55,433,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="104,262,123,223,150,176,186,129,230,89,250,79,253,83,233,94,190,133,154,179,127,225,109,264"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1ARMFrameLowering.html" title=" " alt="" coords="246,104,418,130"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="110,263,159,200,192,167,230,139,254,128,256,133,233,143,196,171,163,203,114,266"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1HexagonFrameLowering.html" title=" " alt="" coords="235,153,430,179"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="119,265,169,225,231,188,259,177,261,182,233,193,172,230,123,269"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1MSP430FrameLowering.html" title=" " alt="" coords="236,203,428,228"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="142,269,231,237,270,226,271,232,232,242,143,274"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1MipsFrameLowering.html" title=" " alt="" coords="247,252,418,278"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="199,276,246,271,247,277,199,282"/>
+<area shape="rect" id="Node000011" href="$classllvm_1_1NVPTXFrameLowering.html" title=" " alt="" coords="239,301,426,327"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="199,298,239,302,238,307,199,303"/>
+<area shape="rect" id="Node000012" href="$classllvm_1_1PPCFrameLowering.html" title=" " alt="" coords="247,351,418,376"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="144,306,232,337,272,348,270,353,231,342,143,311"/>
+<area shape="rect" id="Node000013" href="$classllvm_1_1SparcFrameLowering.html" title=" " alt="" coords="244,400,420,426"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="123,311,172,350,233,386,261,397,259,402,231,391,169,355,120,316"/>
+<area shape="rect" id="Node000014" href="$classllvm_1_1SystemZFrameLowering.html" title=" " alt="" coords="235,449,430,475"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="114,314,163,376,196,409,233,436,256,446,254,451,230,440,192,413,159,380,110,318"/>
+<area shape="rect" id="Node000015" href="$classllvm_1_1X86FrameLowering.html" title=" " alt="" coords="250,499,415,524"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="109,316,128,354,155,401,190,447,233,485,253,496,250,500,230,490,186,450,150,404,123,357,104,318"/>
+<area shape="rect" id="Node000016" href="$classllvm_1_1XCoreFrameLowering.html" title=" " alt="" coords="243,548,422,574"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="106,317,121,365,147,424,184,484,207,511,233,535,251,545,248,550,230,539,203,515,180,487,143,427,116,367,100,319"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1Thumb1FrameLowering.html" title=" " alt="" coords="481,104,670,130"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="434,114,481,114,481,120,434,120"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1Mips16FrameLowering.html" title=" " alt="" coords="484,227,668,252"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="433,252,483,246,484,252,433,257"/>
+<area shape="rect" id="Node000010" href="$classllvm_1_1MipsSEFrameLowering.html" title=" " alt="" coords="482,276,670,302"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="433,272,481,277,481,282,433,277"/>
+</map>

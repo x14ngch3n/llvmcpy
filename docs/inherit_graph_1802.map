@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classPredicate.html" title=" " alt="" coords="5,46,82,72"/>
+<area shape="rect" id="Node000001" href="$structllvm_1_1PatternMatch_1_1api__pred__ty.html" title="This helper class is used to match scalar and vector constants that satisfy a specified predicate,..." alt="" coords="130,5,306,46"/>
+<area shape="poly" id="edge2639_Node000000_Node000001" title=" " alt="" coords="97,46,129,40,130,45,98,51"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1PatternMatch_1_1cst__pred__ty.html" title="This helper class is used to match scalar and vector constants that satisfy a specified predicate." alt="" coords="130,71,306,111"/>
+<area shape="poly" id="edge2640_Node000000_Node000002" title=" " alt="" coords="97,66,130,72,129,77,96,71"/>
+</map>

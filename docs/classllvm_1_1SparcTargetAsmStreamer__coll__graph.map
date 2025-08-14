@@ -1,0 +1,9 @@
+<map id="llvm::SparcTargetAsmStreamer" name="llvm::SparcTargetAsmStreamer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,252,209,278"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1SparcTargetStreamer.html" title=" " alt="" coords="19,177,195,203"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,218,110,252,104,252,104,218"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1MCTargetStreamer.html" title=" " alt="" coords="25,102,189,128"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="110,143,110,177,104,177,104,143"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1MCStreamer.html" title=" " alt="" coords="43,5,171,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="110,46,110,101,104,101,104,46"/>
+</map>

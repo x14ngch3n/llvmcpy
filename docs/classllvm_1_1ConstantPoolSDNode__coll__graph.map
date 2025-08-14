@@ -1,0 +1,31 @@
+<map id="llvm::ConstantPoolSDNode" name="llvm::ConstantPoolSDNode">
+<area shape="rect" id="Node000001" title=" " alt="" coords="382,478,564,503"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1SDNode.html" title=" " alt="" coords="262,374,365,399"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="346,406,456,475,453,479,344,410"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1FoldingSetImpl_1_1Node.html" title=" " alt="" coords="5,269,120,295"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="107,299,284,371,282,375,105,304"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1ilist__node.html" title=" " alt="" coords="143,269,326,295"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="255,305,306,371,302,375,251,309"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1ilist__half__node.html" title=" " alt="" coords="36,158,172,198"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="143,206,221,267,218,271,139,210"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1ilist__half__node.html" title=" " alt="" coords="36,5,172,46"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="106,62,106,157,101,157,101,62"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1ilist__node.html" title=" " alt="" coords="196,165,374,191"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="275,206,243,270,238,268,270,204"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1ilist__half__node.html" title=" " alt="" coords="217,5,353,46"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="288,62,288,165,282,165,282,62"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="350,269,418,295"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="369,309,324,374,319,371,365,306"/>
+<area shape="rect" id="Node000010" href="$classllvm_1_1Constant.html" title="LLVM Constant Representation." alt="" coords="420,374,526,399"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="476,415,476,477,470,477,470,415"/>
+<area shape="rect" id="Node000011" href="$classllvm_1_1User.html" title=" " alt="" coords="448,269,530,295"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="488,311,478,373,472,373,482,310"/>
+<area shape="rect" id="Node000012" href="$classllvm_1_1Value.html" title="LLVM Value Representation." alt="" coords="430,165,516,191"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="480,206,490,268,485,269,475,207"/>
+<area shape="rect" id="Node000013" href="$classunsigned.html" title=" " alt="" coords="436,13,510,38"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="476,54,476,165,470,165,470,54"/>
+<area shape="rect" id="Node000014" href="$classllvm_1_1Use.html" title="A Use represents the edge between a Value definition and its users." alt="" coords="540,165,617,191"/>
+<area shape="poly" id="edge13_Node000011_Node000014" title=" " alt="" coords="560,204,502,271,498,267,556,201"/>
+<area shape="rect" id="Node000015" href="$classllvm_1_1MachineConstantPoolValue.html" title=" " alt="" coords="550,366,732,407"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="602,418,541,456,498,480,496,475,538,451,599,413"/>
+</map>

@@ -1,0 +1,37 @@
+<map id="StreamingMemoryObject.h" name="StreamingMemoryObject.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="541,5,718,31"/>
+<area shape="rect" id="Node000002" href="$Compiler_8h.html" title=" " alt="" coords="8,153,168,178"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="544,34,434,54,315,82,215,115,130,149,128,144,213,110,314,76,433,48,543,29"/>
+<area shape="rect" id="Node000004" href="$DataStream_8h.html" title=" " alt="" coords="192,153,371,178"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="541,26,495,32,446,42,396,58,351,81,320,109,297,140,293,137,316,105,348,77,394,54,444,37,494,27,541,20"/>
+<area shape="rect" id="Node000006" href="$ErrorHandling_8h.html" title=" " alt="" coords="362,79,550,105"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="601,34,501,75,499,70,599,29"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="668,226,732,252"/>
+<area shape="poly" id="edge17_Node000001_Node000009" title=" " alt="" coords="633,31,644,95,654,136,668,177,686,212,681,215,663,179,649,138,639,96,628,32"/>
+<area shape="rect" id="Node000013" href="$MemoryObject_8h.html" title=" " alt="" coords="667,79,861,105"/>
+<area shape="poly" id="edge15_Node000001_Node000013" title=" " alt="" coords="653,29,729,69,727,74,651,34"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="886,79,954,105"/>
+<area shape="poly" id="edge18_Node000001_Node000015" title=" " alt="" coords="680,29,871,76,870,81,679,34"/>
+<area shape="rect" id="Node000016" title=" " alt="" coords="978,79,1035,105"/>
+<area shape="poly" id="edge19_Node000001_Node000016" title=" " alt="" coords="713,29,828,48,963,76,962,81,827,54,712,34"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,226,171,252"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="91,179,91,211,85,211,85,179"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="255,226,308,252"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="284,179,284,211,279,211,279,179"/>
+<area shape="poly" id="edge13_Node000006_Node000002" title=" " alt="" coords="394,108,166,152,165,147,393,103"/>
+<area shape="poly" id="edge14_Node000006_Node000005" title=" " alt="" coords="450,107,422,142,384,180,353,203,322,221,319,216,350,198,381,176,418,138,445,104"/>
+<area shape="rect" id="Node000007" href="$StringRef_8h.html" title=" " alt="" coords="446,153,592,178"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="468,103,500,139,496,142,464,107"/>
+<area shape="poly" id="edge11_Node000007_Node000005" title=" " alt="" coords="479,181,324,228,322,223,478,176"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="570,226,644,252"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="535,177,582,214,578,219,532,181"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="550,176,656,218,654,223,548,181"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="332,226,393,252"/>
+<area shape="poly" id="edge9_Node000007_Node000010" title=" " alt="" coords="493,181,404,222,402,217,491,176"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="416,226,469,252"/>
+<area shape="poly" id="edge10_Node000007_Node000011" title=" " alt="" coords="508,181,468,218,465,214,504,177"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="492,226,545,252"/>
+<area shape="poly" id="edge12_Node000007_Node000012" title=" " alt="" coords="521,179,521,211,516,211,516,179"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="678,153,850,178"/>
+<area shape="poly" id="edge16_Node000013_Node000014" title=" " alt="" coords="767,105,767,137,761,137,761,105"/>
+</map>

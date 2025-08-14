@@ -1,0 +1,8 @@
+<map id="llvm::isPodLike&lt; std::pair&lt; T, U &gt; &gt;" name="llvm::isPodLike&lt; std::pair&lt; T, U &gt; &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,199,146,239"/>
+<area shape="rect" id="Node000002" href="$classbool.html" title=" " alt="" coords="53,5,98,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="75,46,70,102,71,154,75,198,70,198,65,154,65,102,69,46"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1isPodLike.html" title=" " alt="" coords="118,102,260,128"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="103,39,176,99,173,103,100,43"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="166,140,99,200,95,196,162,136"/>
+</map>

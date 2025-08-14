@@ -1,0 +1,11 @@
+<map id="llvm::IRBuilder&lt; preserveNames, T, Inserter &gt;" name="llvm::IRBuilder&lt; preserveNames, T, Inserter &gt;">
+<area shape="rect" id="Node000001" title="This provides a uniform API for creating instructions and inserting them into a basic block: either a..." alt="" coords="248,43,417,83"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1IRBuilder.html" title=" " alt="" coords="681,5,826,46"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="433,52,680,29,680,35,433,57"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1IRBuilder.html" title=" " alt="" coords="629,80,878,121"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="397,86,442,98,537,108,629,108,629,113,536,113,441,104,395,92"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1IRBuilderBase.html" title="Common base class shared among various IRBuilders." alt="" coords="33,21,171,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="186,42,248,50,247,55,186,47"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1IRBuilderDefaultInserter.html" title="This provides the default implementation of the IRBuilder &#39;InsertHelper&#39; method that is called whenev..." alt="" coords="5,71,199,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="213,75,247,71,248,76,214,80"/>
+</map>

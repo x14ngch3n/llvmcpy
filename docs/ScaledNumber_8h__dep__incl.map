@@ -1,0 +1,13 @@
+<map id="ScaledNumber.h" name="ScaledNumber.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="314,5,432,31"/>
+<area shape="rect" id="Node000002" href="$BlockFrequencyInfoImpl_8h.html" title=" " alt="" coords="198,79,372,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="348,43,302,81,298,77,345,39"/>
+<area shape="rect" id="Node000006" href="$ScaledNumber_8cpp.html" title=" " alt="" coords="396,79,527,105"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="402,39,448,77,445,81,398,43"/>
+<area shape="rect" id="Node000003" href="$BlockFrequencyInfo_8cpp.html" title=" " alt="" coords="5,153,168,178"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="238,113,121,155,119,150,236,108"/>
+<area shape="rect" id="Node000004" href="$BlockFrequencyInfoImpl_8cpp.html" title=" " alt="" coords="192,153,379,178"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="288,120,288,152,282,152,282,120"/>
+<area shape="rect" id="Node000005" href="$MachineBlockFrequencyInfo_8cpp.html" title=" " alt="" coords="404,153,615,178"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="338,107,472,150,470,155,337,112"/>
+</map>

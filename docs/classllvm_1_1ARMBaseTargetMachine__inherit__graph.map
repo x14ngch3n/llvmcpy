@@ -1,0 +1,19 @@
+<map id="llvm::ARMBaseTargetMachine" name="llvm::ARMBaseTargetMachine">
+<area shape="rect" id="Node000001" title=" " alt="" coords="411,80,609,106"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1ARMTargetMachine.html" title=" " alt="" coords="662,55,831,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="625,78,662,74,662,79,625,83"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1ThumbTargetMachine.html" title=" " alt="" coords="657,104,836,130"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="625,102,657,105,657,110,625,107"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1LLVMTargetMachine.html" title=" " alt="" coords="192,80,363,106"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="378,90,410,90,410,96,378,96"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1TargetMachine.html" title=" " alt="" coords="5,80,144,106"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="159,90,191,90,191,96,159,96"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1ARMBETargetMachine.html" title=" " alt="" coords="889,5,1075,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="825,48,916,29,918,34,827,54"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1ARMLETargetMachine.html" title=" " alt="" coords="890,55,1074,80"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="846,65,889,65,889,70,846,70"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1ThumbBETargetMachine.html" title=" " alt="" coords="884,104,1080,130"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="851,114,883,114,883,120,851,120"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1ThumbLETargetMachine.html" title=" " alt="" coords="885,153,1079,179"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="827,131,918,150,916,155,825,136"/>
+</map>

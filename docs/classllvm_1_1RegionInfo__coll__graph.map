@@ -1,0 +1,13 @@
+<map id="llvm::RegionInfo" name="llvm::RegionInfo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="66,304,182,329"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1RegionInfoBase.html" title=" " alt="" coords="27,214,220,254"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,270,126,303,121,303,121,270"/>
+<area shape="rect" id="Node000003" href="$classbool.html" title=" " alt="" coords="18,5,64,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="28,46,18,67,11,92,8,117,14,142,28,163,46,182,86,211,83,215,42,186,24,166,10,144,3,118,5,91,13,66,23,44"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1RegionInfoBase.html" title="Analysis that detects all canonical Regions." alt="" coords="129,102,276,143"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="68,39,117,76,160,99,158,104,115,80,65,44"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="242,5,320,31"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="302,43,308,54,320,93,328,126,326,158,307,191,294,202,273,210,221,223,220,218,272,205,291,197,303,188,321,156,323,126,315,94,303,56,298,45"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="257,43,244,57,214,103,210,100,240,53,253,40"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="139,154,127,168,121,190,122,213,117,213,116,190,123,165,135,150"/>
+</map>

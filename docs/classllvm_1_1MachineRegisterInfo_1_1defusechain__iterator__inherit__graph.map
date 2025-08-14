@@ -1,0 +1,15 @@
+<map id="llvm::MachineRegisterInfo::defusechain_iterator&lt; ReturnUses, ReturnDefs, SkipDebug, ByOperand, ByInstr, ByBundle &gt;" name="llvm::MachineRegisterInfo::defusechain_iterator&lt; ReturnUses, ReturnDefs, SkipDebug, ByOperand, ByInstr, ByBundle &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="218,187,433,273"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1MachineRegisterInfo_1_1defusechain__iterator.html" title=" " alt="" coords="607,5,781,76"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="370,174,409,136,456,102,493,84,531,70,606,51,608,56,533,75,495,89,459,107,413,140,374,178"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1MachineRegisterInfo_1_1defusechain__iterator.html" title=" " alt="" coords="607,100,781,171"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="448,181,457,178,533,160,606,146,607,151,534,165,458,183,449,186"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1MachineRegisterInfo_1_1defusechain__iterator.html" title=" " alt="" coords="607,195,781,265"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="449,227,607,227,607,233,449,233"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1MachineRegisterInfo_1_1defusechain__iterator.html" title=" " alt="" coords="607,289,781,360"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="449,273,458,276,534,295,607,309,606,314,533,300,457,281,448,279"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1MachineRegisterInfo_1_1defusechain__iterator.html" title=" " alt="" coords="607,384,781,455"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="374,282,413,320,459,352,495,370,533,384,608,404,606,409,531,389,493,375,456,357,410,324,370,286"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,202,169,258"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="184,227,217,227,217,233,184,233"/>
+</map>

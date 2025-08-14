@@ -1,0 +1,113 @@
+<map id="MachineBranchProbabilityInfo.h" name="MachineBranchProbabilityInfo.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1035,5,1208,46"/>
+<area shape="rect" id="Node000002" href="$AArch64ConditionalCompares_8cpp.html" title=" " alt="" coords="5,102,227,127"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1020,35,674,57,457,75,239,97,188,104,188,98,238,91,456,69,673,52,1020,29"/>
+<area shape="rect" id="Node000003" href="$BranchFolding_8cpp.html" title=" " alt="" coords="251,102,381,127"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1020,34,737,54,565,72,394,97,361,104,360,98,393,91,564,67,736,49,1019,29"/>
+<area shape="rect" id="Node000004" href="$EarlyIfConversion_8cpp.html" title=" " alt="" coords="405,102,555,127"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1020,39,811,62,567,97,532,103,531,98,566,91,810,57,1019,34"/>
+<area shape="rect" id="Node000005" href="$HexagonInstrInfo_8h.html" title=" " alt="" coords="579,102,712,127"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1020,45,879,68,725,97,694,104,692,98,723,91,879,62,1019,40"/>
+<area shape="rect" id="Node000037" href="$IfConversion_8cpp.html" title=" " alt="" coords="736,102,856,127"/>
+<area shape="poly" id="edge58_Node000001_Node000037" title=" " alt="" coords="1033,53,842,103,841,98,1032,48"/>
+<area shape="rect" id="Node000038" href="$InlineSpiller_8cpp.html" title=" " alt="" coords="880,102,992,127"/>
+<area shape="poly" id="edge59_Node000001_Node000038" title=" " alt="" coords="1067,55,963,103,961,99,1064,50"/>
+<area shape="rect" id="Node000039" href="$MachineBlockFrequencyInfo_8cpp.html" title=" " alt="" coords="1016,102,1227,127"/>
+<area shape="poly" id="edge60_Node000001_Node000039" title=" " alt="" coords="1124,62,1124,101,1119,101,1119,62"/>
+<area shape="rect" id="Node000040" href="$MachineBlockPlacement_8cpp.html" title=" " alt="" coords="1252,102,1442,127"/>
+<area shape="poly" id="edge61_Node000001_Node000040" title=" " alt="" coords="1187,49,1316,98,1314,103,1185,54"/>
+<area shape="rect" id="Node000041" href="$MachineBranchProbabilityInfo_8cpp.html" title=" " alt="" coords="1466,94,1638,135"/>
+<area shape="poly" id="edge62_Node000001_Node000041" title=" " alt="" coords="1223,45,1466,93,1465,98,1222,50"/>
+<area shape="rect" id="Node000042" href="$MachineTraceMetrics_8cpp.html" title=" " alt="" coords="1662,102,1834,127"/>
+<area shape="poly" id="edge63_Node000001_Node000042" title=" " alt="" coords="1223,35,1421,59,1651,91,1690,98,1689,104,1650,97,1421,64,1222,40"/>
+<area shape="rect" id="Node000043" href="$MipsDelaySlotFiller_8cpp.html" title=" " alt="" coords="1858,102,2016,127"/>
+<area shape="poly" id="edge64_Node000001_Node000043" title=" " alt="" coords="1224,30,1505,52,1675,69,1846,91,1884,98,1883,103,1845,97,1675,74,1504,57,1223,36"/>
+<area shape="rect" id="Node000044" href="$StackColoring_8cpp.html" title=" " alt="" coords="2041,102,2170,127"/>
+<area shape="poly" id="edge65_Node000001_Node000044" title=" " alt="" coords="1223,26,1380,32,1581,43,1804,62,2028,91,2062,98,2061,103,2028,97,1804,68,1580,49,1379,37,1223,32"/>
+<area shape="rect" id="Node000045" href="$TailDuplication_8cpp.html" title=" " alt="" coords="2193,102,2324,127"/>
+<area shape="poly" id="edge66_Node000001_Node000045" title=" " alt="" coords="1223,25,1404,29,1643,39,1911,59,2048,73,2182,91,2216,98,2215,103,2181,97,2047,79,1911,64,1642,44,1404,34,1223,30"/>
+<area shape="rect" id="Node000006" href="$HexagonCopyToCombine_8cpp.html" title=" " alt="" coords="262,330,458,356"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="620,139,377,332,373,327,616,135"/>
+<area shape="rect" id="Node000007" href="$HexagonFrameLowering_8cpp.html" title=" " alt="" coords="482,330,670,356"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="627,141,592,192,575,224,563,257,560,276,562,296,573,329,568,331,557,297,555,276,557,256,570,222,587,190,623,138"/>
+<area shape="rect" id="Node000008" href="$HexagonInstrInfo_8cpp.html" title=" " alt="" coords="572,256,718,282"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="648,143,648,256,643,256,643,143"/>
+<area shape="rect" id="Node000009" href="$HexagonMCInst_8cpp.html" title=" " alt="" coords="1225,404,1367,429"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="599,136,488,181,361,241,307,273,267,304,254,318,247,331,247,343,252,354,265,360,293,365,385,376,664,394,980,405,1225,411,1225,416,980,410,664,399,384,382,292,371,264,365,249,358,241,344,242,330,250,315,263,300,304,269,358,236,486,176,597,131"/>
+<area shape="rect" id="Node000010" href="$HexagonNewValueJump_8cpp.html" title=" " alt="" coords="4388,330,4577,356"/>
+<area shape="poly" id="edge9_Node000005_Node000010" title=" " alt="" coords="704,128,724,132,877,143,1189,159,2078,197,3432,254,3905,286,4376,327,4388,328,4388,334,4376,333,3904,291,3432,259,2077,203,1189,164,877,148,724,137,703,134"/>
+<area shape="rect" id="Node000011" href="$HexagonSubtarget_8h.html" title=" " alt="" coords="1255,183,1396,208"/>
+<area shape="poly" id="edge10_Node000005_Node000011" title=" " alt="" coords="706,128,724,132,872,153,1019,169,1255,188,1254,193,1018,175,871,159,724,137,705,134"/>
+<area shape="rect" id="Node000020" href="$HexagonTargetMachine_8h.html" title=" " alt="" coords="2315,256,2485,282"/>
+<area shape="poly" id="edge57_Node000005_Node000020" title=" " alt="" coords="705,129,724,132,915,156,1065,165,1215,169,1408,180,2315,257,2315,263,1408,185,1215,174,1065,170,915,161,724,137,704,134"/>
+<area shape="poly" id="edge13_Node000011_Node000006" title=" " alt="" coords="1240,204,989,224,865,240,776,259,754,271,732,284,681,298,611,311,459,333,458,327,610,305,680,293,730,280,751,267,774,254,864,235,989,219,1239,199"/>
+<area shape="poly" id="edge15_Node000011_Node000007" title=" " alt="" coords="1240,203,1054,220,946,236,839,259,807,271,776,285,621,332,620,327,774,279,805,266,838,254,945,231,1053,215,1239,198"/>
+<area shape="poly" id="edge17_Node000011_Node000008" title=" " alt="" coords="1240,208,738,259,719,261,719,256,737,254,1239,202"/>
+<area shape="poly" id="edge18_Node000011_Node000010" title=" " alt="" coords="1411,196,1861,207,2589,231,3469,270,3927,297,4376,327,4388,328,4388,334,4376,333,3926,302,3468,276,2588,237,1861,213,1411,201"/>
+<area shape="rect" id="Node000012" href="$HexagonAsmPrinter_8cpp.html" title=" " alt="" coords="2734,404,2896,429"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="1240,213,1099,236,940,267,804,301,759,317,735,332,730,343,735,354,758,360,814,366,1007,377,1604,395,2265,406,2733,412,2733,417,2265,411,1604,400,1007,382,814,371,757,365,732,358,725,343,731,328,757,312,803,295,939,262,1098,231,1239,207"/>
+<area shape="rect" id="Node000013" href="$HexagonCFGOptimizer_8cpp.html" title=" " alt="" coords="1179,330,1360,356"/>
+<area shape="poly" id="edge12_Node000011_Node000013" title=" " alt="" coords="1313,223,1296,257,1283,297,1274,330,1269,329,1278,295,1291,255,1308,221"/>
+<area shape="rect" id="Node000014" href="$HexagonExpandPredSpillCode_8cpp.html" title=" " alt="" coords="1385,330,1610,356"/>
+<area shape="poly" id="edge14_Node000011_Node000014" title=" " alt="" coords="1403,211,1441,228,1474,255,1486,273,1494,293,1500,329,1494,330,1489,295,1481,275,1470,258,1438,233,1401,216"/>
+<area shape="rect" id="Node000015" href="$HexagonISelLowering_8cpp.html" title=" " alt="" coords="1635,330,1808,356"/>
+<area shape="poly" id="edge16_Node000011_Node000015" title=" " alt="" coords="1377,211,1500,254,1692,327,1690,332,1498,259,1375,216"/>
+<area shape="rect" id="Node000016" href="$HexagonRegisterInfo_8cpp.html" title=" " alt="" coords="1833,330,2002,356"/>
+<area shape="poly" id="edge19_Node000011_Node000016" title=" " alt="" coords="1390,210,1868,327,1867,332,1389,215"/>
+<area shape="rect" id="Node000017" href="$HexagonSplitConst32AndConst64_8cpp.html" title=" " alt="" coords="2027,330,2272,356"/>
+<area shape="poly" id="edge20_Node000011_Node000017" title=" " alt="" coords="1410,209,2081,327,2080,332,1409,214"/>
+<area shape="rect" id="Node000018" href="$HexagonSplitTFRCondSets_8cpp.html" title=" " alt="" coords="2296,330,2504,356"/>
+<area shape="poly" id="edge21_Node000011_Node000018" title=" " alt="" coords="1411,206,2310,327,2310,332,1410,211"/>
+<area shape="rect" id="Node000019" href="$HexagonSubtarget_8cpp.html" title=" " alt="" coords="1306,256,1460,282"/>
+<area shape="poly" id="edge22_Node000011_Node000019" title=" " alt="" coords="1346,219,1375,254,1371,258,1342,222"/>
+<area shape="poly" id="edge23_Node000011_Node000020" title=" " alt="" coords="1412,199,2258,254,2315,258,2315,263,2257,259,1411,205"/>
+<area shape="rect" id="Node000035" href="$HexagonTargetObjectFile_8cpp.html" title=" " alt="" coords="745,330,938,356"/>
+<area shape="poly" id="edge55_Node000011_Node000035" title=" " alt="" coords="1271,216,883,332,881,327,1270,211"/>
+<area shape="rect" id="Node000036" href="$HexagonVLIWPacketizer_8cpp.html" title=" " alt="" coords="962,330,1155,356"/>
+<area shape="poly" id="edge56_Node000011_Node000036" title=" " alt="" coords="1291,219,1082,332,1080,327,1288,214"/>
+<area shape="poly" id="edge30_Node000020_Node000006" title=" " alt="" coords="2300,274,1991,277,1540,286,1011,304,471,333,459,334,458,328,470,327,1011,299,1540,281,1991,272,2300,268"/>
+<area shape="poly" id="edge33_Node000020_Node000007" title=" " alt="" coords="2300,275,1642,294,1192,311,733,333,670,337,670,331,733,327,1192,306,1642,289,2300,270"/>
+<area shape="poly" id="edge45_Node000020_Node000010" title=" " alt="" coords="2500,268,2814,271,3277,280,3821,297,4101,311,4376,327,4388,328,4388,334,4376,333,4101,316,3821,303,3277,285,2814,276,2500,273"/>
+<area shape="poly" id="edge24_Node000020_Node000012" title=" " alt="" coords="2438,287,2568,353,2660,381,2746,400,2744,406,2658,386,2566,358,2436,292"/>
+<area shape="poly" id="edge29_Node000020_Node000013" title=" " alt="" coords="2300,277,1895,297,1635,313,1374,333,1361,334,1360,328,1373,327,1635,308,1895,292,2300,272"/>
+<area shape="poly" id="edge31_Node000020_Node000014" title=" " alt="" coords="2300,280,1623,333,1611,334,1610,328,1622,327,2299,275"/>
+<area shape="poly" id="edge36_Node000020_Node000015" title=" " alt="" coords="2300,283,1822,333,1809,334,1808,329,1821,327,2300,278"/>
+<area shape="poly" id="edge47_Node000020_Node000016" title=" " alt="" coords="2303,287,2000,332,1999,327,2302,282"/>
+<area shape="poly" id="edge50_Node000020_Node000017" title=" " alt="" coords="2344,289,2193,332,2191,327,2343,284"/>
+<area shape="poly" id="edge51_Node000020_Node000018" title=" " alt="" coords="2403,297,2403,330,2397,330,2397,297"/>
+<area shape="rect" id="Node000021" href="$HexagonAsmPrinter_8h.html" title=" " alt="" coords="3012,330,3161,356"/>
+<area shape="poly" id="edge25_Node000020_Node000021" title=" " alt="" coords="2501,277,2730,298,3002,327,3013,329,3012,334,3001,333,2729,304,2500,282"/>
+<area shape="rect" id="Node000024" href="$HexagonFixupHwLoops_8cpp.html" title=" " alt="" coords="3185,330,3370,356"/>
+<area shape="poly" id="edge32_Node000020_Node000024" title=" " alt="" coords="2501,274,2802,296,3174,327,3185,328,3184,334,3173,333,2802,302,2500,280"/>
+<area shape="rect" id="Node000025" href="$HexagonHardwareLoops_8cpp.html" title=" " alt="" coords="3395,330,3584,356"/>
+<area shape="poly" id="edge34_Node000020_Node000025" title=" " alt="" coords="2500,272,2887,293,3383,327,3395,328,3394,334,3382,333,2887,298,2500,278"/>
+<area shape="rect" id="Node000026" href="$HexagonISelDAGToDAG_8cpp.html" title=" " alt="" coords="3609,330,3802,356"/>
+<area shape="poly" id="edge35_Node000020_Node000026" title=" " alt="" coords="2500,271,2973,290,3283,306,3596,327,3608,328,3608,334,3596,333,3282,312,2973,295,2500,276"/>
+<area shape="rect" id="Node000027" href="$HexagonMCInst_8h.html" title=" " alt="" coords="3826,330,3953,356"/>
+<area shape="poly" id="edge37_Node000020_Node000027" title=" " alt="" coords="2500,268,2734,271,3060,280,3435,298,3815,327,3825,328,3825,334,3814,333,3434,303,3060,286,2734,277,2500,274"/>
+<area shape="rect" id="Node000031" href="$HexagonPeephole_8cpp.html" title=" " alt="" coords="3977,330,4130,356"/>
+<area shape="poly" id="edge46_Node000020_Node000031" title=" " alt="" coords="2500,268,2756,272,3119,281,3539,299,3966,327,3977,328,3976,334,3965,333,3538,304,3119,287,2756,277,2500,274"/>
+<area shape="rect" id="Node000032" href="$HexagonRemoveSZExtArgs_8cpp.html" title=" " alt="" coords="4153,330,4364,356"/>
+<area shape="poly" id="edge48_Node000020_Node000032" title=" " alt="" coords="2500,269,3187,284,3660,301,4141,327,4153,328,4152,333,4141,333,3659,307,3187,289,2500,274"/>
+<area shape="rect" id="Node000033" href="$HexagonSelectionDAGInfo_8cpp.html" title=" " alt="" coords="2578,330,2782,356"/>
+<area shape="poly" id="edge49_Node000020_Node000033" title=" " alt="" coords="2463,284,2633,327,2632,332,2461,289"/>
+<area shape="rect" id="Node000034" href="$HexagonTargetMachine_8cpp.html" title=" " alt="" coords="2806,330,2989,356"/>
+<area shape="poly" id="edge52_Node000020_Node000034" title=" " alt="" coords="2500,282,2813,327,2812,332,2499,287"/>
+<area shape="poly" id="edge53_Node000020_Node000035" title=" " alt="" coords="2300,275,1727,292,1342,309,951,333,939,334,938,328,950,327,1342,303,1726,287,2300,270"/>
+<area shape="poly" id="edge54_Node000020_Node000036" title=" " alt="" coords="2300,276,1812,295,1492,311,1167,333,1155,334,1155,328,1166,327,1491,306,1812,289,2300,271"/>
+<area shape="poly" id="edge26_Node000021_Node000012" title=" " alt="" coords="3026,363,2862,406,2860,400,3025,357"/>
+<area shape="rect" id="Node000022" href="$HexagonInstPrinter_8cpp.html" title=" " alt="" coords="3197,404,3355,429"/>
+<area shape="poly" id="edge27_Node000021_Node000022" title=" " alt="" coords="3134,359,3245,401,3243,406,3132,364"/>
+<area shape="rect" id="Node000023" href="$HexagonMCInstLower_8cpp.html" title=" " alt="" coords="3388,404,3564,429"/>
+<area shape="poly" id="edge28_Node000021_Node000023" title=" " alt="" coords="3168,356,3410,400,3409,406,3167,362"/>
+<area shape="poly" id="edge42_Node000027_Node000009" title=" " alt="" coords="3810,359,3570,374,3258,386,2526,403,1825,413,1367,417,1367,412,1825,408,2526,398,3258,381,3570,368,3810,353"/>
+<area shape="poly" id="edge38_Node000027_Node000012" title=" " alt="" coords="3810,359,3545,382,3286,399,2896,416,2896,410,3286,393,3544,377,3810,353"/>
+<area shape="poly" id="edge40_Node000027_Node000022" title=" " alt="" coords="3811,359,3593,384,3376,406,3355,409,3355,403,3376,401,3592,379,3810,354"/>
+<area shape="poly" id="edge43_Node000027_Node000023" title=" " alt="" coords="3811,360,3547,406,3546,400,3810,355"/>
+<area shape="rect" id="Node000028" href="$HexagonDisassembler_8cpp.html" title=" " alt="" coords="3593,404,3770,429"/>
+<area shape="poly" id="edge39_Node000027_Node000028" title=" " alt="" coords="3841,364,3718,406,3716,401,3839,359"/>
+<area shape="rect" id="Node000029" href="$HexagonMCCodeEmitter_8cpp.html" title=" " alt="" coords="3794,404,3985,429"/>
+<area shape="poly" id="edge41_Node000027_Node000029" title=" " alt="" coords="3892,371,3892,403,3887,403,3887,371"/>
+<area shape="rect" id="Node000030" href="$HexagonMCTargetDesc_8cpp.html" title=" " alt="" coords="4010,404,4196,429"/>
+<area shape="poly" id="edge44_Node000027_Node000030" title=" " alt="" coords="3941,358,4067,401,4065,406,3939,363"/>
+</map>

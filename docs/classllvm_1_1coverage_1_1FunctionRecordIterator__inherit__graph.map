@@ -1,0 +1,11 @@
+<map id="llvm::coverage::FunctionRecordIterator" name="llvm::coverage::FunctionRecordIterator">
+<area shape="rect" id="Node000001" title="Iterator over Functions, optionally filtered to a single file." alt="" coords="927,80,1091,120"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1iterator__facade__base.html" title=" " alt="" coords="673,65,878,136"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="893,98,926,98,926,103,893,103"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="276,5,441,91"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="457,47,551,52,650,64,673,69,672,74,649,69,550,58,457,52"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1iterator__facade__base.html" title="CRTP base class which implements the entire standard iterator facade in terms of a minimal subset of ..." alt="" coords="248,116,469,186"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="484,144,566,138,649,128,672,124,673,129,650,133,566,143,485,149"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="5,130,199,171"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="214,148,248,148,248,154,214,154"/>
+</map>

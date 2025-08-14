@@ -1,0 +1,37 @@
+<map id="PPCSelectionDAGInfo.h" name="PPCSelectionDAGInfo.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="784,5,949,31"/>
+<area shape="rect" id="Node000002" href="$PPCSubtarget_8h.html" title=" " alt="" coords="808,79,925,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="869,46,869,79,864,79,864,46"/>
+<area shape="rect" id="Node000003" href="$PPCAsmPrinter_8cpp.html" title=" " alt="" coords="5,226,144,252"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="794,107,496,155,131,228,130,223,495,150,793,101"/>
+<area shape="rect" id="Node000004" href="$PPCFastISel_8cpp.html" title=" " alt="" coords="168,226,291,252"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="799,111,604,155,283,228,282,223,603,150,798,106"/>
+<area shape="rect" id="Node000005" href="$PPCFrameLowering_8cpp.html" title=" " alt="" coords="785,153,948,178"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="869,120,869,152,864,152,864,120"/>
+<area shape="rect" id="Node000006" href="$PPCMCInstLower_8cpp.html" title=" " alt="" coords="972,153,1124,178"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="912,108,1018,150,1016,155,911,113"/>
+<area shape="rect" id="Node000007" href="$PPCRegisterInfo_8cpp.html" title=" " alt="" coords="1147,153,1292,178"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="940,105,1160,149,1159,155,939,111"/>
+<area shape="rect" id="Node000008" href="$PPCSubtarget_8cpp.html" title=" " alt="" coords="1316,153,1446,178"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="940,100,1306,150,1316,152,1315,157,1305,155,940,105"/>
+<area shape="rect" id="Node000009" href="$PPCTargetMachine_8h.html" title=" " alt="" coords="615,153,760,178"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="823,113,719,155,717,150,821,108"/>
+<area shape="poly" id="edge9_Node000009_Node000003" title=" " alt="" coords="600,179,156,229,144,230,144,225,156,224,599,173"/>
+<area shape="poly" id="edge11_Node000009_Node000004" title=" " alt="" coords="600,183,303,229,292,231,291,225,302,224,599,178"/>
+<area shape="rect" id="Node000010" href="$PPCCTRLoops_8cpp.html" title=" " alt="" coords="714,226,851,252"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="718,186,768,224,765,228,715,190"/>
+<area shape="rect" id="Node000011" href="$PPCHazardRecognizers_8cpp.html" title=" " alt="" coords="876,226,1065,252"/>
+<area shape="poly" id="edge12_Node000009_Node000011" title=" " alt="" coords="751,180,923,223,922,228,750,185"/>
+<area shape="rect" id="Node000012" href="$PPCISelDAGToDAG_8cpp.html" title=" " alt="" coords="1090,226,1259,252"/>
+<area shape="poly" id="edge13_Node000009_Node000012" title=" " alt="" coords="776,177,1092,223,1091,228,775,182"/>
+<area shape="rect" id="Node000013" href="$PPCISelLowering_8cpp.html" title=" " alt="" coords="1284,226,1433,252"/>
+<area shape="poly" id="edge14_Node000009_Node000013" title=" " alt="" coords="776,176,1026,200,1272,224,1284,225,1283,230,1272,229,1025,205,775,181"/>
+<area shape="rect" id="Node000014" href="$PPCInstrInfo_8cpp.html" title=" " alt="" coords="1457,226,1580,252"/>
+<area shape="poly" id="edge15_Node000009_Node000014" title=" " alt="" coords="776,176,965,191,1113,199,1259,206,1445,224,1457,225,1457,230,1445,229,1259,212,1112,204,965,197,776,181"/>
+<area shape="rect" id="Node000015" href="$PPCSelectionDAGInfo_8cpp.html" title=" " alt="" coords="1604,226,1783,252"/>
+<area shape="poly" id="edge16_Node000009_Node000015" title=" " alt="" coords="776,176,1006,193,1186,201,1364,208,1592,224,1603,225,1603,230,1592,229,1364,213,1185,206,1006,199,776,181"/>
+<area shape="rect" id="Node000016" href="$PPCTargetMachine_8cpp.html" title=" " alt="" coords="315,226,474,252"/>
+<area shape="poly" id="edge17_Node000009_Node000016" title=" " alt="" coords="624,185,445,228,444,223,623,180"/>
+<area shape="rect" id="Node000017" href="$PPCTargetTransformInfo_8cpp.html" title=" " alt="" coords="499,226,690,252"/>
+<area shape="poly" id="edge18_Node000009_Node000017" title=" " alt="" coords="662,190,612,228,608,224,658,186"/>
+</map>

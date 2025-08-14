@@ -1,0 +1,20 @@
+<map id="DominanceFrontier.h" name="DominanceFrontier.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="312,5,454,31"/>
+<area shape="rect" id="Node000002" href="$DominanceFrontier_8cpp.html" title=" " alt="" coords="5,79,161,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="317,38,135,81,133,76,316,33"/>
+<area shape="rect" id="Node000003" href="$MachineDominanceFrontier_8h.html" title=" " alt="" coords="185,79,376,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="355,42,299,81,296,76,352,38"/>
+<area shape="rect" id="Node000007" href="$MachineFunctionPass_8cpp.html" title=" " alt="" coords="399,79,575,105"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="414,38,471,76,468,81,411,42"/>
+<area shape="rect" id="Node000008" href="$RegionInfoImpl_8h.html" title=" " alt="" coords="599,79,719,105"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="445,33,613,76,611,81,444,38"/>
+<area shape="rect" id="Node000004" href="$MachineDominanceFrontier_8cpp.html" title=" " alt="" coords="168,153,372,178"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="279,120,274,153,269,152,274,119"/>
+<area shape="rect" id="Node000005" href="$MachineRegionInfo_8h.html" title=" " alt="" coords="396,153,540,178"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="327,108,437,150,435,155,326,113"/>
+<area shape="rect" id="Node000006" href="$MachineRegionInfo_8cpp.html" title=" " alt="" coords="444,226,602,252"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="489,189,516,224,512,227,484,192"/>
+<area shape="poly" id="edge8_Node000008_Node000006" title=" " alt="" coords="640,118,605,154,536,228,532,224,601,151,636,114"/>
+<area shape="rect" id="Node000009" href="$RegionInfo_8cpp.html" title=" " alt="" coords="615,153,724,178"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="666,119,671,152,665,153,660,120"/>
+</map>

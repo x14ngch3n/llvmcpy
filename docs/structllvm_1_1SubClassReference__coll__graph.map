@@ -1,0 +1,11 @@
+<map id="llvm::SubClassReference" name="llvm::SubClassReference">
+<area shape="rect" id="Node000001" title=" " alt="" coords="104,219,274,245"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1SMRange.html" title=" " alt="" coords="5,122,117,148"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="82,158,118,193,160,216,157,221,115,197,78,162"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1SMLoc.html" title="Represents a location in source code." alt="" coords="14,5,108,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="64,47,64,122,58,122,58,47"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1Record.html" title=" " alt="" coords="141,122,237,148"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="192,163,192,218,186,218,186,163"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="260,122,400,148"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="301,159,209,221,206,216,298,155"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="llvm::cl::parser&lt; int &gt;" name="llvm::cl::parser&lt; int &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="798,32,943,58"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1cl_1_1generic__parser__base.html" title=" " alt="" coords="231,10,422,35"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="438,9,597,3,686,6,774,15,833,29,831,34,773,20,686,11,597,8,438,14"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1cl_1_1parser.html" title=" " alt="" coords="516,32,704,58"/>
+<area shape="poly" id="edge7_Node000006_Node000002" title=" " alt="" coords="438,29,516,35,516,40,437,34"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1cl_1_1basic__parser.html" title=" " alt="" coords="537,82,683,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="697,81,808,56,809,61,698,86"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1cl_1_1basic__parser__impl.html" title=" " alt="" coords="5,98,182,123"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="197,103,206,103,349,98,492,97,537,98,537,103,492,103,349,103,206,108,197,108"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1cl_1_1basic__parser.html" title=" " alt="" coords="254,118,399,159"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="197,120,254,127,253,132,197,126"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="415,129,492,120,536,113,537,119,493,125,415,134"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="719,43,797,43,797,48,719,48"/>
+</map>

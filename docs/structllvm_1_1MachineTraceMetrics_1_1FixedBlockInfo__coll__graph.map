@@ -1,0 +1,7 @@
+<map id="llvm::MachineTraceMetrics::FixedBlockInfo" name="llvm::MachineTraceMetrics::FixedBlockInfo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,102,184,143"/>
+<area shape="rect" id="Node000002" href="$classunsigned.html" title=" " alt="" coords="8,5,82,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="44,46,45,62,49,77,68,100,64,103,44,79,40,63,39,47"/>
+<area shape="rect" id="Node000003" href="$classbool.html" title=" " alt="" coords="122,5,168,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="135,46,107,103,102,101,130,44"/>
+</map>

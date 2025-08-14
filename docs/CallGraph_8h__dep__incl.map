@@ -1,0 +1,47 @@
+<map id="CallGraph.h" name="CallGraph.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="906,5,996,31"/>
+<area shape="rect" id="Node000002" href="$ArgumentPromotion_8cpp.html" title=" " alt="" coords="5,153,167,178"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="891,25,662,41,518,58,373,82,302,98,231,118,120,155,118,150,230,113,300,93,372,76,517,53,662,36,891,19"/>
+<area shape="rect" id="Node000003" href="$CallGraph_8cpp.html" title=" " alt="" coords="1039,79,1144,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="990,36,1069,76,1066,81,987,41"/>
+<area shape="rect" id="Node000004" href="$CallGraphSCCPass_8cpp.html" title=" " alt="" coords="191,153,354,178"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="890,22,801,26,688,35,564,53,441,82,398,98,357,117,292,154,290,150,354,113,396,93,440,76,563,47,688,30,801,20,890,17"/>
+<area shape="rect" id="Node000005" href="$CallGraphSCCPass_8h.html" title=" " alt="" coords="474,79,623,105"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="891,33,618,81,617,76,890,28"/>
+<area shape="rect" id="Node000006" href="$FunctionAttrs_8cpp.html" title=" " alt="" coords="378,153,503,178"/>
+<area shape="poly" id="edge20_Node000001_Node000006" title=" " alt="" coords="891,21,783,23,656,31,595,38,540,49,495,63,464,81,452,97,445,116,442,152,437,152,440,115,447,94,460,77,492,58,538,44,594,33,656,25,783,17,891,16"/>
+<area shape="rect" id="Node000008" href="$InlineAlways_8cpp.html" title=" " alt="" coords="595,226,716,252"/>
+<area shape="poly" id="edge22_Node000001_Node000008" title=" " alt="" coords="892,37,842,54,786,78,731,112,684,154,673,172,665,191,659,226,654,225,660,190,668,169,680,151,728,107,783,74,840,49,891,32"/>
+<area shape="rect" id="Node000010" href="$InlineSimple_8cpp.html" title=" " alt="" coords="739,226,857,252"/>
+<area shape="poly" id="edge24_Node000001_Node000010" title=" " alt="" coords="957,46,958,76,955,111,946,147,928,180,912,197,893,210,852,228,850,223,890,205,909,193,924,177,941,145,949,110,952,76,952,46"/>
+<area shape="rect" id="Node000011" href="$Inliner_8cpp.html" title=" " alt="" coords="880,226,961,252"/>
+<area shape="poly" id="edge25_Node000001_Node000011" title=" " alt="" coords="964,45,979,107,980,143,972,179,957,207,937,228,933,224,952,204,968,177,974,143,973,108,959,46"/>
+<area shape="rect" id="Node000014" href="$PruneEH_8cpp.html" title=" " alt="" coords="815,153,914,178"/>
+<area shape="poly" id="edge27_Node000001_Node000014" title=" " alt="" coords="939,46,874,154,870,151,934,43"/>
+<area shape="rect" id="Node000015" href="$CallPrinter_8cpp.html" title=" " alt="" coords="1168,79,1274,105"/>
+<area shape="poly" id="edge19_Node000001_Node000015" title=" " alt="" coords="1012,33,1175,76,1174,81,1011,38"/>
+<area shape="rect" id="Node000016" href="$GlobalsModRef_8cpp.html" title=" " alt="" coords="1298,79,1434,105"/>
+<area shape="poly" id="edge21_Node000001_Node000016" title=" " alt="" coords="1012,27,1298,76,1297,81,1011,32"/>
+<area shape="rect" id="Node000017" href="$InlineFunction_8cpp.html" title=" " alt="" coords="1458,79,1586,105"/>
+<area shape="poly" id="edge23_Node000001_Node000017" title=" " alt="" coords="1012,24,1446,76,1458,78,1457,83,1446,82,1011,29"/>
+<area shape="rect" id="Node000018" href="$Internalize_8cpp.html" title=" " alt="" coords="1610,79,1716,105"/>
+<area shape="poly" id="edge26_Node000001_Node000018" title=" " alt="" coords="1012,21,1268,41,1432,57,1598,76,1610,78,1609,83,1598,82,1432,62,1267,46,1012,26"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="459,110,165,155,165,149,459,104"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="488,111,320,155,319,149,487,106"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="519,116,461,154,458,150,516,111"/>
+<area shape="rect" id="Node000007" href="$InlineCost_8h.html" title=" " alt="" coords="527,153,618,178"/>
+<area shape="poly" id="edge8_Node000005_Node000007" title=" " alt="" coords="560,119,571,151,566,153,555,120"/>
+<area shape="rect" id="Node000013" href="$InlinerPass_8h.html" title=" " alt="" coords="693,153,791,178"/>
+<area shape="poly" id="edge14_Node000005_Node000013" title=" " alt="" coords="597,108,710,150,708,155,595,113"/>
+<area shape="poly" id="edge18_Node000005_Node000014" title=" " alt="" coords="618,106,815,150,814,156,617,111"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="600,187,643,224,640,228,597,191"/>
+<area shape="rect" id="Node000009" href="$InlineCost_8cpp.html" title=" " alt="" coords="252,226,357,252"/>
+<area shape="poly" id="edge10_Node000007_Node000009" title=" " alt="" coords="513,185,351,228,350,223,512,180"/>
+<area shape="poly" id="edge11_Node000007_Node000010" title=" " alt="" coords="626,181,760,223,759,228,624,186"/>
+<area shape="poly" id="edge12_Node000007_Node000011" title=" " alt="" coords="634,176,869,224,881,226,880,231,868,229,633,181"/>
+<area shape="rect" id="Node000012" href="$TailRecursionElimination_8cpp.html" title=" " alt="" coords="382,226,571,252"/>
+<area shape="poly" id="edge13_Node000007_Node000012" title=" " alt="" coords="546,190,494,228,491,224,543,186"/>
+<area shape="poly" id="edge15_Node000013_Node000008" title=" " alt="" coords="717,191,672,228,668,224,714,186"/>
+<area shape="poly" id="edge16_Node000013_Node000010" title=" " alt="" coords="763,189,791,224,786,228,758,192"/>
+<area shape="poly" id="edge17_Node000013_Node000011" title=" " alt="" coords="787,182,891,223,889,228,785,187"/>
+</map>

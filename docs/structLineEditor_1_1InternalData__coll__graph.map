@@ -1,0 +1,15 @@
+<map id="llvm::LineEditor::InternalData" name="llvm::LineEditor::InternalData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="223,102,414,128"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1LineEditor.html" title=" " alt="" coords="5,5,117,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,35,195,75,272,99,270,104,193,81,98,40"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="141,5,213,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="205,39,256,76,296,99,293,104,253,80,201,43"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="237,5,314,31"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="290,44,315,100,310,102,285,46"/>
+<area shape="rect" id="Node000005" href="$classunsigned.html" title=" " alt="" coords="339,5,412,31"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="363,45,328,103,323,100,358,43"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="437,5,490,31"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="456,47,445,64,431,80,408,94,384,104,382,99,406,89,427,76,441,61,451,44"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="585,5,644,31"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="605,47,592,65,574,80,546,91,507,100,414,111,414,105,506,95,545,86,572,76,588,61,600,44"/>
+</map>

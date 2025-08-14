@@ -1,0 +1,5 @@
+<map id="llvm::DIImportedEntity" name="llvm::DIImportedEntity">
+<area shape="rect" id="Node000001" title="An imported module (C++ using directive or similar)." alt="" coords="5,79,158,105"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1DIDescriptor.html" title="A thin wraper around MDNode to access encoded debug info." alt="" coords="18,5,145,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="84,46,84,79,79,79,79,46"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="llvm::StatepointBase&lt; InstructionTy, ValueTy, CallSiteTy &gt;" name="llvm::StatepointBase&lt; InstructionTy, ValueTy, CallSiteTy &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,68,170,124"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1StatepointBase.html" title=" " alt="" coords="398,28,618,84"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,84,397,64,398,69,185,89"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1StatepointBase.html" title=" " alt="" coords="437,108,579,164"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="172,126,194,131,258,140,322,143,436,140,436,145,322,148,257,145,193,137,170,131"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1ImmutableStatepoint.html" title=" " alt="" coords="667,43,841,69"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="634,53,667,53,667,59,634,59"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1Statepoint.html" title=" " alt="" coords="698,123,810,149"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="595,133,697,133,697,139,595,139"/>
+</map>

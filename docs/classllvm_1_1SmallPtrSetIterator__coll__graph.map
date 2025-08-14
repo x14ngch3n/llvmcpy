@@ -1,0 +1,7 @@
+<map id="llvm::SmallPtrSetIterator&lt; PtrTy &gt;" name="llvm::SmallPtrSetIterator&lt; PtrTy &gt;">
+<area shape="rect" id="Node000001" title="SmallPtrSetIterator &#45; This implements a const_iterator for SmallPtrSet." alt="" coords="18,197,182,238"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1SmallPtrSetIteratorImpl.html" title=" " alt="" coords="5,122,195,148"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,164,103,197,97,197,97,164"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="34,5,166,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="103,47,103,122,97,122,97,47"/>
+</map>

@@ -1,0 +1,27 @@
+<map id="llvm::TargetRegisterClass" name="llvm::TargetRegisterClass">
+<area shape="rect" id="Node000001" title=" " alt="" coords="640,446,812,472"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1MCRegisterClass.html" title="MCRegisterClass &#45; Base class of TargetRegisterClass." alt="" coords="321,265,478,291"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="447,295,528,333,617,381,709,444,706,448,615,385,525,338,445,300"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="40,60,108,85"/>
+<area shape="poly" id="edge9_Node000001_Node000003" title=" " alt="" coords="102,48,132,29,166,15,220,4,245,7,275,15,318,34,359,56,437,110,508,172,571,238,624,303,667,363,720,445,715,447,663,366,620,306,567,242,504,176,434,114,357,60,315,38,273,20,244,12,221,10,167,20,134,34,105,52"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="103,94,133,118,168,140,197,153,221,160,245,166,275,180,339,222,386,262,382,266,335,227,272,184,244,171,219,165,195,158,165,145,130,122,100,98"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="44,292,104,317"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="120,304,192,305,273,301,344,289,345,294,274,306,192,310,120,309"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="40,366,108,392"/>
+<area shape="poly" id="edge8_Node000001_Node000005" title=" " alt="" coords="123,379,337,395,476,410,616,430,677,443,676,448,616,435,476,415,337,400,123,384"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="123,370,194,356,273,334,327,312,373,289,376,294,329,317,275,339,196,361,124,375"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="47,185,101,211"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="116,200,190,211,274,229,369,262,367,267,273,234,189,216,115,205"/>
+<area shape="rect" id="Node000007" href="$classbool.html" title=" " alt="" coords="51,238,97,264"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="112,252,321,269,321,274,112,257"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="342,450,458,476"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="473,460,639,458,640,463,473,465"/>
+<area shape="rect" id="Node000009" href="$classunsigned.html" title=" " alt="" coords="363,500,436,525"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="452,507,529,500,615,488,683,470,685,475,617,493,530,506,452,512"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="341,553,459,579"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="474,559,544,549,615,529,667,501,708,470,711,475,670,505,617,534,545,554,475,565"/>
+<area shape="rect" id="Node000011" href="$classllvm_1_1ArrayRef.html" title=" " alt="" coords="298,606,502,632"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="517,611,567,600,615,580,648,555,677,525,715,471,719,474,681,529,652,559,617,585,569,605,518,616"/>
+<area shape="rect" id="Node000012" href="$classllvm_1_1ArrayRef.html" title=" " alt="" coords="5,606,143,632"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="158,617,297,617,297,622,158,622"/>
+</map>

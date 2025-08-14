@@ -1,0 +1,13 @@
+<map id="llvm::RecyclingAllocator&lt; AllocatorType, T, Size, Align &gt;" name="llvm::RecyclingAllocator&lt; AllocatorType, T, Size, Align &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,268,169,324"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1RecyclingAllocator.html" title=" " alt="" coords="454,59,658,114"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,252,112,217,132,179,158,144,191,115,222,99,255,86,323,71,391,66,454,69,454,74,391,72,324,76,256,91,224,103,194,119,162,147,136,182,117,219,103,254"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1RecyclingAllocator.html" title=" " alt="" coords="433,166,678,237"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="135,257,162,241,192,228,236,218,296,211,432,202,433,208,296,217,237,224,193,233,165,246,138,262"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1RecyclingAllocator.html" title=" " alt="" coords="431,268,681,324"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="184,293,430,293,430,299,184,299"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1RecyclingAllocator.html" title=" " alt="" coords="442,363,670,418"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="135,331,163,349,194,362,256,379,320,389,383,394,442,394,442,400,383,399,320,394,255,384,192,367,161,353,132,336"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1RecyclingAllocator.html" title=" " alt="" coords="447,470,664,541"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="101,338,114,375,133,416,160,454,194,484,223,500,254,511,319,525,385,527,446,523,447,529,385,533,319,530,253,516,221,505,191,489,156,458,129,419,109,377,96,340"/>
+</map>

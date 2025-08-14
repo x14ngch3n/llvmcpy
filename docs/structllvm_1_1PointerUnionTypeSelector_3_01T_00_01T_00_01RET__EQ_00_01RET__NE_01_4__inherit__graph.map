@@ -1,0 +1,5 @@
+<map id="llvm::PointerUnionTypeSelector&lt; T, T, RET_EQ, RET_NE &gt;" name="llvm::PointerUnionTypeSelector&lt; T, T, RET_EQ, RET_NE &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="6,117,210,158"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1PointerUnionTypeSelector.html" title="Get a type based on whether two types are the same or not. For:" alt="" coords="5,5,211,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,61,111,117,105,117,105,61"/>
+</map>

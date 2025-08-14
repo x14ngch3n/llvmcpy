@@ -1,0 +1,16 @@
+<map id="AllocaSlices::SliceBuilder" name="AllocaSlices::SliceBuilder">
+<area shape="rect" id="Node000001" title="Builder for the alloca slices." alt="" coords="992,70,1163,96"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1PtrUseVisitor.html" title=" " alt="" coords="812,63,943,103"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="959,80,992,80,992,86,959,86"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1InstVisitor.html" title="Base class for instruction visitors." alt="" coords="525,5,663,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="678,39,788,62,812,67,811,72,787,67,677,45"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1detail_1_1PtrUseVisitorBase.html" title="Implementation of non&#45;dependent functionality for PtrUseVisitor." alt="" coords="276,76,476,101"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="491,84,811,81,811,86,491,90"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1PtrUseVisitor.html" title="A base class for visitors over the uses of a pointer value." alt="" coords="528,120,660,161"/>
+<area shape="poly" id="edge7_Node000005_Node000004" title=" " alt="" coords="448,103,528,122,527,127,447,108"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="675,138,731,133,787,122,838,101,840,106,788,127,731,138,675,143"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1InstVisitor.html" title=" " alt="" coords="316,129,436,170"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="452,144,528,140,528,146,452,149"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1InstVisitor.html" title="Base class for instruction visitors." alt="" coords="5,129,143,170"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="158,147,315,147,315,152,158,152"/>
+</map>

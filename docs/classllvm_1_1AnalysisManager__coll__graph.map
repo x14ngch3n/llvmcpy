@@ -1,0 +1,7 @@
+<map id="llvm::AnalysisManager&lt; IRUnitT &gt;" name="llvm::AnalysisManager&lt; IRUnitT &gt;">
+<area shape="rect" id="Node000001" title="A generic analysis pass manager with lazy running and caching of results." alt="" coords="39,242,192,283"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1detail_1_1AnalysisManagerBase.html" title=" " alt="" coords="5,137,226,193"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,208,118,242,113,242,113,208"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1detail_1_1AnalysisManagerBase.html" title="A CRTP base used to implement analysis managers." alt="" coords="19,5,212,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="118,62,118,137,113,137,113,62"/>
+</map>

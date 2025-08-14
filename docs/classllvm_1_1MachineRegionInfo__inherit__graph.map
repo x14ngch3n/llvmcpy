@@ -1,0 +1,7 @@
+<map id="llvm::MachineRegionInfo" name="llvm::MachineRegionInfo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="44,207,209,233"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1RegionInfoBase.html" title=" " alt="" coords="5,117,248,158"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,173,129,207,124,207,124,173"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1RegionInfoBase.html" title="Analysis that detects all canonical Regions." alt="" coords="53,5,200,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="129,61,129,117,124,117,124,61"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="ARMHazardRecognizer.h" name="ARMHazardRecognizer.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="306,5,475,31"/>
+<area shape="rect" id="Node000002" href="$ScoreboardHazardRecognizer_8h.html" title=" " alt="" coords="282,79,498,120"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="393,31,393,64,388,64,388,31"/>
+<area shape="rect" id="Node000003" href="$ScheduleHazardRecognizer_8h.html" title=" " alt="" coords="5,168,210,208"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="326,123,187,165,185,160,325,118"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="233,175,406,201"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="376,122,341,165,337,162,372,118"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="430,175,494,201"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="409,118,445,161,440,165,404,122"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="519,175,579,201"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="427,118,515,165,512,170,425,123"/>
+</map>

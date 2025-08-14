@@ -1,0 +1,13 @@
+<map id="llvm::object::Elf_Dyn_Base&lt; ELFT &gt;" name="llvm::object::Elf_Dyn_Base&lt; ELFT &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,170,149,211"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1object_1_1Elf__Dyn__Impl.html" title="Elf_Dyn_Impl: This inherits from Elf_Dyn_Base, adding getters and setters." alt="" coords="444,6,588,47"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="88,154,101,126,119,95,142,66,171,43,204,27,239,16,312,4,382,4,444,10,444,15,382,9,312,10,241,21,206,32,174,48,146,70,123,98,106,128,93,157"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1object_1_1Elf__Dyn__Base.html" title=" " alt="" coords="419,73,612,143"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="124,160,172,140,235,125,300,115,419,106,419,111,300,120,236,130,173,145,126,165"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1object_1_1Elf__Dyn__Base_3_01ELFType_3_01TargetEndianness_00_01MaxAlign_00_01false_01_4_01_4.html" title=" " alt="" coords="395,167,637,222"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="164,189,394,191,394,196,164,194"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1object_1_1Elf__Dyn__Base.html" title=" " alt="" coords="419,250,612,321"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="111,219,140,242,174,260,235,277,299,287,362,291,419,291,419,296,362,296,299,292,234,283,172,265,137,246,108,224"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1object_1_1Elf__Dyn__Base_3_01ELFType_3_01TargetEndianness_00_01MaxAlign_00_01true_01_4_01_4.html" title=" " alt="" coords="395,344,637,400"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="92,224,104,254,122,286,145,316,174,340,226,364,282,378,340,384,394,384,394,389,339,389,282,383,224,369,171,344,141,319,118,289,100,256,87,226"/>
+</map>

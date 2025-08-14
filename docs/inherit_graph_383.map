@@ -1,0 +1,23 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$structllvm_1_1detail_1_1DenseSetEmpty.html" title=" " alt="" coords="5,308,194,333"/>
+<area shape="rect" id="Node000001" href="$classllvm_1_1detail_1_1DenseSetPair.html" title=" " alt="" coords="278,5,452,46"/>
+<area shape="poly" id="edge658_Node000000_Node000001" title=" " alt="" coords="105,292,122,241,149,178,188,113,212,83,240,57,277,37,279,42,243,61,216,86,192,116,154,180,127,243,110,293"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1detail_1_1DenseSetPair.html" title=" " alt="" coords="278,71,452,111"/>
+<area shape="poly" id="edge659_Node000000_Node000002" title=" " alt="" coords="110,292,130,254,159,208,196,162,240,122,276,104,279,109,243,127,200,165,163,211,135,256,115,294"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1detail_1_1DenseSetPair.html" title=" " alt="" coords="278,136,452,177"/>
+<area shape="poly" id="edge660_Node000000_Node000003" title=" " alt="" coords="119,293,170,240,204,211,240,187,276,172,279,177,243,192,207,216,174,244,123,297"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1detail_1_1DenseSetPair.html" title=" " alt="" coords="278,201,452,242"/>
+<area shape="poly" id="edge661_Node000000_Node000004" title=" " alt="" coords="139,298,241,253,279,240,281,245,243,257,141,303"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1detail_1_1DenseSetPair.html" title=" " alt="" coords="278,267,452,307"/>
+<area shape="poly" id="edge662_Node000000_Node000005" title=" " alt="" coords="209,304,278,295,278,301,209,309"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1detail_1_1DenseSetPair.html" title=" " alt="" coords="242,332,488,373"/>
+<area shape="poly" id="edge663_Node000000_Node000006" title=" " alt="" coords="210,331,241,335,241,340,209,336"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1detail_1_1DenseSetPair.html" title=" " alt="" coords="278,397,452,438"/>
+<area shape="poly" id="edge664_Node000000_Node000007" title=" " alt="" coords="141,338,243,382,281,394,280,399,241,387,139,343"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1detail_1_1DenseSetPair.html" title=" " alt="" coords="278,463,452,503"/>
+<area shape="poly" id="edge665_Node000000_Node000008" title=" " alt="" coords="123,343,174,396,207,424,243,447,279,463,277,468,240,452,204,428,171,400,119,347"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1detail_1_1DenseSetPair.html" title=" " alt="" coords="278,528,452,569"/>
+<area shape="poly" id="edge666_Node000000_Node000009" title=" " alt="" coords="115,346,135,384,163,429,200,474,243,513,279,530,276,535,240,517,196,478,159,432,130,386,111,348"/>
+<area shape="rect" id="Node000010" href="$classllvm_1_1detail_1_1DenseSetPair.html" title=" " alt="" coords="278,593,452,634"/>
+<area shape="poly" id="edge667_Node000000_Node000010" title=" " alt="" coords="111,347,127,397,154,460,192,524,216,553,243,578,279,597,277,602,240,583,212,557,188,527,149,462,122,399,105,349"/>
+</map>

@@ -1,0 +1,22 @@
+<map id="llvm::objcarc::ObjCARCAliasAnalysis" name="llvm::objcarc::ObjCARCAliasAnalysis">
+<area shape="rect" id="Node000001" title="This is a simple alias analysis implementation that uses knowledge of ARC constructs to answer querie..." alt="" coords="266,424,457,464"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1ImmutablePass.html" title=" " alt="" coords="5,155,150,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="59,195,47,214,37,235,34,256,40,276,61,305,85,330,144,370,207,400,268,421,267,426,205,405,141,375,82,334,56,308,35,279,29,257,32,233,42,211,55,192"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1TargetLibraryInfo.html" title=" " alt="" coords="194,252,345,278"/>
+<area shape="poly" id="edge7_Node000007_Node000002" title=" " alt="" coords="117,186,246,249,244,254,115,191"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1ModulePass.html" title=" " alt="" coords="15,80,140,106"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="80,121,80,155,75,155,75,121"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1Pass.html" title=" " alt="" coords="36,5,119,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="80,46,80,80,75,80,75,46"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1AliasAnalysis.html" title=" " alt="" coords="295,349,428,374"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="364,390,364,424,359,424,359,390"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1DataLayout.html" title="A parsed version of the target data layout string in and methods for querying it." alt="" coords="49,252,170,278"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="157,281,330,346,328,351,155,286"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="293,287,352,346,348,350,290,290"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="369,155,415,181"/>
+<area shape="poly" id="edge11_Node000001_Node000008" title=" " alt="" coords="431,182,478,209,501,228,520,250,531,270,537,287,537,305,529,326,506,359,476,387,443,409,411,425,409,421,440,404,473,382,502,356,524,323,532,304,532,288,526,272,515,254,497,232,475,214,428,187"/>
+<area shape="poly" id="edge9_Node000005_Node000008" title=" " alt="" coords="390,197,366,349,361,348,385,196"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="366,193,287,254,284,249,363,189"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="438,252,506,278"/>
+<area shape="poly" id="edge10_Node000005_Node000009" title=" " alt="" coords="450,290,409,327,379,350,376,346,405,323,447,286"/>
+</map>

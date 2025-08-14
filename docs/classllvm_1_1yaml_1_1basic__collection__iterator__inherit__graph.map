@@ -1,0 +1,9 @@
+<map id="llvm::yaml::basic_collection_iterator&lt; BaseT, ValueT &gt;" name="llvm::yaml::basic_collection_iterator&lt; BaseT, ValueT &gt;">
+<area shape="rect" id="Node000001" title="This is an iterator abstraction over YAML collections shared by both sequences and maps." alt="" coords="203,49,385,90"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1yaml_1_1basic__collection__iterator.html" title=" " alt="" coords="639,5,863,61"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="400,58,638,39,639,45,401,63"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1yaml_1_1basic__collection__iterator.html" title=" " alt="" coords="641,85,861,126"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="401,84,410,86,529,95,640,100,640,106,528,100,409,91,400,90"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,41,154,97"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="169,66,203,66,203,72,169,72"/>
+</map>

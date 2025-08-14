@@ -1,0 +1,9 @@
+<map id="llvm::object::dos_header" name="llvm::object::dos_header">
+<area shape="rect" id="Node000001" title="The DOS compatible header at the front of all PE/COFF executables." alt="" coords="381,285,544,310"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="64,27,111,53"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,31,176,26,237,27,300,39,330,51,358,67,384,91,406,119,423,149,437,181,454,241,462,284,457,285,449,242,432,183,418,152,401,122,380,94,355,72,328,56,299,44,236,33,176,32,126,36"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,270,170,325"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="185,295,381,295,381,300,185,300"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,350,170,405"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="184,358,356,323,414,308,415,313,357,328,185,363"/>
+</map>

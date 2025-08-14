@@ -1,0 +1,23 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classllvm_1_1ilist__half__node.html" title=" " alt="" coords="5,426,156,467"/>
+<area shape="rect" id="Node000001" href="$classllvm_1_1ilist__node.html" title=" " alt="" coords="204,426,369,467"/>
+<area shape="poly" id="edge1905_Node000000_Node000001" title=" " alt="" coords="172,444,203,444,203,450,172,450"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1SymbolRewriter_1_1RewriteDescriptor.html" title=" " alt="" coords="417,426,563,467"/>
+<area shape="poly" id="edge1906_Node000001_Node000002" title=" " alt="" coords="385,444,417,444,417,450,385,450"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1SymbolRewriter_1_1ExplicitRewriteDescriptor.html" title=" " alt="" coords="633,5,829,91"/>
+<area shape="poly" id="edge1907_Node000002_Node000003" title=" " alt="" coords="492,411,502,346,523,265,538,221,557,178,581,138,609,101,631,83,634,87,613,105,585,141,562,181,543,223,528,266,507,347,497,412"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1SymbolRewriter_1_1ExplicitRewriteDescriptor.html" title=" " alt="" coords="611,115,851,200"/>
+<area shape="poly" id="edge1908_Node000002_Node000004" title=" " alt="" coords="499,411,514,367,538,314,569,259,609,210,623,199,627,203,613,214,573,262,542,316,519,369,504,413"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1SymbolRewriter_1_1ExplicitRewriteDescriptor.html" title=" " alt="" coords="622,224,840,310"/>
+<area shape="poly" id="edge1909_Node000002_Node000005" title=" " alt="" coords="515,412,557,366,610,319,627,308,630,312,613,324,561,369,519,416"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1SymbolRewriter_1_1PatternRewriteDescriptor.html" title=" " alt="" coords="637,334,825,434"/>
+<area shape="poly" id="edge1910_Node000002_Node000006" title=" " alt="" coords="578,421,636,406,637,411,579,427"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1SymbolRewriter_1_1PatternRewriteDescriptor.html" title=" " alt="" coords="611,459,851,560"/>
+<area shape="poly" id="edge1911_Node000002_Node000007" title=" " alt="" coords="579,467,611,476,610,481,578,472"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1SymbolRewriter_1_1PatternRewriteDescriptor.html" title=" " alt="" coords="626,584,836,685"/>
+<area shape="poly" id="edge1912_Node000002_Node000008" title=" " alt="" coords="519,477,561,524,613,570,630,582,627,586,610,574,557,527,515,481"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1SymbolRewriter_1_1ExplicitRewriteDescriptor.html" title=" " alt="" coords="642,710,820,765"/>
+<area shape="poly" id="edge1913_Node000002_Node000009" title=" " alt="" coords="502,482,516,530,538,587,570,645,590,672,613,695,643,715,640,719,610,700,586,675,566,648,533,589,511,532,497,483"/>
+<area shape="rect" id="Node000010" href="$classllvm_1_1SymbolRewriter_1_1PatternRewriteDescriptor.html" title=" " alt="" coords="627,790,835,845"/>
+<area shape="poly" id="edge1914_Node000002_Node000010" title=" " alt="" coords="497,482,507,545,527,624,542,665,561,705,585,742,613,776,628,788,625,792,609,779,580,746,556,707,537,667,522,625,501,546,492,483"/>
+</map>

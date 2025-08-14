@@ -1,0 +1,7 @@
+<map id="llvm::GCOVEdge" name="llvm::GCOVEdge">
+<area shape="rect" id="Node000001" title="GCOVEdge &#45; Collects edge information." alt="" coords="67,122,189,148"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1GCOVBlock.html" title="GCOVBlock &#45; Collects block information." alt="" coords="5,5,131,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="84,44,124,121,119,123,79,46"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="154,5,222,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="177,46,137,123,132,121,172,44"/>
+</map>

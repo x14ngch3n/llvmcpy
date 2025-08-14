@@ -1,0 +1,11 @@
+<map id="llvm::COFFYAML::Relocation" name="llvm::COFFYAML::Relocation">
+<area shape="rect" id="Node000001" title=" " alt="" coords="66,199,260,224"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,102,73,128"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="48,141,55,158,67,173,85,186,107,196,104,201,83,191,63,177,51,161,43,144"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="129,102,197,128"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="166,143,166,198,160,198,160,143"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1StringRef.html" title=" " alt="" coords="221,102,329,128"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="251,140,179,200,176,196,248,136"/>
+<area shape="rect" id="Node000005" href="$classsize__t.html" title=" " alt="" coords="247,5,303,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="278,46,278,101,272,101,272,46"/>
+</map>

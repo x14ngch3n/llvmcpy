@@ -1,0 +1,9 @@
+<map id="llvm::object::coff_aux_bf_and_ef_symbol" name="llvm::object::coff_aux_bf_and_ef_symbol">
+<area shape="rect" id="Node000001" title=" " alt="" coords="359,80,521,121"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="64,22,111,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,37,221,50,335,70,366,77,364,82,334,75,220,55,125,42"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,73,170,128"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="185,98,358,98,358,103,185,103"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,153,170,208"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="184,159,334,126,363,119,364,124,335,131,185,164"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="llvm::TypeBuilder&lt; void *, false &gt;" name="llvm::TypeBuilder&lt; void *, false &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="518,27,648,68"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1TypeBuilder.html" title=" " alt="" coords="313,60,469,101"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="484,62,518,56,518,61,485,67"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1TypeBuilder.html" title=" " alt="" coords="5,26,158,66"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="173,30,182,29,273,25,365,27,518,38,518,43,364,32,273,31,182,34,174,35"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="161,68,182,72,248,79,312,81,312,86,248,84,181,77,160,73"/>
+</map>

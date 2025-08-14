@@ -1,0 +1,17 @@
+<map id="SmallBitVector.h" name="SmallBitVector.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="353,5,471,31"/>
+<area shape="rect" id="Node000002" href="$DAGCombiner_8cpp.html" title=" " alt="" coords="5,79,136,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="339,37,129,81,128,76,338,32"/>
+<area shape="rect" id="Node000003" href="$DependenceAnalysis_8h.html" title=" " alt="" coords="160,79,315,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="369,40,268,81,266,76,367,35"/>
+<area shape="rect" id="Node000006" href="$DwarfExpression_8cpp.html" title=" " alt="" coords="339,79,485,105"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="414,46,414,79,409,79,409,46"/>
+<area shape="rect" id="Node000007" href="$LoopStrengthReduce_8cpp.html" title=" " alt="" coords="509,79,677,105"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="458,35,563,76,561,81,456,40"/>
+<area shape="rect" id="Node000008" href="$X86ISelLowering_8cpp.html" title=" " alt="" coords="701,79,845,105"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="487,32,712,76,711,81,486,37"/>
+<area shape="rect" id="Node000004" href="$DependenceAnalysis_8cpp.html" title=" " alt="" coords="68,153,238,178"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="213,117,169,154,165,150,210,113"/>
+<area shape="rect" id="Node000005" href="$LoopSimplify_8cpp.html" title=" " alt="" coords="262,153,381,178"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="264,113,309,150,305,154,261,117"/>
+</map>

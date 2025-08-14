@@ -1,0 +1,38 @@
+<map id="llvm::cl::parser&lt; DataType &gt;" name="llvm::cl::parser&lt; DataType &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="2351,123,2538,149"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1cl_1_1generic__parser__base.html" title=" " alt="" coords="2057,94,2248,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="2264,115,2350,124,2350,129,2263,120"/>
+<area shape="rect" id="Node000003" href="$classbool.html" title=" " alt="" coords="1768,94,1813,119"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1829,104,2056,104,2056,109,1829,109"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1SmallVector.html" title=" " alt="" coords="2049,144,2256,184"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="2271,154,2326,150,2351,147,2352,152,2327,155,2271,160"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1SmallVectorImpl.html" title=" " alt="" coords="1691,144,1890,184"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="1906,161,2049,161,2049,166,1906,166"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1SmallVectorTemplateBase.html" title=" " alt="" coords="1119,73,1306,159"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="1322,112,1485,116,1577,122,1667,132,1713,140,1712,146,1667,137,1576,127,1485,121,1322,117"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1SmallVectorTemplateCommon.html" title=" " alt="" coords="712,5,889,61"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="905,21,998,22,1048,29,1096,40,1128,53,1157,70,1154,75,1125,58,1094,45,1047,34,998,28,905,26"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1SmallVectorBase.html" title="This is all the non&#45;templated stuff common to all SmallVectors." alt="" coords="177,84,331,110"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="314,77,380,63,468,50,556,42,711,33,711,38,556,47,468,56,381,68,315,82"/>
+<area shape="rect" id="Node000010" href="$classllvm_1_1SmallVectorTemplateCommon.html" title=" " alt="" coords="380,77,558,118"/>
+<area shape="poly" id="edge10_Node000010_Node000008" title=" " alt="" coords="347,94,380,94,380,100,347,100"/>
+<area shape="rect" id="Node000012" href="$classllvm_1_1SmallVectorTemplateCommon.html" title=" " alt="" coords="380,152,558,192"/>
+<area shape="poly" id="edge13_Node000012_Node000008" title=" " alt="" coords="308,113,409,148,407,153,306,118"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="5,84,60,110"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="75,94,176,94,176,100,75,100"/>
+<area shape="poly" id="edge9_Node000007_Node000010" title=" " alt="" coords="573,104,630,102,687,93,724,78,758,59,761,64,727,83,688,98,630,107,573,109"/>
+<area shape="rect" id="Node000011" href="$classllvm_1_1SmallVectorTemplateBase.html" title=" " alt="" coords="712,152,889,192"/>
+<area shape="poly" id="edge11_Node000006_Node000011" title=" " alt="" coords="904,155,1118,126,1119,131,905,160"/>
+<area shape="rect" id="Node000014" href="$classllvm_1_1SmallVectorTemplateBase.html" title=" " alt="" coords="1124,188,1301,244"/>
+<area shape="poly" id="edge17_Node000014_Node000011" title=" " alt="" coords="889,193,913,198,1022,209,1124,213,1123,219,1022,215,913,203,888,199"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="573,169,711,169,711,174,573,174"/>
+<area shape="poly" id="edge16_Node000014_Node000012" title=" " alt="" coords="573,184,712,201,903,217,1095,217,1124,217,1124,222,1095,222,903,222,711,206,572,189"/>
+<area shape="rect" id="Node000013" href="$classllvm_1_1SmallVectorImpl.html" title=" " alt="" coords="1356,167,1537,193"/>
+<area shape="poly" id="edge14_Node000005_Node000013" title=" " alt="" coords="1553,178,1667,175,1690,173,1691,179,1667,180,1553,184"/>
+<area shape="poly" id="edge15_Node000013_Node000014" title=" " alt="" coords="1316,197,1358,191,1359,196,1317,202"/>
+<area shape="rect" id="Node000016" href="$classllvm_1_1SmallVectorImpl.html" title=" " alt="" coords="1356,216,1537,242"/>
+<area shape="poly" id="edge20_Node000016_Node000014" title=" " alt="" coords="1317,219,1355,221,1355,227,1317,224"/>
+<area shape="rect" id="Node000015" href="$classllvm_1_1SmallVector.html" title=" " alt="" coords="1724,209,1857,250"/>
+<area shape="poly" id="edge18_Node000004_Node000015" title=" " alt="" coords="1872,227,1947,222,2025,210,2067,198,2106,182,2108,187,2068,203,2026,215,1947,227,1872,232"/>
+<area shape="poly" id="edge19_Node000015_Node000016" title=" " alt="" coords="1553,226,1724,226,1724,232,1553,232"/>
+</map>

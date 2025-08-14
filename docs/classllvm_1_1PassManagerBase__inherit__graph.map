@@ -1,0 +1,7 @@
+<map id="llvm::PassManagerBase" name="llvm::PassManagerBase">
+<area shape="rect" id="Node000001" title=" " alt="" coords="115,5,278,31"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1legacy_1_1FunctionPassManager.html" title="FunctionPassManager manages FunctionPasses and BasicBlockPassManagers." alt="" coords="5,79,185,120"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,43,122,81,118,77,168,38"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1legacy_1_1PassManager.html" title="PassManager manages ModulePassManagers." alt="" coords="209,86,389,112"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="226,39,285,84,282,88,222,43"/>
+</map>

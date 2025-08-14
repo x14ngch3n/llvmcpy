@@ -1,0 +1,17 @@
+<map id="llvm::object::ELFObjectFile&lt; ELFT &gt;" name="llvm::object::ELFObjectFile&lt; ELFT &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="210,424,389,464"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1object_1_1ELFObjectFileBase.html" title=" " alt="" coords="5,327,215,353"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="147,358,264,421,262,426,144,363"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1object_1_1ObjectFile.html" title=" " alt="" coords="32,252,188,278"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="113,293,113,327,107,327,107,293"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1object_1_1SymbolicFile.html" title=" " alt="" coords="24,177,196,203"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="113,218,113,252,107,252,107,218"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1object_1_1Binary.html" title=" " alt="" coords="43,102,177,128"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="113,143,113,177,107,177,107,143"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1MemoryBufferRef.html" title=" " alt="" coords="32,5,188,31"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="113,46,113,101,107,101,107,46"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="238,327,360,353"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="302,368,302,423,297,423,297,368"/>
+<area shape="rect" id="Node000008" href="$classbool.html" title=" " alt="" coords="385,327,430,353"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="386,365,322,425,318,421,382,361"/>
+</map>

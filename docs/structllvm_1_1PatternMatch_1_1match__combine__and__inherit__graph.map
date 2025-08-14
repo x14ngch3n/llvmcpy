@@ -1,0 +1,11 @@
+<map id="llvm::PatternMatch::match_combine_and&lt; LTy, RTy &gt;" name="llvm::PatternMatch::match_combine_and&lt; LTy, RTy &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,177,155,232"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1PatternMatch_1_1match__combine__and.html" title=" " alt="" coords="393,12,567,82"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,162,137,125,177,94,230,71,286,56,341,48,392,44,392,49,342,53,287,62,232,76,180,99,141,129,110,165"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1PatternMatch_1_1match__combine__and.html" title=" " alt="" coords="397,107,562,193"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="170,188,178,187,397,158,397,163,179,192,171,194"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1PatternMatch_1_1match__combine__and.html" title=" " alt="" coords="386,216,574,302"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="136,238,179,256,231,266,285,271,385,268,385,274,285,276,231,271,178,261,134,243"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1PatternMatch_1_1match__combine__and.html" title=" " alt="" coords="393,326,567,411"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="101,245,133,297,154,321,180,340,231,362,286,374,341,378,392,377,392,382,341,383,285,379,230,367,177,345,151,325,128,300,96,247"/>
+</map>

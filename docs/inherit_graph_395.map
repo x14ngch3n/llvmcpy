@@ -1,0 +1,23 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classllvm_1_1DiagnosticInfo.html" title="This is the base abstract class for diagnostic reporting in the backend. The print method must be ove..." alt="" coords="5,145,143,171"/>
+<area shape="rect" id="Node000001" href="$classllvm_1_1BitcodeDiagnosticInfo.html" title=" " alt="" coords="220,5,402,31"/>
+<area shape="poly" id="edge787_Node000000_Node000001" title=" " alt="" coords="92,131,133,84,160,61,189,41,219,29,221,34,192,46,163,65,137,88,96,134"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1DiagnosticInfoDebugMetadataVersion.html" title=" " alt="" coords="223,55,398,96"/>
+<area shape="poly" id="edge788_Node000000_Node000002" title=" " alt="" coords="115,136,190,105,224,94,226,99,192,110,117,141"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1DiagnosticInfoInlineAsm.html" title=" " alt="" coords="213,120,408,146"/>
+<area shape="poly" id="edge789_Node000000_Node000003" title=" " alt="" coords="158,147,212,141,213,146,159,152"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1DiagnosticInfoOptimizationBase.html" title="Common features for diagnostics dealing with optimization remarks." alt="" coords="191,169,431,195"/>
+<area shape="poly" id="edge790_Node000000_Node000004" title=" " alt="" coords="158,164,191,167,190,173,158,169"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1DiagnosticInfoSampleProfile.html" title="Diagnostic information for the sample profiler." alt="" coords="220,219,402,260"/>
+<area shape="poly" id="edge795_Node000000_Node000009" title=" " alt="" coords="118,175,192,205,227,216,225,221,190,210,116,180"/>
+<area shape="rect" id="Node000010" href="$classllvm_1_1DiagnosticInfoStackSize.html" title=" " alt="" coords="212,284,410,310"/>
+<area shape="poly" id="edge796_Node000000_Node000010" title=" " alt="" coords="96,182,137,227,163,250,192,269,220,281,218,286,189,274,160,254,133,231,92,185"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1DiagnosticInfoOptimizationFailure.html" title="Diagnostic information for optimization failures." alt="" coords="479,64,689,105"/>
+<area shape="poly" id="edge791_Node000004_Node000005" title=" " alt="" coords="416,162,430,156,444,147,453,137,463,126,478,116,505,103,507,108,480,120,467,130,457,141,447,151,432,161,418,166"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1DiagnosticInfoOptimizationRemark.html" title="Diagnostic information for applied optimization remarks." alt="" coords="479,130,689,170"/>
+<area shape="poly" id="edge792_Node000004_Node000006" title=" " alt="" coords="441,164,478,160,479,165,442,170"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1DiagnosticInfoOptimizationRemarkAnalysis.html" title="Diagnostic information for optimization analysis remarks." alt="" coords="479,195,689,236"/>
+<area shape="poly" id="edge793_Node000004_Node000007" title=" " alt="" coords="437,195,479,200,478,205,436,200"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1DiagnosticInfoOptimizationRemarkMissed.html" title="Diagnostic information for missed&#45;optimization remarks." alt="" coords="479,260,689,301"/>
+<area shape="poly" id="edge794_Node000004_Node000008" title=" " alt="" coords="415,198,432,205,447,215,457,225,467,235,480,245,507,257,505,262,478,250,463,239,453,229,444,219,430,210,413,203"/>
+</map>

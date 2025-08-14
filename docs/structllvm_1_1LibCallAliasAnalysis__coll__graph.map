@@ -1,0 +1,26 @@
+<map id="llvm::LibCallAliasAnalysis" name="llvm::LibCallAliasAnalysis">
+<area shape="rect" id="Node000001" title="LibCallAliasAnalysis &#45; Alias analysis driven from LibCallInfo." alt="" coords="455,470,628,495"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1FunctionPass.html" title=" " alt="" coords="5,130,139,156"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="72,171,69,240,69,387,72,400,80,412,109,432,154,448,210,460,337,474,455,479,455,484,336,480,209,466,153,453,107,437,76,415,67,402,64,387,64,239,67,171"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1Pass.html" title=" " alt="" coords="49,5,132,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="89,47,76,130,71,129,84,46"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1ModulePass.html" title=" " alt="" coords="113,80,239,106"/>
+<area shape="poly" id="edge8_Node000008_Node000003" title=" " alt="" coords="118,39,164,78,160,82,115,43"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1AliasAnalysis.html" title=" " alt="" coords="312,373,445,399"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="414,404,522,467,519,471,411,409"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1DataLayout.html" title="A parsed version of the target data layout string in and methods for querying it." alt="" coords="438,276,559,302"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="493,318,484,335,471,351,451,365,430,375,427,370,449,360,468,347,479,332,488,316"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1TargetLibraryInfo.html" title=" " alt="" coords="104,276,254,302"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="204,310,229,329,257,347,289,360,321,370,320,375,287,365,254,351,226,334,201,315"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1ImmutablePass.html" title=" " alt="" coords="105,180,250,205"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="180,221,181,276,176,276,175,221"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="179,121,180,179,175,179,174,121"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="278,180,324,205"/>
+<area shape="poly" id="edge12_Node000001_Node000009" title=" " alt="" coords="340,190,394,193,459,205,491,216,522,230,550,250,573,275,586,300,591,327,591,355,586,383,569,434,551,470,546,468,564,432,581,382,586,355,586,327,581,301,568,278,546,254,519,235,489,221,457,210,394,198,340,195"/>
+<area shape="poly" id="edge10_Node000004_Node000009" title=" " alt="" coords="303,221,306,260,316,301,341,341,368,371,364,374,336,344,312,303,301,260,298,221"/>
+<area shape="poly" id="edge9_Node000006_Node000009" title=" " alt="" coords="275,217,196,278,193,274,272,213"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="348,276,415,302"/>
+<area shape="poly" id="edge11_Node000004_Node000010" title=" " alt="" coords="383,317,382,372,376,372,378,317"/>
+<area shape="rect" id="Node000011" href="$classllvm_1_1LibCallInfo.html" title=" " alt="" coords="633,373,748,399"/>
+<area shape="poly" id="edge13_Node000001_Node000011" title=" " alt="" coords="667,411,616,448,571,472,568,467,613,443,664,407"/>
+</map>

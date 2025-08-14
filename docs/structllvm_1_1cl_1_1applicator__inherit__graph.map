@@ -1,0 +1,19 @@
+<map id="llvm::cl::applicator&lt; Mod &gt;" name="llvm::cl::applicator&lt; Mod &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,245,133,285"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1cl_1_1applicator_3_01FormattingFlags_01_4.html" title=" " alt="" coords="356,15,496,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="73,229,83,191,98,149,122,107,155,72,203,46,255,32,308,26,356,26,356,31,308,31,256,37,205,51,158,77,126,110,103,151,88,193,78,230"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1cl_1_1applicator_3_01MiscFlags_01_4.html" title=" " alt="" coords="362,81,490,121"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="84,230,113,186,133,164,155,147,206,123,261,108,314,100,362,97,362,102,315,105,262,113,208,128,158,151,136,168,117,189,89,233"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1cl_1_1applicator_3_01NumOccurrencesFlag_01_4.html" title=" " alt="" coords="340,146,512,187"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="111,234,156,212,249,186,339,171,340,177,251,191,158,217,114,239"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1cl_1_1applicator_3_01OptionHidden_01_4.html" title=" " alt="" coords="362,211,490,252"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="148,255,361,235,362,240,148,260"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1cl_1_1applicator_3_01ValueExpected_01_4.html" title=" " alt="" coords="360,277,492,317"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="149,280,157,281,264,291,359,294,359,300,263,296,156,287,148,286"/>
+<area shape="rect" id="Node000007" href="$structllvm_1_1cl_1_1applicator_3_01char_0fn_0e_4.html" title=" " alt="" coords="362,342,490,383"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="108,293,132,309,158,322,210,338,264,349,362,359,362,364,263,354,209,343,156,327,129,313,105,297"/>
+<area shape="rect" id="Node000008" href="$structllvm_1_1cl_1_1applicator_3_01const_01char_01_5_01_4.html" title=" " alt="" coords="362,407,490,448"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="88,298,116,344,135,367,158,384,208,408,262,421,314,427,362,429,362,434,314,433,261,426,206,413,155,389,132,370,112,348,83,301"/>
+<area shape="rect" id="Node000009" href="$structllvm_1_1cl_1_1applicator_3_01const_01char_0fn_0e_4.html" title=" " alt="" coords="362,473,490,513"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="78,300,87,338,102,381,126,423,158,457,181,471,206,482,260,496,313,500,362,499,362,504,313,505,259,501,205,487,179,476,155,461,121,426,98,383,82,339,73,301"/>
+</map>

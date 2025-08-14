@@ -1,0 +1,35 @@
+<map id="MCTargetAsmParser.h" name="MCTargetAsmParser.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1242,5,1396,31"/>
+<area shape="rect" id="Node000002" href="$AArch64AsmParser_8cpp.html" title=" " alt="" coords="5,79,166,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1226,25,775,42,478,59,178,82,166,83,166,77,177,76,478,54,775,37,1226,19"/>
+<area shape="rect" id="Node000003" href="$AMDGPUAsmParser_8cpp.html" title=" " alt="" coords="190,79,360,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1227,26,853,46,613,62,371,82,360,83,360,77,371,76,613,57,852,41,1226,21"/>
+<area shape="rect" id="Node000004" href="$ARMAsmParser_8cpp.html" title=" " alt="" coords="383,79,524,105"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1227,27,920,48,536,82,525,83,524,78,536,76,920,42,1227,22"/>
+<area shape="rect" id="Node000005" href="$AsmParser_8cpp.html" title=" " alt="" coords="548,79,658,105"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1227,28,975,49,670,82,659,83,658,78,669,76,975,43,1226,23"/>
+<area shape="rect" id="Node000006" href="$AsmPrinterInlineAsm_8cpp.html" title=" " alt="" coords="682,79,852,105"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1228,34,852,82,852,77,1227,29"/>
+<area shape="rect" id="Node000007" href="$COFFAsmParser_8cpp.html" title=" " alt="" coords="875,79,1021,105"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1241,37,1012,81,1011,76,1240,32"/>
+<area shape="rect" id="Node000008" href="$IRObjectFile_8cpp.html" title=" " alt="" coords="1046,79,1165,105"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="1269,39,1143,81,1141,76,1268,34"/>
+<area shape="rect" id="Node000009" href="$LTOModule_8cpp.html" title=" " alt="" coords="1189,79,1302,105"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="1298,44,1260,80,1256,77,1294,40"/>
+<area shape="rect" id="Node000010" href="$MCAsmParser_8cpp.html" title=" " alt="" coords="1326,79,1458,105"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="1344,40,1382,77,1378,80,1340,44"/>
+<area shape="rect" id="Node000011" href="$MCTargetAsmParser_8cpp.html" title=" " alt="" coords="1482,79,1649,105"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="1376,33,1524,76,1523,81,1375,38"/>
+<area shape="rect" id="Node000012" href="$MipsAsmParser_8cpp.html" title=" " alt="" coords="1674,79,1812,105"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="1406,31,1674,76,1673,81,1406,37"/>
+<area shape="rect" id="Node000013" href="$PPCAsmParser_8cpp.html" title=" " alt="" coords="1836,79,1975,105"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="1411,27,1824,76,1836,78,1836,83,1824,82,1411,32"/>
+<area shape="rect" id="Node000014" href="$SparcAsmParser_8cpp.html" title=" " alt="" coords="1999,79,2143,105"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="1411,24,1671,45,1987,76,1998,78,1998,83,1987,82,1670,50,1411,29"/>
+<area shape="rect" id="Node000015" href="$SystemZAsmParser_8cpp.html" title=" " alt="" coords="2166,79,2330,105"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="1411,22,1740,43,2155,76,2167,78,2166,83,2155,82,1739,48,1411,27"/>
+<area shape="rect" id="Node000016" href="$X86AsmInstrumentation_8cpp.html" title=" " alt="" coords="2354,79,2540,105"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="1411,21,1815,41,2077,57,2342,76,2353,77,2353,83,2341,82,2077,62,1815,46,1411,26"/>
+<area shape="rect" id="Node000017" href="$X86AsmParser_8cpp.html" title=" " alt="" coords="2564,79,2698,105"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="1411,18,1899,33,2223,50,2552,76,2564,78,2563,83,2552,82,2223,56,1899,39,1411,24"/>
+</map>

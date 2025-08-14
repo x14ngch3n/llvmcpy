@@ -1,0 +1,14 @@
+<map id="llvm::SectionEntry" name="llvm::SectionEntry">
+<area shape="rect" id="Node000001" title=" " alt="" coords="168,219,296,245"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1StringRef.html" title=" " alt="" coords="70,102,178,128"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="142,139,162,166,186,193,215,216,212,221,182,197,158,169,138,142"/>
+<area shape="rect" id="Node000003" href="$classsize__t.html" title=" " alt="" coords="5,5,62,31"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="25,46,18,86,19,107,26,126,54,160,90,185,129,204,168,216,167,221,128,208,87,190,50,164,21,129,14,108,12,86,20,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="57,40,114,100,111,103,53,44"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="202,102,262,128"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="235,143,235,219,230,219,230,143"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="286,102,354,128"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="317,144,307,170,292,197,277,210,261,221,258,216,274,206,287,193,303,168,312,142"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="399,102,468,128"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="431,144,421,172,402,197,384,207,358,214,297,226,296,220,357,209,382,202,398,193,416,169,426,142"/>
+</map>

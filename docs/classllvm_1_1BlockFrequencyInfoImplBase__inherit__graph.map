@@ -1,0 +1,11 @@
+<map id="llvm::BlockFrequencyInfoImplBase" name="llvm::BlockFrequencyInfoImplBase">
+<area shape="rect" id="Node000001" title="Base class for BlockFrequencyInfoImpl." alt="" coords="5,47,175,87"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1BlockFrequencyInfoImpl.html" title=" " alt="" coords="596,5,766,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,40,224,32,319,17,393,10,468,9,564,12,596,14,596,20,564,18,468,14,394,15,319,23,224,38,186,45"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1BlockFrequencyInfoImpl.html" title=" " alt="" coords="588,87,774,127"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="183,89,224,96,321,107,418,111,588,110,588,115,418,117,320,112,224,102,182,94"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1BlockFrequencyInfoImpl.html" title="Shared implementation for block frequency analysis." alt="" coords="224,47,393,87"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="190,64,224,64,224,70,190,70"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="408,53,596,32,596,38,409,59"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="409,87,418,89,505,98,588,103,588,108,505,103,417,94,408,93"/>
+</map>

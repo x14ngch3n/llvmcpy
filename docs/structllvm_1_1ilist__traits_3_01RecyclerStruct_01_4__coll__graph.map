@@ -1,0 +1,36 @@
+<map id="llvm::ilist_traits&lt; RecyclerStruct &gt;" name="llvm::ilist_traits&lt; RecyclerStruct &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="987,181,1120,222"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1ilist__default__traits.html" title=" " alt="" coords="652,101,820,142"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="808,144,988,190,986,195,806,150"/>
+<area shape="poly" id="edge12_Node000001_Node000002" title=" " alt="" coords="836,136,998,178,997,183,835,141"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1ilist__nextprev__traits.html" title=" " alt="" coords="317,8,485,49"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="500,50,629,86,670,98,669,103,627,91,498,56"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1ilist__nextprev__traits.html" title=" " alt="" coords="12,8,143,49"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="158,26,316,26,316,31,158,31"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1ilist__sentinel__traits.html" title=" " alt="" coords="317,73,485,114"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="501,99,652,112,651,117,500,105"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1ilist__sentinel__traits.html" title=" " alt="" coords="14,73,141,114"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="156,91,316,91,316,96,156,96"/>
+<area shape="rect" id="Node000007" href="$structllvm_1_1ilist__node__traits.html" title=" " alt="" coords="329,139,473,179"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="488,147,652,128,652,134,489,152"/>
+<area shape="rect" id="Node000008" href="$structllvm_1_1ilist__node__traits.html" title=" " alt="" coords="5,139,150,179"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="165,156,329,156,329,162,165,162"/>
+<area shape="rect" id="Node000009" href="$structllvm_1_1ilist__default__traits.html" title=" " alt="" coords="338,211,464,251"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="479,219,553,202,591,189,627,173,638,163,650,151,672,140,674,145,654,156,642,167,629,178,593,194,554,207,480,224"/>
+<area shape="rect" id="Node000010" href="$structllvm_1_1ilist__nextprev__traits.html" title=" " alt="" coords="12,211,143,251"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="158,220,174,219,293,219,338,222,337,227,293,224,174,224,158,225"/>
+<area shape="rect" id="Node000015" href="$structllvm_1_1ilist__default__traits.html" title=" " alt="" coords="338,283,464,323"/>
+<area shape="poly" id="edge17_Node000015_Node000010" title=" " alt="" coords="158,246,338,286,337,292,157,251"/>
+<area shape="rect" id="Node000011" href="$structllvm_1_1ilist__sentinel__traits.html" title=" " alt="" coords="14,280,141,321"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="155,281,337,242,338,247,156,286"/>
+<area shape="poly" id="edge18_Node000015_Node000011" title=" " alt="" coords="156,298,337,300,337,305,156,304"/>
+<area shape="rect" id="Node000012" href="$structllvm_1_1ilist__node__traits.html" title=" " alt="" coords="5,345,150,386"/>
+<area shape="poly" id="edge11_Node000009_Node000012" title=" " alt="" coords="151,337,292,281,315,269,355,249,357,254,318,273,294,285,153,342"/>
+<area shape="poly" id="edge19_Node000015_Node000012" title=" " alt="" coords="165,364,228,360,292,348,328,337,361,322,363,326,330,341,293,354,229,365,166,369"/>
+<area shape="rect" id="Node000013" href="$structllvm_1_1RecyclerStruct.html" title=" " alt="" coords="666,233,806,258"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="822,231,987,208,988,213,822,237"/>
+<area shape="poly" id="edge14_Node000013_Node000013" title=" " alt="" coords="705,215,716,209,736,206,755,208,767,215,770,224,765,234,760,231,765,224,763,218,754,213,736,211,718,214,708,220"/>
+<area shape="rect" id="Node000014" href="$structllvm_1_1ilist__traits.html" title=" " alt="" coords="682,283,791,323"/>
+<area shape="poly" id="edge15_Node000001_Node000014" title=" " alt="" coords="806,293,882,280,962,256,995,239,1024,220,1027,225,998,244,964,260,883,285,806,299"/>
+<area shape="poly" id="edge16_Node000014_Node000015" title=" " alt="" coords="480,300,681,300,681,306,480,306"/>
+</map>

@@ -1,0 +1,34 @@
+<map id="MachO.h" name="MachO.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="326,5,400,31"/>
+<area shape="rect" id="Node000002" href="$MachOObjectFile_8cpp.html" title=" " alt="" coords="5,79,153,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="311,35,128,81,127,76,310,30"/>
+<area shape="rect" id="Node000003" href="$MachOUniversal_8cpp.html" title=" " alt="" coords="85,153,228,178"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="312,35,263,53,217,81,199,98,184,118,164,153,159,151,180,115,195,95,213,77,261,48,310,30"/>
+<area shape="rect" id="Node000004" href="$MachOUniversal_8h.html" title=" " alt="" coords="228,79,357,105"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="343,44,306,80,302,77,339,40"/>
+<area shape="rect" id="Node000006" href="$ObjectFile_8cpp.html" title=" " alt="" coords="381,79,486,105"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="387,40,424,77,420,80,383,44"/>
+<area shape="rect" id="Node000007" href="$RuntimeDyldMachO_8h.html" title=" " alt="" coords="545,79,696,105"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="416,31,577,76,576,81,414,36"/>
+<area shape="rect" id="Node000014" href="$X86MachORelocationInfo_8cpp.html" title=" " alt="" coords="720,79,915,105"/>
+<area shape="poly" id="edge18_Node000001_Node000014" title=" " alt="" coords="416,25,740,76,740,81,415,30"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="257,115,181,154,178,150,255,110"/>
+<area shape="rect" id="Node000005" href="$Binary_8cpp.html" title=" " alt="" coords="252,153,333,178"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="295,120,295,152,290,152,290,120"/>
+<area shape="rect" id="Node000008" href="$RuntimeDyld_8cpp.html" title=" " alt="" coords="356,153,479,178"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="572,113,453,155,451,150,571,108"/>
+<area shape="rect" id="Node000009" href="$RuntimeDyldMachO_8cpp.html" title=" " alt="" coords="786,226,950,252"/>
+<area shape="poly" id="edge9_Node000007_Node000009" title=" " alt="" coords="583,115,562,129,546,145,538,161,539,169,544,177,559,189,581,199,643,215,716,226,786,232,786,237,715,231,642,221,580,204,556,193,540,180,534,170,533,160,541,142,559,125,580,110"/>
+<area shape="rect" id="Node000010" href="$RuntimeDyldMachOAArch64_8h.html" title=" " alt="" coords="554,153,754,178"/>
+<area shape="poly" id="edge10_Node000007_Node000010" title=" " alt="" coords="635,117,650,151,646,153,630,120"/>
+<area shape="rect" id="Node000011" href="$RuntimeDyldMachOARM_8h.html" title=" " alt="" coords="778,153,958,178"/>
+<area shape="poly" id="edge12_Node000007_Node000011" title=" " alt="" coords="678,107,827,149,825,155,676,112"/>
+<area shape="rect" id="Node000012" href="$RuntimeDyldMachOI386_8h.html" title=" " alt="" coords="982,153,1157,178"/>
+<area shape="poly" id="edge14_Node000007_Node000012" title=" " alt="" coords="711,105,993,149,992,155,711,110"/>
+<area shape="rect" id="Node000013" href="$RuntimeDyldMachOX86__64_8h.html" title=" " alt="" coords="1182,153,1376,178"/>
+<area shape="poly" id="edge16_Node000007_Node000013" title=" " alt="" coords="711,102,1170,150,1182,151,1181,157,1169,155,711,108"/>
+<area shape="poly" id="edge11_Node000010_Node000009" title=" " alt="" coords="705,181,833,223,831,228,703,186"/>
+<area shape="poly" id="edge13_Node000011_Node000009" title=" " alt="" coords="871,194,871,226,866,226,866,194"/>
+<area shape="poly" id="edge15_Node000012_Node000009" title=" " alt="" coords="1022,186,904,228,902,223,1020,181"/>
+<area shape="poly" id="edge17_Node000013_Node000009" title=" " alt="" coords="1194,184,939,228,938,223,1193,179"/>
+</map>

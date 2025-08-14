@@ -1,0 +1,9 @@
+<map id="llvm::SSAUpdaterTraits&lt; T &gt;" name="llvm::SSAUpdaterTraits&lt; T &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,78,197,104"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1SSAUpdaterTraits.html" title=" " alt="" coords="403,5,562,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="169,71,220,60,402,32,402,38,221,66,170,77"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1SSAUpdaterTraits_3_01MachineSSAUpdater_01_4.html" title=" " alt="" coords="399,71,566,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="212,88,399,88,399,94,212,94"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1SSAUpdaterTraits_3_01SSAUpdater_01_4.html" title=" " alt="" coords="403,136,562,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="169,105,221,117,402,144,402,150,220,122,168,111"/>
+</map>

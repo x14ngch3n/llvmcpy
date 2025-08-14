@@ -1,0 +1,23 @@
+<map id="llvm::RegionNodeBase&lt; Tr &gt;" name="llvm::RegionNodeBase&lt; Tr &gt;">
+<area shape="rect" id="Node000001" title="A RegionNode represents a subregion or a BasicBlock that is part of a Region." alt="" coords="5,98,161,138"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1RegionBase.html" title="A single entry single exit Region." alt="" coords="479,105,639,131"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="176,116,478,116,478,121,176,121"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1RegionNodeBase.html" title=" " alt="" coords="438,31,680,72"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="175,98,184,97,437,63,438,68,185,102,176,104"/>
+<area shape="rect" id="Node000009" href="$classllvm_1_1RegionNodeBase.html" title=" " alt="" coords="462,171,656,212"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="169,140,185,144,330,167,462,181,462,187,330,172,184,149,167,145"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1RegionBase.html" title=" " alt="" coords="957,66,1146,106"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="654,109,956,90,957,95,655,115"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1RegionBase.html" title=" " alt="" coords="963,135,1140,176"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="655,129,704,135,840,144,963,150,963,155,840,150,704,140,654,134"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1MachineRegion.html" title=" " alt="" coords="1196,73,1339,99"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1161,84,1195,84,1195,89,1161,89"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1Region.html" title=" " alt="" coords="1220,143,1314,168"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="1156,153,1220,153,1220,158,1156,158"/>
+<area shape="poly" id="edge7_Node000007_Node000003" title=" " alt="" coords="696,53,933,68,957,70,957,75,933,73,696,58"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1MachineRegionNode.html" title=" " alt="" coords="964,5,1139,31"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="695,35,704,34,964,19,964,24,704,39,696,40"/>
+<area shape="poly" id="edge10_Node000009_Node000005" title=" " alt="" coords="671,186,797,180,933,170,962,167,963,172,933,175,797,186,671,191"/>
+<area shape="rect" id="Node000010" href="$classllvm_1_1RegionNode.html" title=" " alt="" coords="989,212,1114,238"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="671,201,704,204,988,220,988,225,704,209,671,206"/>
+</map>

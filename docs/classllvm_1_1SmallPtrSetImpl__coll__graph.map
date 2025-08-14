@@ -1,0 +1,9 @@
+<map id="llvm::SmallPtrSetImpl&lt; PtrType &gt;" name="llvm::SmallPtrSetImpl&lt; PtrType &gt;">
+<area shape="rect" id="Node000001" title="A templated base class for SmallPtrSet which provides the typesafe interface that is common across al..." alt="" coords="32,218,180,258"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1SmallPtrSetImplBase.html" title=" " alt="" coords="17,143,196,168"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,184,109,218,104,218,104,184"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,5,101,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="52,46,52,82,55,100,62,117,72,130,85,140,82,144,68,134,57,120,50,102,47,82,46,46"/>
+<area shape="rect" id="Node000004" href="$classunsigned.html" title=" " alt="" coords="124,5,198,31"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="158,47,149,82,134,120,119,144,114,141,129,117,144,80,153,45"/>
+</map>

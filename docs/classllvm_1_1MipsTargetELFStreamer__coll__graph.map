@@ -1,0 +1,28 @@
+<map id="llvm::MipsTargetELFStreamer" name="llvm::MipsTargetELFStreamer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="335,413,530,439"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1MipsTargetStreamer.html" title=" " alt="" coords="347,338,518,364"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="435,379,435,413,430,413,430,379"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1MCTargetStreamer.html" title=" " alt="" coords="5,162,169,187"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="102,200,140,258,167,288,199,312,224,322,261,330,347,341,346,346,260,335,223,327,196,317,163,292,136,262,97,203"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1MCStreamer.html" title=" " alt="" coords="23,5,151,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="90,46,90,161,84,161,84,46"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1MipsABIFlagsSection.html" title=" " alt="" coords="343,162,522,187"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="435,203,435,338,430,338,430,203"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="315,5,382,31"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="356,45,367,80,384,117,401,140,420,159,416,163,397,144,379,120,362,82,351,47"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="514,5,574,31"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="535,47,516,88,497,120,474,144,451,163,448,159,471,141,493,117,511,86,530,44"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="598,5,680,31"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="640,47,633,84,624,104,611,121,474,164,473,158,608,116,620,101,628,83,635,45"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="707,5,774,31"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="743,47,735,85,726,105,713,121,697,129,677,135,626,140,575,142,535,145,469,164,467,159,535,140,574,136,626,135,676,129,695,124,709,117,722,102,730,84,737,46"/>
+<area shape="rect" id="Node000010" href="$classbool.html" title=" " alt="" coords="216,5,262,31"/>
+<area shape="poly" id="edge11_Node000002_Node000010" title=" " alt="" coords="235,47,230,80,228,121,233,164,246,205,261,229,279,250,322,287,367,316,405,335,402,340,364,320,319,292,276,254,257,232,242,207,227,166,223,121,225,80,230,46"/>
+<area shape="poly" id="edge9_Node000005_Node000010" title=" " alt="" coords="246,46,257,83,266,101,279,117,317,143,359,159,357,164,314,147,275,121,262,104,252,85,240,47"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="406,5,490,31"/>
+<area shape="poly" id="edge10_Node000005_Node000011" title=" " alt="" coords="448,47,436,161,431,161,443,46"/>
+<area shape="rect" id="Node000012" href="$classunsigned.html" title=" " alt="" coords="546,162,620,187"/>
+<area shape="poly" id="edge12_Node000002_Node000012" title=" " alt="" coords="581,203,567,267,558,296,546,316,528,330,507,340,505,335,525,326,542,313,553,294,562,265,576,202"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="673,162,712,187"/>
+<area shape="poly" id="edge13_Node000002_Node000013" title=" " alt="" coords="698,203,697,230,693,261,683,291,665,316,640,330,604,339,518,349,517,344,603,334,639,325,661,312,679,288,688,259,692,230,692,203"/>
+</map>

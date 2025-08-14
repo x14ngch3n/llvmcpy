@@ -1,0 +1,5 @@
+<map id="llvm::PatternMatch::specific_intval" name="llvm::PatternMatch::specific_intval">
+<area shape="rect" id="Node000001" title="Match a specified integer value or vector of all elements of that." alt="" coords="5,102,137,143"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="37,5,105,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="74,46,74,102,68,102,68,46"/>
+</map>

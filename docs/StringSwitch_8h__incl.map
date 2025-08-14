@@ -1,0 +1,19 @@
+<map id="StringSwitch.h" name="StringSwitch.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="56,5,163,31"/>
+<area shape="rect" id="Node000002" href="$StringRef_8h.html" title=" " alt="" coords="147,79,293,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,29,190,68,187,73,127,34"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,153,70,178"/>
+<area shape="poly" id="edge8_Node000001_Node000004" title=" " alt="" coords="106,33,53,140,48,137,101,30"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="94,153,154,178"/>
+<area shape="poly" id="edge9_Node000001_Node000005" title=" " alt="" coords="113,31,124,137,119,138,108,32"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="334,153,408,178"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="247,103,333,143,330,148,245,108"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="190,108,84,149,82,144,188,103"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="205,107,154,146,151,141,202,103"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="433,153,485,178"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="261,103,419,149,417,155,260,108"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="179,153,232,178"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="220,105,214,138,208,137,215,104"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="257,153,309,178"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="233,103,264,139,260,142,229,107"/>
+</map>

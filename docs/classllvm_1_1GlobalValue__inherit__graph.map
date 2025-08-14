@@ -1,0 +1,17 @@
+<map id="llvm::GlobalValue" name="llvm::GlobalValue">
+<area shape="rect" id="Node000001" title=" " alt="" coords="77,226,200,252"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1GlobalAlias.html" title=" " alt="" coords="5,300,125,326"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="117,265,79,301,76,298,113,261"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1GlobalObject.html" title=" " alt="" coords="149,300,277,326"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="164,261,202,298,199,302,160,265"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1Constant.html" title="LLVM Constant Representation." alt="" coords="85,153,192,178"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="141,194,141,226,136,226,136,194"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1User.html" title=" " alt="" coords="98,79,179,105"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="141,120,141,152,136,152,136,120"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1Value.html" title="LLVM Value Representation." alt="" coords="96,5,181,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="141,46,141,79,136,79,136,46"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1Function.html" title=" " alt="" coords="89,374,193,399"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="192,338,155,375,151,371,188,335"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1GlobalVariable.html" title=" " alt="" coords="217,374,353,399"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="238,335,275,371,271,375,234,338"/>
+</map>

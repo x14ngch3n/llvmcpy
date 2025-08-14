@@ -1,0 +1,18 @@
+<map id="ManagedStatic.h" name="ManagedStatic.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="214,5,334,31"/>
+<area shape="rect" id="Node000002" href="$Atomic_8h.html" title=" " alt="" coords="16,79,167,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="244,34,138,75,136,71,242,29"/>
+<area shape="rect" id="Node000004" href="$Threading_8h.html" title=" " alt="" coords="191,79,357,105"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="277,31,277,63,272,63,272,31"/>
+<area shape="rect" id="Node000005" href="$Valgrind_8h.html" title=" " alt="" coords="382,79,537,105"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="307,29,415,71,413,75,305,34"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,153,178,178"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="94,105,94,137,89,137,89,105"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="318,226,484,252"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="427,107,395,126,381,139,370,154,366,168,368,183,383,213,378,215,363,185,361,168,365,152,377,135,392,122,425,103"/>
+<area shape="rect" id="Node000007" href="$Compiler_8h.html" title=" " alt="" coords="379,153,540,178"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="462,105,462,137,457,137,457,105"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="564,153,632,178"/>
+<area shape="poly" id="edge8_Node000005_Node000008" title=" " alt="" coords="484,103,562,143,560,147,482,108"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="452,180,422,216,418,213,448,177"/>
+</map>

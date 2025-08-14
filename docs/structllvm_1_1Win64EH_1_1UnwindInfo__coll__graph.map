@@ -1,0 +1,12 @@
+<map id="llvm::Win64EH::UnwindInfo" name="llvm::Win64EH::UnwindInfo">
+<area shape="rect" id="Node000001" title="UnwindInfo &#45; An entry in the exception table." alt="" coords="5,307,189,333"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="84,20,144,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,62,99,104,91,153,88,194,91,236,98,307,93,307,85,237,83,194,85,152,94,103,104,60"/>
+<area shape="rect" id="Node000003" href="$unionllvm_1_1Win64EH_1_1UnwindCode.html" title=" " alt="" coords="253,182,445,207"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="134,57,164,92,202,126,257,157,311,178,309,183,255,162,199,131,160,96,130,60"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="312,217,123,309,121,304,310,212"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="282,20,381,46"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="337,61,350,181,345,181,332,62"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="406,5,570,61"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="456,75,361,183,357,179,452,71"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="llvm::AMDGPURegisterInfo" name="llvm::AMDGPURegisterInfo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="147,177,330,203"/>
+<area shape="rect" id="Node000002" href="$classAMDGPUGenRegisterInfo.html" title=" " alt="" coords="5,80,181,106"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,112,221,174,218,179,123,117"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="205,80,272,106"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="241,121,241,176,236,176,236,121"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1AMDGPUSubtarget.html" title=" " alt="" coords="296,80,464,106"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="373,122,363,139,349,155,328,169,304,179,302,174,325,164,346,151,359,136,368,119"/>
+<area shape="rect" id="Node000005" href="$classAMDGPUGenSubtargetInfo.html" title=" " alt="" coords="288,5,471,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="382,46,382,80,377,80,377,46"/>
+</map>

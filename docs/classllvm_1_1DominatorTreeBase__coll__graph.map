@@ -1,0 +1,33 @@
+<map id="llvm::DominatorTreeBase&lt; NodeT &gt;" name="llvm::DominatorTreeBase&lt; NodeT &gt;">
+<area shape="rect" id="Node000001" title="Core dominator tree base class." alt="" coords="1013,244,1182,284"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1DominatorBase.html" title="Base class that other, more interesting dominator analyses inherit from." alt="" coords="689,66,832,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="848,90,920,104,956,117,990,134,1022,158,1049,187,1087,242,1082,245,1045,191,1018,162,987,138,954,122,918,109,847,95"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="257,23,386,49"/>
+<area shape="poly" id="edge14_Node000001_Node000003" title=" " alt="" coords="402,27,497,23,613,24,740,32,865,52,932,66,959,77,990,98,1025,133,1054,172,1090,242,1085,245,1049,175,1021,136,987,102,957,82,930,71,864,57,739,37,613,29,497,29,402,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="402,48,442,54,573,69,689,79,688,84,572,74,441,59,401,53"/>
+<area shape="rect" id="Node000004" href="$classbool.html" title=" " alt="" coords="299,103,344,129"/>
+<area shape="poly" id="edge9_Node000001_Node000004" title=" " alt="" coords="360,117,675,155,858,183,933,198,990,212,1058,241,1056,246,988,217,932,203,857,188,675,161,359,123"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="360,115,481,115,632,107,688,99,689,104,633,112,481,120,360,120"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1DenseMap.html" title=" " alt="" coords="677,203,844,259"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="859,238,1012,253,1012,258,859,243"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1DenseMapBase.html" title=" " alt="" coords="236,182,407,237"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="423,212,676,224,676,229,422,217"/>
+<area shape="rect" id="Node000007" href="$classllvm_1_1DenseMap.html" title=" " alt="" coords="226,328,417,368"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="391,320,441,304,494,293,536,287,579,281,632,270,678,257,680,262,633,275,579,287,537,292,495,298,442,309,392,325"/>
+<area shape="rect" id="Node000011" href="$classllvm_1_1DenseMap.html" title=" " alt="" coords="677,462,844,503"/>
+<area shape="poly" id="edge13_Node000011_Node000007" title=" " alt="" coords="375,374,442,403,564,440,677,465,676,470,563,445,440,408,373,378"/>
+<area shape="rect" id="Node000013" href="$classllvm_1_1DenseMap.html" title=" " alt="" coords="667,383,854,439"/>
+<area shape="poly" id="edge17_Node000013_Node000007" title=" " alt="" coords="433,352,531,360,633,375,667,382,666,387,632,380,530,366,433,357"/>
+<area shape="rect" id="Node000008" href="$classllvm_1_1DenseMapBase.html" title=" " alt="" coords="5,320,177,376"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="193,345,225,345,225,351,193,351"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="656,283,865,309"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="880,293,988,284,1012,281,1013,286,989,290,880,298"/>
+<area shape="rect" id="Node000010" href="$classunsigned.html" title=" " alt="" coords="724,333,797,358"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="812,344,896,339,942,332,988,321,1029,303,1065,283,1067,287,1031,308,990,326,944,337,896,344,813,349"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="859,473,925,457,957,444,987,426,1022,394,1051,355,1072,316,1086,284,1091,286,1077,318,1055,358,1026,397,990,431,960,448,927,462,860,478"/>
+<area shape="rect" id="Node000012" href="$classllvm_1_1DenseMapBase.html" title=" " alt="" coords="236,498,407,553"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="422,513,676,488,677,494,423,518"/>
+<area shape="poly" id="edge15_Node000001_Node000013" title=" " alt="" coords="868,402,929,390,987,367,1016,349,1041,327,1079,283,1083,287,1045,331,1019,353,990,372,931,395,870,407"/>
+<area shape="rect" id="Node000014" href="$classllvm_1_1DenseMapBase.html" title=" " alt="" coords="236,418,407,473"/>
+<area shape="poly" id="edge16_Node000013_Node000014" title=" " alt="" coords="423,438,632,424,666,421,667,426,633,429,423,444"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$structllvm_1_1ilist__nextprev__traits.html" title=" " alt="" coords="5,5,212,46"/>
+<area shape="rect" id="Node000001" href="$structllvm_1_1ilist__default__traits.html" title=" " alt="" coords="260,71,466,111"/>
+<area shape="poly" id="edge1978_Node000000_Node000001" title=" " alt="" coords="206,48,282,67,280,73,205,53"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1ilist__traits.html" title=" " alt="" coords="514,71,684,111"/>
+<area shape="poly" id="edge1979_Node000001_Node000002" title=" " alt="" coords="482,88,514,88,514,94,482,94"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1ilist__node__traits.html" title=" " alt="" coords="23,71,194,111"/>
+<area shape="poly" id="edge1980_Node000003_Node000001" title=" " alt="" coords="209,88,259,88,259,94,209,94"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1ilist__sentinel__traits.html" title=" " alt="" coords="5,136,212,177"/>
+<area shape="poly" id="edge1981_Node000004_Node000001" title=" " alt="" coords="205,129,280,109,282,115,206,134"/>
+</map>

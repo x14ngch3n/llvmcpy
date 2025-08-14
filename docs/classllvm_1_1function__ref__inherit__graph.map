@@ -1,0 +1,11 @@
+<map id="llvm::function_ref&lt; Fn &gt;" name="llvm::function_ref&lt; Fn &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,104,127,145"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1function__ref_3_01Ret_07_08_4.html" title=" " alt="" coords="353,5,474,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,93,150,71,202,54,256,42,352,28,353,33,257,47,203,60,152,76,110,98"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1function__ref_3_01Ret_07Param1_08_4.html" title=" " alt="" coords="353,71,474,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="142,114,353,94,353,99,142,120"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1function__ref_3_01Ret_07Param1_00_01Param2_08_4.html" title=" " alt="" coords="330,136,498,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="142,139,151,141,243,150,329,153,329,159,243,155,150,146,142,145"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1function__ref_3_01Ret_07Param1_00_01Param2_00_01Param3_08_4.html" title=" " alt="" coords="334,202,494,258"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="94,155,120,181,152,201,197,217,244,227,334,232,333,238,243,232,195,222,149,206,117,185,91,159"/>
+</map>

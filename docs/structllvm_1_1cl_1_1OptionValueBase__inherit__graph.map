@@ -1,0 +1,17 @@
+<map id="llvm::cl::OptionValueBase&lt; DataType, isClass &gt;" name="llvm::cl::OptionValueBase&lt; DataType, isClass &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="241,130,412,170"/>
+<area shape="rect" id="Node000003" href="$structllvm_1_1cl_1_1OptionValue_3_01cl_1_1boolOrDefault_01_4.html" title=" " alt="" coords="1142,47,1286,88"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="352,116,389,81,411,66,435,54,531,26,630,10,730,3,829,5,922,12,1007,22,1142,47,1141,52,1007,27,921,17,828,10,731,9,631,15,532,31,437,59,414,70,392,85,356,120"/>
+<area shape="rect" id="Node000004" href="$structllvm_1_1cl_1_1OptionValue_3_01std_1_1string_01_4.html" title=" " alt="" coords="1143,128,1285,169"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="428,148,602,150,1118,147,1143,147,1143,152,1118,153,602,155,428,154"/>
+<area shape="rect" id="Node000005" href="$structllvm_1_1cl_1_1OptionValueBase.html" title=" " alt="" coords="602,85,774,140"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="428,137,602,119,603,124,428,142"/>
+<area shape="rect" id="Node000007" href="$structllvm_1_1cl_1_1OptionValueBase_3_01DataType_00_01false_01_4.html" title=" " alt="" coords="602,215,774,256"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="366,178,399,200,437,217,478,228,521,234,602,238,602,243,520,239,477,233,435,222,397,204,363,182"/>
+<area shape="rect" id="Node000002" href="$structllvm_1_1cl_1_1GenericOptionValue.html" title=" " alt="" coords="5,137,192,163"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="207,147,240,147,240,153,207,153"/>
+<area shape="rect" id="Node000006" href="$structllvm_1_1cl_1_1OptionValue.html" title=" " alt="" coords="823,92,964,133"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="789,110,823,110,823,115,789,115"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="979,98,1142,75,1142,80,980,103"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="980,129,989,130,1068,139,1143,144,1142,149,1068,144,988,135,979,134"/>
+</map>

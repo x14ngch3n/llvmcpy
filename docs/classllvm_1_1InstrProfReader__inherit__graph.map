@@ -1,0 +1,15 @@
+<map id="llvm::InstrProfReader" name="llvm::InstrProfReader">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,105,151,131"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1RawInstrProfReader.html" title=" " alt="" coords="517,21,690,61"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,92,144,56,170,39,199,26,240,15,282,8,366,3,447,8,517,18,516,24,446,13,366,8,282,13,241,20,201,31,173,44,147,61,104,96"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1RawInstrProfReader.html" title=" " alt="" coords="517,107,690,148"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="147,132,200,141,284,146,369,145,517,135,517,141,369,151,284,151,200,146,146,138"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1IndexedInstrProfReader.html" title="Reader for the indexed binary instrprof format." alt="" coords="200,105,391,131"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="166,116,199,116,199,121,166,121"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1RawInstrProfReader.html" title=" " alt="" coords="210,41,382,81"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="143,98,215,79,216,84,145,104"/>
+<area shape="rect" id="Node000006" href="$classllvm_1_1TextInstrProfReader.html" title=" " alt="" coords="210,207,381,232"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="107,139,139,163,176,185,228,204,226,209,174,190,136,168,104,143"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="397,52,517,44,517,49,398,57"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="398,80,517,106,516,112,396,85"/>
+</map>

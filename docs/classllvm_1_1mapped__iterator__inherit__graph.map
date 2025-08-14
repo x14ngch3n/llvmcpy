@@ -1,0 +1,11 @@
+<map id="llvm::mapped_iterator&lt; RootIt, UnaryFunc &gt;" name="llvm::mapped_iterator&lt; RootIt, UnaryFunc &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,143,159,184"/>
+<area shape="rect" id="Node000002" href="$classllvm_1_1mapped__iterator.html" title=" " alt="" coords="394,16,540,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,131,145,106,182,85,235,66,291,54,393,42,393,48,292,59,237,72,184,90,148,110,117,135"/>
+<area shape="rect" id="Node000003" href="$classllvm_1_1mapped__iterator.html" title=" " alt="" coords="376,96,558,151"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="174,151,375,130,376,136,175,157"/>
+<area shape="rect" id="Node000004" href="$classllvm_1_1mapped__iterator.html" title=" " alt="" coords="394,176,540,231"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="143,187,183,199,238,206,293,209,393,207,393,213,293,215,237,212,182,204,141,192"/>
+<area shape="rect" id="Node000005" href="$classllvm_1_1mapped__iterator.html" title=" " alt="" coords="376,256,558,311"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="108,194,141,230,162,246,184,259,231,275,280,285,330,289,376,289,376,295,329,294,280,290,229,281,182,264,159,251,138,234,104,198"/>
+</map>

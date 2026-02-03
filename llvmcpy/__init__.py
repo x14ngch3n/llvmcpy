@@ -110,7 +110,10 @@ class LLVMCPy:
 
         libraries = []
         libdir_path = Path(self._run_llvm_config(["--libdir"]))
-        shared_mode = None
+        shared_mode = self._run_llvm_config(["--shared-mode"])
+        # Old LLVM versions do not have the --shared-mode option
+        if self.version == "3.6.2":
+            shared_mode = None
         if shared_mode == "shared":
             # The names returned by `libnames` are `.so`s that can be used
             for libname in self._run_llvm_config(["--libnames"]).split(" "):
